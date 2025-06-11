@@ -1,0 +1,505 @@
+Year,Month,Location,ReportedInstances
+2019,January,Gateshead,509
+2019,January,Newcastle,765
+2019,January,North Tyneside,526
+2019,January,Northumberland,505
+2019,January,South Tyneside,383
+2019,January,Sunderland,684
+2019,January,Unspecified,0
+2019,February,Gateshead,442
+2019,February,Newcastle,681
+2019,February,North Tyneside,433
+2019,February,Northumberland,454
+2019,February,South Tyneside,333
+2019,February,Sunderland,653
+2019,February,Unspecified,0
+2019,March,Gateshead,449
+2019,March,Newcastle,751
+2019,March,North Tyneside,500
+2019,March,Northumberland,499
+2019,March,South Tyneside,441
+2019,March,Sunderland,699
+2019,March,Unspecified,0
+2019,April,Gateshead,496
+2019,April,Newcastle,707
+2019,April,North Tyneside,432
+2019,April,Northumberland,523
+2019,April,South Tyneside,416
+2019,April,Sunderland,712
+2019,April,Unspecified,0
+2019,May,Gateshead,530
+2019,May,Newcastle,699
+2019,May,North Tyneside,460
+2019,May,Northumberland,567
+2019,May,South Tyneside,395
+2019,May,Sunderland,683
+2019,May,Unspecified,0
+2019,June,Gateshead,423
+2019,June,Newcastle,719
+2019,June,North Tyneside,476
+2019,June,Northumberland,514
+2019,June,South Tyneside,416
+2019,June,Sunderland,650
+2019,June,Unspecified,0
+2019,July,Gateshead,502
+2019,July,Newcastle,759
+2019,July,North Tyneside,459
+2019,July,Northumberland,562
+2019,July,South Tyneside,462
+2019,July,Sunderland,734
+2019,July,Unspecified,0
+2019,August,Gateshead,501
+2019,August,Newcastle,728
+2019,August,North Tyneside,473
+2019,August,Northumberland,572
+2019,August,South Tyneside,422
+2019,August,Sunderland,735
+2019,August,Unspecified,0
+2019,September,Gateshead,475
+2019,September,Newcastle,670
+2019,September,North Tyneside,449
+2019,September,Northumberland,493
+2019,September,South Tyneside,369
+2019,September,Sunderland,677
+2019,September,Unspecified,0
+2019,October,Gateshead,456
+2019,October,Newcastle,572
+2019,October,North Tyneside,462
+2019,October,Northumberland,525
+2019,October,South Tyneside,350
+2019,October,Sunderland,699
+2019,October,Unspecified,0
+2019,November,Gateshead,485
+2019,November,Newcastle,639
+2019,November,North Tyneside,395
+2019,November,Northumberland,526
+2019,November,South Tyneside,416
+2019,November,Sunderland,643
+2019,November,Unspecified,0
+2019,December,Gateshead,526
+2019,December,Newcastle,726
+2019,December,North Tyneside,469
+2019,December,Northumberland,603
+2019,December,South Tyneside,453
+2019,December,Sunderland,722
+2019,December,Unspecified,0
+2020,January,Gateshead,465
+2020,January,Newcastle,627
+2020,January,North Tyneside,414
+2020,January,Northumberland,529
+2020,January,South Tyneside,441
+2020,January,Sunderland,718
+2020,January,Unspecified,0
+2020,February,Gateshead,449
+2020,February,Newcastle,679
+2020,February,North Tyneside,412
+2020,February,Northumberland,514
+2020,February,South Tyneside,370
+2020,February,Sunderland,631
+2020,February,Unspecified,0
+2020,March,Gateshead,484
+2020,March,Newcastle,700
+2020,March,North Tyneside,425
+2020,March,Northumberland,508
+2020,March,South Tyneside,439
+2020,March,Sunderland,681
+2020,March,Unspecified,0
+2020,April,Gateshead,481
+2020,April,Newcastle,667
+2020,April,North Tyneside,447
+2020,April,Northumberland,530
+2020,April,South Tyneside,399
+2020,April,Sunderland,760
+2020,April,Unspecified,0
+2020,May,Gateshead,515
+2020,May,Newcastle,707
+2020,May,North Tyneside,481
+2020,May,Northumberland,610
+2020,May,South Tyneside,401
+2020,May,Sunderland,808
+2020,May,Unspecified,0
+2020,June,Gateshead,485
+2020,June,Newcastle,732
+2020,June,North Tyneside,497
+2020,June,Northumberland,628
+2020,June,South Tyneside,439
+2020,June,Sunderland,757
+2020,June,Unspecified,0
+2020,July,Gateshead,601
+2020,July,Newcastle,821
+2020,July,North Tyneside,515
+2020,July,Northumberland,711
+2020,July,South Tyneside,478
+2020,July,Sunderland,858
+2020,July,Unspecified,0
+2020,August,Gateshead,542
+2020,August,Newcastle,771
+2020,August,North Tyneside,536
+2020,August,Northumberland,685
+2020,August,South Tyneside,457
+2020,August,Sunderland,790
+2020,August,Unspecified,0
+2020,September,Gateshead,455
+2020,September,Newcastle,691
+2020,September,North Tyneside,440
+2020,September,Northumberland,585
+2020,September,South Tyneside,363
+2020,September,Sunderland,721
+2020,September,Unspecified,0
+2020,October,Gateshead,452
+2020,October,Newcastle,700
+2020,October,North Tyneside,414
+2020,October,Northumberland,567
+2020,October,South Tyneside,352
+2020,October,Sunderland,676
+2020,October,Unspecified,1
+2020,November,Gateshead,470
+2020,November,Newcastle,705
+2020,November,North Tyneside,395
+2020,November,Northumberland,524
+2020,November,South Tyneside,343
+2020,November,Sunderland,600
+2020,November,Unspecified,0
+2020,December,Gateshead,462
+2020,December,Newcastle,733
+2020,December,North Tyneside,493
+2020,December,Northumberland,514
+2020,December,South Tyneside,380
+2020,December,Sunderland,697
+2020,December,Unspecified,0
+2021,January,Gateshead,498
+2021,January,Newcastle,664
+2021,January,North Tyneside,411
+2021,January,Northumberland,542
+2021,January,South Tyneside,397
+2021,January,Sunderland,711
+2021,January,Unspecified,0
+2021,February,Gateshead,430
+2021,February,Newcastle,632
+2021,February,North Tyneside,381
+2021,February,Northumberland,509
+2021,February,South Tyneside,333
+2021,February,Sunderland,617
+2021,February,Unspecified,0
+2021,March,Gateshead,521
+2021,March,Newcastle,709
+2021,March,North Tyneside,404
+2021,March,Northumberland,536
+2021,March,South Tyneside,372
+2021,March,Sunderland,717
+2021,March,Unspecified,1
+2021,April,Gateshead,497
+2021,April,Newcastle,641
+2021,April,North Tyneside,462
+2021,April,Northumberland,571
+2021,April,South Tyneside,412
+2021,April,Sunderland,682
+2021,April,Unspecified,0
+2021,May,Gateshead,572
+2021,May,Newcastle,758
+2021,May,North Tyneside,513
+2021,May,Northumberland,634
+2021,May,South Tyneside,377
+2021,May,Sunderland,786
+2021,May,Unspecified,0
+2021,June,Gateshead,513
+2021,June,Newcastle,705
+2021,June,North Tyneside,489
+2021,June,Northumberland,616
+2021,June,South Tyneside,448
+2021,June,Sunderland,786
+2021,June,Unspecified,0
+2021,July,Gateshead,445
+2021,July,Newcastle,657
+2021,July,North Tyneside,436
+2021,July,Northumberland,558
+2021,July,South Tyneside,402
+2021,July,Sunderland,702
+2021,July,Unspecified,14
+2021,August,Gateshead,384
+2021,August,Newcastle,592
+2021,August,North Tyneside,414
+2021,August,Northumberland,523
+2021,August,South Tyneside,382
+2021,August,Sunderland,667
+2021,August,Unspecified,6
+2021,September,Gateshead,453
+2021,September,Newcastle,586
+2021,September,North Tyneside,361
+2021,September,Northumberland,445
+2021,September,South Tyneside,343
+2021,September,Sunderland,538
+2021,September,Unspecified,9
+2021,October,Gateshead,440
+2021,October,Newcastle,649
+2021,October,North Tyneside,338
+2021,October,Northumberland,484
+2021,October,South Tyneside,308
+2021,October,Sunderland,556
+2021,October,Unspecified,4
+2021,November,Gateshead,387
+2021,November,Newcastle,635
+2021,November,North Tyneside,370
+2021,November,Northumberland,432
+2021,November,South Tyneside,341
+2021,November,Sunderland,624
+2021,November,Unspecified,7
+2021,December,Gateshead,433
+2021,December,Newcastle,641
+2021,December,North Tyneside,404
+2021,December,Northumberland,497
+2021,December,South Tyneside,398
+2021,December,Sunderland,629
+2021,December,Unspecified,9
+2022,January,Gateshead,438
+2022,January,Newcastle,637
+2022,January,North Tyneside,363
+2022,January,Northumberland,522
+2022,January,South Tyneside,341
+2022,January,Sunderland,613
+2022,January,Unspecified,0
+2022,February,Gateshead,424
+2022,February,Newcastle,668
+2022,February,North Tyneside,333
+2022,February,Northumberland,491
+2022,February,South Tyneside,338
+2022,February,Sunderland,643
+2022,February,Unspecified,5
+2022,March,Gateshead,468
+2022,March,Newcastle,668
+2022,March,North Tyneside,376
+2022,March,Northumberland,538
+2022,March,South Tyneside,329
+2022,March,Sunderland,631
+2022,March,Unspecified,4
+2022,April,Gateshead,432
+2022,April,Newcastle,638
+2022,April,North Tyneside,350
+2022,April,Northumberland,618
+2022,April,South Tyneside,367
+2022,April,Sunderland,595
+2022,April,Unspecified,5
+2022,May,Gateshead,481
+2022,May,Newcastle,680
+2022,May,North Tyneside,369
+2022,May,Northumberland,607
+2022,May,South Tyneside,431
+2022,May,Sunderland,662
+2022,May,Unspecified,4
+2022,June,Gateshead,463
+2022,June,Newcastle,664
+2022,June,North Tyneside,373
+2022,June,Northumberland,572
+2022,June,South Tyneside,398
+2022,June,Sunderland,691
+2022,June,Unspecified,6
+2022,July,Gateshead,487
+2022,July,Newcastle,713
+2022,July,North Tyneside,406
+2022,July,Northumberland,610
+2022,July,South Tyneside,417
+2022,July,Sunderland,696
+2022,July,Unspecified,4
+2022,August,Gateshead,485
+2022,August,Newcastle,694
+2022,August,North Tyneside,431
+2022,August,Northumberland,597
+2022,August,South Tyneside,419
+2022,August,Sunderland,713
+2022,August,Unspecified,7
+2022,September,Gateshead,460
+2022,September,Newcastle,649
+2022,September,North Tyneside,406
+2022,September,Northumberland,495
+2022,September,South Tyneside,371
+2022,September,Sunderland,655
+2022,September,Unspecified,7
+2022,October,Gateshead,429
+2022,October,Newcastle,637
+2022,October,North Tyneside,441
+2022,October,Northumberland,549
+2022,October,South Tyneside,390
+2022,October,Sunderland,690
+2022,October,Unspecified,7
+2022,November,Gateshead,402
+2022,November,Newcastle,602
+2022,November,North Tyneside,407
+2022,November,Northumberland,508
+2022,November,South Tyneside,378
+2022,November,Sunderland,587
+2022,November,Unspecified,5
+2022,December,Gateshead,445
+2022,December,Newcastle,645
+2022,December,North Tyneside,392
+2022,December,Northumberland,491
+2022,December,South Tyneside,420
+2022,December,Sunderland,590
+2022,December,Unspecified,5
+2023,January,Gateshead,418
+2023,January,Newcastle,633
+2023,January,North Tyneside,419
+2023,January,Northumberland,539
+2023,January,South Tyneside,388
+2023,January,Sunderland,658
+2023,January,Unspecified,4
+2023,February,Gateshead,430
+2023,February,Newcastle,607
+2023,February,North Tyneside,392
+2023,February,Northumberland,522
+2023,February,South Tyneside,363
+2023,February,Sunderland,576
+2023,February,Unspecified,12
+2023,March,Gateshead,506
+2023,March,Newcastle,685
+2023,March,North Tyneside,352
+2023,March,Northumberland,548
+2023,March,South Tyneside,347
+2023,March,Sunderland,651
+2023,March,Unspecified,9
+2023,April,Gateshead,460
+2023,April,Newcastle,686
+2023,April,North Tyneside,425
+2023,April,Northumberland,527
+2023,April,South Tyneside,393
+2023,April,Sunderland,702
+2023,April,Unspecified,6
+2023,May,Gateshead,511
+2023,May,Newcastle,672
+2023,May,North Tyneside,426
+2023,May,Northumberland,558
+2023,May,South Tyneside,408
+2023,May,Sunderland,735
+2023,May,Unspecified,5
+2023,June,Gateshead,515
+2023,June,Newcastle,657
+2023,June,North Tyneside,440
+2023,June,Northumberland,571
+2023,June,South Tyneside,371
+2023,June,Sunderland,670
+2023,June,Unspecified,9
+2023,July,Gateshead,488
+2023,July,Newcastle,787
+2023,July,North Tyneside,441
+2023,July,Northumberland,585
+2023,July,South Tyneside,448
+2023,July,Sunderland,726
+2023,July,Unspecified,13
+2023,August,Gateshead,514
+2023,August,Newcastle,689
+2023,August,North Tyneside,428
+2023,August,Northumberland,596
+2023,August,South Tyneside,417
+2023,August,Sunderland,757
+2023,August,Unspecified,7
+2023,September,Gateshead,490
+2023,September,Newcastle,661
+2023,September,North Tyneside,394
+2023,September,Northumberland,555
+2023,September,South Tyneside,353
+2023,September,Sunderland,653
+2023,September,Unspecified,7
+2023,October,Gateshead,479
+2023,October,Newcastle,646
+2023,October,North Tyneside,419
+2023,October,Northumberland,550
+2023,October,South Tyneside,361
+2023,October,Sunderland,649
+2023,October,Unspecified,6
+2023,November,Gateshead,440
+2023,November,Newcastle,589
+2023,November,North Tyneside,411
+2023,November,Northumberland,588
+2023,November,South Tyneside,365
+2023,November,Sunderland,642
+2023,November,Unspecified,4
+2023,December,Gateshead,536
+2023,December,Newcastle,711
+2023,December,North Tyneside,384
+2023,December,Northumberland,552
+2023,December,South Tyneside,390
+2023,December,Sunderland,755
+2023,December,Unspecified,11
+2024,January,Gateshead,492
+2024,January,Newcastle,650
+2024,January,North Tyneside,461
+2024,January,Northumberland,559
+2024,January,South Tyneside,463
+2024,January,Sunderland,763
+2024,January,Unspecified,8
+2024,February,Gateshead,483
+2024,February,Newcastle,616
+2024,February,North Tyneside,363
+2024,February,Northumberland,519
+2024,February,South Tyneside,374
+2024,February,Sunderland,682
+2024,February,Unspecified,8
+2024,March,Gateshead,531
+2024,March,Newcastle,712
+2024,March,North Tyneside,467
+2024,March,Northumberland,515
+2024,March,South Tyneside,397
+2024,March,Sunderland,718
+2024,March,Unspecified,7
+2024,April,Gateshead,453
+2024,April,Newcastle,680
+2024,April,North Tyneside,420
+2024,April,Northumberland,537
+2024,April,South Tyneside,394
+2024,April,Sunderland,693
+2024,April,Unspecified,14
+2024,May,Gateshead,508
+2024,May,Newcastle,643
+2024,May,North Tyneside,456
+2024,May,Northumberland,553
+2024,May,South Tyneside,422
+2024,May,Sunderland,668
+2024,May,Unspecified,6
+2024,June,Gateshead,450
+2024,June,Newcastle,621
+2024,June,North Tyneside,363
+2024,June,Northumberland,526
+2024,June,South Tyneside,374
+2024,June,Sunderland,584
+2024,June,Unspecified,3
+2024,July,Gateshead,475
+2024,July,Newcastle,627
+2024,July,North Tyneside,429
+2024,July,Northumberland,541
+2024,July,South Tyneside,414
+2024,July,Sunderland,666
+2024,July,Unspecified,5
+2024,August,Gateshead,497
+2024,August,Newcastle,596
+2024,August,North Tyneside,418
+2024,August,Northumberland,591
+2024,August,South Tyneside,347
+2024,August,Sunderland,628
+2024,August,Unspecified,4
+2024,September,Gateshead,421
+2024,September,Newcastle,599
+2024,September,North Tyneside,366
+2024,September,Northumberland,553
+2024,September,South Tyneside,349
+2024,September,Sunderland,587
+2024,September,Unspecified,1
+2024,October,Gateshead,406
+2024,October,Newcastle,577
+2024,October,North Tyneside,427
+2024,October,Northumberland,522
+2024,October,South Tyneside,354
+2024,October,Sunderland,653
+2024,October,Unspecified,11
+2024,November,Gateshead,457
+2024,November,Newcastle,606
+2024,November,North Tyneside,377
+2024,November,Northumberland,478
+2024,November,South Tyneside,383
+2024,November,Sunderland,613
+2024,November,Unspecified,5
+2024,December,Gateshead,459
+2024,December,Newcastle,643
+2024,December,North Tyneside,403
+2024,December,Northumberland,527
+2024,December,South Tyneside,419
+2024,December,Sunderland,663
+2024,December,Unspecified,8

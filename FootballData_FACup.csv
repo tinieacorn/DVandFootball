@@ -1,0 +1,855 @@
+Season,DateofMatch,HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Winner,Location,Derby
+2018/2019,26/01/2019,Accrington,Derby,0,1,Derby,Accrington,FALSE
+2018/2019,05/01/2019,Accrington,Ipswich,1,0,Accrington,Accrington,FALSE
+2018/2019,10/11/2018,Accrington,Colchester,1,0,Accrington,Accrington,FALSE
+2019/2020,11/09/2019,Accrington,Crewe,0,2,Crewe,Accrington,FALSE
+2023/2024,14/11/2023,Accrington,Doncaster,1,2,Doncaster,Accrington,FALSE
+2022/2023,24/01/2023,Accrington,Boreham Wood,1,0,Accrington,Accrington,FALSE
+2018/2019,01/12/2018,Accrington,Cheltenham,3,1,Accrington,Accrington,FALSE
+2022/2023,26/11/2022,Accrington,Barnet,1,0,Accrington,Accrington,FALSE
+2022/2023,28/01/2023,Accrington,Leeds,1,3,Leeds,Accrington,FALSE
+2022/2023,05/11/2022,AFC Fylde,Gillingham,1,1,Draw,Fylde,FALSE
+2018/2019,26/01/2019,AFC Wimbledon,West Ham,4,2,AFC Wimbledon,London,FALSE
+2018/2019,16/02/2019,AFC Wimbledon,Millwall,0,1,Millwall,London,FALSE
+2019/2020,11/09/2019,AFC Wimbledon,Doncaster,1,1,Draw,London,FALSE
+2021/2022,04/12/2021,AFC Wimbledon,Cheltenham,4,3,AFC Wimbledon,London,FALSE
+2021/2022,06/11/2021,AFC Wimbledon,Guiseley,1,0,AFC Wimbledon,London,FALSE
+2023/2024,04/11/2023,AFC Wimbledon,Cheltenham,5,1,AFC Wimbledon,London,FALSE
+2023/2024,04/12/2023,AFC Wimbledon,Ramsgate,5,0,AFC Wimbledon,London,FALSE
+2023/2024,06/01/2024,AFC Wimbledon,Ipswich,1,3,Ipswich,London,FALSE
+2022/2023,15/11/2022,AFC Wimbledon,Weymouth,3,1,AFC Wimbledon,London,FALSE
+2022/2023,26/11/2022,AFC Wimbledon,Chesterfield,0,2,Chesterfield,London,FALSE
+2020/2021,29/11/2020,AFC Wimbledon,Crawley,1,2,Crawley,London,FALSE
+2018/2019,10/11/2018,Aldershot,Bradford City,1,1,Draw,Aldershot,FALSE
+2023/2024,03/12/2023,Aldershot,Stockport,2,2,Draw,Aldershot,FALSE
+2018/2019,11/11/2018,Alfreton,Fleetwood,1,4,Fleetwood,Alfreton,FALSE
+2023/2024,04/11/2023,Alfreton,Worthing,2,0,Alfreton,Alfreton,FALSE
+2023/2024,05/12/2023,Alfreton,Walsall,0,0,Draw,Alfreton,FALSE
+2021/2022,16/11/2021,Altrincham,Gateshead,2,3,Gateshead,Manchester,FALSE
+2019/2020,01/06/2020,Arsenal,Leeds,1,0,Arsenal,London,FALSE
+2019/2020,7/18/2020,Arsenal,Man City,2,0,Arsenal,London,FALSE
+2019/2020,08/01/2020,Arsenal,Chelsea,2,1,Arsenal,London,TRUE
+2020/2021,09/01/2021,Arsenal,Newcastle,2,0,Arsenal,London,FALSE
+2023/2024,07/01/2024,Arsenal,Liverpool,0,2,Liverpool,London,TRUE
+2018/2019,05/01/2019,Aston Villa,Swansea,0,3,Swansea,Birmingham,FALSE
+2020/2021,08/01/2021,Aston Villa,Liverpool,1,4,Liverpool,Birmingham,FALSE
+2022/2023,08/01/2023,Aston Villa,Stevenage,1,2,Stevenage,Birmingham,FALSE
+2023/2024,07/02/2024,Aston Villa,Chelsea,1,3,Chelsea,Birmingham,FALSE
+2020/2021,07/11/2020,Banbury,Canvey Island,1,2,Canvey Island,Banbury,FALSE
+2021/2022,06/11/2021,Banbury,Barrow,0,4,Barrow,Banbury,FALSE
+2018/2019,28/01/2019,Barnet,Brentford,3,3,Draw,London,FALSE
+2018/2019,11/11/2018,Barnet,Bristol Rovers,1,1,Draw,London,FALSE
+2019/2020,11/10/2019,Barnet,Fleetwood,0,2,Fleetwood,London,FALSE
+2020/2021,08/11/2020,Barnet,Burton,1,0,Barnet,London,FALSE
+2022/2023,05/11/2022,Barnet,Chelmsford,1,1,Draw,London,FALSE
+2023/2024,12/12/2023,Barnet,Newport,1,4,Newport,London,FALSE
+2018/2019,02/12/2018,Barnet,Stockport,1,0,Barnet,London,FALSE
+2020/2021,29/11/2020,Barnet,MK Dons,0,1,MK Dons,London,FALSE
+2020/2021,10/01/2021,Barnsley,Tranmere,2,0,Barnsley,Barnsley,FALSE
+2020/2021,11/02/2021,Barnsley,Chelsea,0,1,Chelsea,Barnsley,FALSE
+2021/2022,08/01/2022,Barnsley,Barrow,5,4,Barnsley,Barnsley,FALSE
+2023/2024,03/11/2023,Barnsley,Horsham FC,3,3,Draw,Barnsley,FALSE
+2018/2019,10/11/2018,Barnsley,Notts Co,4,0,Barnsley,Barnsley,FALSE
+2020/2021,23/01/2021,Barnsley,Norwich,1,0,Barnsley,Barnsley,FALSE
+2022/2023,26/11/2022,Barnsley,Crewe,3,0,Barnsley,Barnsley,FALSE
+2022/2023,05/11/2022,Barrow,Mansfield,0,1,Mansfield,Barrow-In-Furness,FALSE
+2021/2022,15/12/2021,Barrow,Ipswich,2,0,Barrow,Barrow-In-Furness,FALSE
+2020/2021,26/11/2020,Barrow,AFC Wimbledon,0,1,AFC Wimbledon,Barrow-In-Furness,FALSE
+2018/2019,20/11/2018,Billericay,Chesterfield,1,3,Chesterfield,Barrow-In-Furness,FALSE
+2019/2020,01/04/2020,Birmingham,Blackburn,2,1,Birmingham,Birmingham,FALSE
+2019/2020,02/04/2020,Birmingham,Coventry,3,2,Birmingham,Birmingham,FALSE
+2021/2022,08/01/2022,Birmingham,Plymouth,0,1,Plymouth,Birmingham,FALSE
+2023/2024,16/01/2024,Birmingham,Hull,2,1,Birmingham,Birmingham,FALSE
+2022/2023,31/01/2023,Birmingham,Blackburn,0,1,Blackburn,Birmingham,FALSE
+2018/2019,15/01/2019,Blackburn,Newcastle,2,4,Newcastle,Blackburn,FALSE
+2020/2021,09/01/2021,Blackburn,Doncaster,0,1,Doncaster,Blackburn,FALSE
+2023/2024,06/01/2024,Blackburn,Cambridge Utd,5,2,Blackburn,Blackburn,FALSE
+2023/2024,27/02/2024,Blackburn,Newcastle,1,2,Newcastle,Blackburn,FALSE
+2022/2023,28/01/2023,Blackburn,Birmingham,2,2,Draw,Blackburn,FALSE
+2023/2024,28/01/2024,Blackburn,Wrexham,4,1,Blackburn,Blackburn,FALSE
+2018/2019,18/12/2018,Blackpool,Solihull Moors,3,2,Blackpool,Blackpool,FALSE
+2018/2019,05/01/2019,Blackpool,Arsenal,0,3,Arsenal,Blackpool,FALSE
+2019/2020,11/09/2019,Blackpool,Morecambe,4,1,Blackpool,Blackpool,FALSE
+2019/2020,12/01/2019,Blackpool,Maidstone,3,1,Blackpool,Blackpool,FALSE
+2019/2020,1/14/2020,Blackpool,Reading,0,2,Reading,Blackpool,FALSE
+2020/2021,09/01/2021,Blackpool,West Brom,3,2,Blackpool,Blackpool,FALSE
+2022/2023,07/01/2023,Blackpool,Nottm Forest,4,1,Blackpool,Blackpool,FALSE
+2023/2024,17/01/2024,Blackpool,Nottm Forest,2,3,Nottm Forest,Blackpool,FALSE
+2023/2024,19/12/2023,Blackpool,Forest Green,3,0,Blackpool,Blackpool,FALSE
+2018/2019,05/01/2019,Bolton,Walsall,5,2,Bolton,Manchester,FALSE
+2019/2020,11/09/2019,Bolton,Plymouth,0,1,Plymouth,Manchester,FALSE
+2020/2021,07/11/2020,Bolton,Crewe,2,3,Crewe,Manchester,FALSE
+2021/2022,07/11/2021,Bolton,Stockport,2,2,Draw,Manchester,FALSE
+2022/2023,05/11/2022,Bolton,Barnsley,1,2,Barnsley,Manchester,FALSE
+2023/2024,02/12/2023,Bolton,Harrogate,5,1,Bolton,Manchester,FALSE
+2023/2024,04/11/2023,Bolton,Solihull Moors,4,0,Bolton,Manchester,FALSE
+2023/2024,16/01/2024,Bolton,Luton,1,2,Luton,Manchester,FALSE
+2020/2021,07/11/2020,Boreham Wood,Southend,4,3,Boreham Wood,Borehamwood,FALSE
+2021/2022,06/11/2021,Boreham Wood,Eastleigh,2,0,Boreham Wood,Borehamwood,FALSE
+2021/2022,06/12/2021,Boreham Wood,St. Albans,4,0,Boreham Wood,Borehamwood,FALSE
+2020/2021,09/01/2021,Boreham Wood,Millwall,0,2,Millwall,Borehamwood,FALSE
+2022/2023,05/11/2022,Boreham Wood,Eastleigh,3,1,Boreham Wood,Borehamwood,FALSE
+2021/2022,08/01/2022,Boreham Wood,AFC Wimbledon,2,0,Boreham Wood,Borehamwood,FALSE
+2022/2023,07/01/2023,Boreham Wood,Accrington,1,1,Draw,Borehamwood,FALSE
+2019/2020,12/16/2019,Boston Utd,Rochdale,1,2,Rochdale,Boston,FALSE
+2018/2019,05/01/2019,Bournemouth,Brighton,1,3,Brighton,Bournemouth,FALSE
+2019/2020,01/04/2020,Bournemouth,Luton,4,0,Bournemouth,Bournemouth,FALSE
+2019/2020,1/27/2020,Bournemouth,Arsenal,1,2,Arsenal,Bournemouth,FALSE
+2020/2021,09/01/2021,Bournemouth,Oldham,4,1,Bournemouth,Bournemouth,FALSE
+2021/2022,06/02/2022,Bournemouth,Boreham Wood,0,1,Boreham Wood,Bournemouth,FALSE
+2022/2023,07/01/2023,Bournemouth,Burnley,2,4,Burnley,Bournemouth,FALSE
+2020/2021,20/03/2021,Bournemouth,Southampton,0,3,Southampton,Bournemouth,TRUE
+2023/2024,25/01/2024,Bournemouth,Swansea,5,0,Bournemouth,Bournemouth,FALSE
+2020/2021,26/01/2021,Bournemouth,Crawley,2,1,Bournemouth,Bournemouth,FALSE
+2023/2024,27/02/2024,Bournemouth,Leicester,0,1,Leicester,Bournemouth,FALSE
+2020/2021,07/11/2020,Brackley Town,Bishop's Stortford,4,3,Brackley Town,Brackley,FALSE
+2022/2023,07/11/2022,Bracknell,Ipswich,0,3,Ipswich,Bracknell,FALSE
+2018/2019,20/11/2018,Bradford City,Aldershot,2,1,Bradford City,Bradford,FALSE
+2018/2019,11/12/2018,Bradford City,Peterborough,4,5,Peterborough,Bradford,FALSE
+2019/2020,11/19/2019,Bradford City,Shrewsbury,0,1,Shrewsbury,Bradford,FALSE
+2021/2022,06/11/2021,Bradford City,Exeter,1,1,Draw,Bradford,FALSE
+2022/2023,05/11/2022,Bradford City,Harrogate,0,1,Harrogate,Bradford,FALSE
+2023/2024,04/11/2023,Bradford City,Wycombe,1,2,Wycombe,Bradford,FALSE
+2020/2021,28/11/2020,Bradford City,Oldham,1,2,Oldham,Bradford,FALSE
+2018/2019,05/02/2019,Brentford,Barnet,3,1,Brentford,London,FALSE
+2018/2019,05/01/2019,Brentford,Oxford Utd,1,0,Brentford,London,FALSE
+2019/2020,01/04/2020,Brentford,Stoke,1,0,Brentford,London,FALSE
+2019/2020,1/25/2020,Brentford,Leicester,0,1,Leicester,London,FALSE
+2020/2021,09/01/2021,Brentford,Middlesbrough,2,1,Brentford,London,FALSE
+2022/2023,07/01/2023,Brentford,West Ham,0,1,West Ham,London,FALSE
+2023/2024,05/01/2024,Brentford,Wolves,1,1,Draw,London,FALSE
+2020/2021,24/01/2021,Brentford,Leicester,1,3,Leicester,London,FALSE
+2018/2019,26/01/2019,Brighton,West Brom,0,0,Draw,Brighton and Hove,FALSE
+2018/2019,16/02/2019,Brighton,Derby,2,1,Brighton,Brighton and Hove,FALSE
+2019/2020,01/04/2020,Brighton,Sheff Wed,0,1,Sheff Wed,Brighton and Hove,FALSE
+2022/2023,19/03/2023,Brighton,Grimsby,5,0,Brighton,Brighton and Hove,FALSE
+2020/2021,23/01/2021,Brighton,Blackpool,2,1,Brighton,Brighton and Hove,FALSE
+2022/2023,23/04/2023,Brighton,Man Utd,0,1,Man Utd,Brighton and Hove,FALSE
+2022/2023,29/01/2023,Brighton,Liverpool,2,1,Brighton,Brighton and Hove,FALSE
+2018/2019,25/01/2019,Bristol City,Bolton,2,1,Bristol City,Bristol,FALSE
+2018/2019,17/02/2019,Bristol City,Wolves,0,1,Wolves,Bristol,FALSE
+2018/2019,05/01/2019,Bristol City,Huddersfield,1,0,Bristol City,Bristol,FALSE
+2019/2020,01/04/2020,Bristol City,Shrewsbury,1,1,Draw,Bristol,FALSE
+2020/2021,10/01/2021,Bristol City,Portsmouth,2,1,Bristol City,Bristol,FALSE
+2021/2022,08/01/2022,Bristol City,Fulham,0,1,Fulham,Bristol,FALSE
+2022/2023,08/01/2023,Bristol City,Swansea,1,1,Draw,Bristol,FALSE
+2023/2024,16/01/2024,Bristol City,West Ham,1,0,Bristol City,Bristol,FALSE
+2023/2024,27/01/2024,Bristol City,Nottm Forest,0,0,Draw,Bristol,FALSE
+2022/2023,28/01/2023,Bristol City,West Brom,3,0,Bristol City,Bristol,FALSE
+2022/2023,28/02/2023,Bristol City,Man City,0,3,Man City,Bristol,FALSE
+2018/2019,21/11/2018,Bristol Rovers,Barnet,1,2,Barnet,Bristol,FALSE
+2019/2020,11/10/2019,Bristol Rovers,Bromley,1,1,Draw,Bristol,FALSE
+2019/2020,12/01/2019,Bristol Rovers,Plymouth,1,1,Draw,Bristol,TRUE
+2019/2020,01/05/2020,Bristol Rovers,Coventry,2,2,Draw,Bristol,FALSE
+2021/2022,04/12/2021,Bristol Rovers,Sutton,2,1,Bristol Rovers,Bristol,FALSE
+2020/2021,09/01/2021,Bristol Rovers,Sheff Utd,2,3,Sheff Utd,Bristol,FALSE
+2022/2023,05/11/2022,Bristol Rovers,Rochdale,1,1,Draw,Bristol,FALSE
+2023/2024,04/11/2023,Bristol Rovers,Whitby,7,2,Bristol Rovers,Bristol,FALSE
+2021/2022,16/11/2021,Bristol Rovers,Oxford Utd,4,3,Bristol Rovers,Bristol,FALSE
+2023/2024,17/01/2024,Bristol Rovers,Norwich,1,3,Norwich,Bristol,FALSE
+2022/2023,27/11/2022,Bristol Rovers,Boreham Wood,0,2,Boreham Wood,Bristol,FALSE
+2020/2021,29/11/2020,Bristol Rovers,Darlington,6,0,Bristol Rovers,Bristol,FALSE
+2019/2020,11/19/2019,Bromley,Bristol Rovers,0,1,Bristol Rovers,London,FALSE
+2020/2021,07/11/2020,Bromley,Yeovil,0,1,Yeovil,London,FALSE
+2023/2024,04/11/2023,Bromley,Blackpool,0,2,Blackpool,London,FALSE
+2018/2019,10/11/2018,Bromley,Peterborough,1,3,Peterborough,London,FALSE
+2018/2019,05/01/2019,Burnley,Barnsley,1,0,Burnley,Burnley,FALSE
+2019/2020,01/04/2020,Burnley,Peterborough,4,2,Burnley,Burnley,FALSE
+2019/2020,1/25/2020,Burnley,Norwich,1,2,Norwich,Burnley,FALSE
+2020/2021,09/01/2021,Burnley,MK Dons,2,1,Burnley,Burnley,FALSE
+2020/2021,09/02/2021,Burnley,Bournemouth,0,2,Bournemouth,Burnley,FALSE
+2021/2022,08/01/2022,Burnley,Huddersfield,1,2,Huddersfield,Burnley,FALSE
+2022/2023,01/03/2023,Burnley,Fleetwood,1,0,Burnley,Burnley,FALSE
+2022/2023,07/02/2023,Burnley,Ipswich,2,1,Burnley,Burnley,FALSE
+2019/2020,11/19/2019,Burton,Salford,4,1,Burton,Burton,FALSE
+2019/2020,01/05/2020,Burton,Northampton,4,0,Burton,Burton,FALSE
+2021/2022,04/12/2021,Burton,Port Vale,1,2,Port Vale,Burton,TRUE
+2022/2023,05/11/2022,Burton,Needham Market,2,0,Burton,Burton,FALSE
+2023/2024,14/11/2023,Burton,Port Vale,0,2,Port Vale,Burton,FALSE
+2022/2023,27/11/2022,Burton,Chippenham,6,1,Burton,Burton,FALSE
+2018/2019,10/11/2018,Bury,Dover,5,0,Bury,Bury,FALSE
+2018/2019,02/12/2018,Bury,Luton,0,1,Luton,Bury,FALSE
+2021/2022,04/12/2021,Buxton,Morecambe,0,1,Morecambe,Buxton,FALSE
+2022/2023,05/11/2022,Buxton,Merthyr Town,2,0,Buxton,Buxton,FALSE
+2019/2020,11/09/2019,Cambridge Utd,Exeter,1,1,Draw,Cambridge,FALSE
+2020/2021,07/11/2020,Cambridge Utd,Shrewsbury,0,2,Shrewsbury,Cambridge,FALSE
+2021/2022,04/12/2021,Cambridge Utd,Exeter,2,1,Cambridge Utd,Cambridge,FALSE
+2021/2022,05/02/2022,Cambridge Utd,Luton,0,3,Luton,Cambridge,FALSE
+2023/2024,02/12/2023,Cambridge Utd,Fleetwood,4,0,Cambridge Utd,Cambridge,FALSE
+2023/2024,04/11/2023,Cambridge Utd,Bracknell,2,1,Cambridge Utd,Cambridge,FALSE
+2022/2023,15/11/2022,Cambridge Utd,Curzon Ashton,1,0,Cambridge Utd,Cambridge,FALSE
+2021/2022,16/11/2021,Cambridge Utd,Northampton,3,1,Cambridge Utd,Cambridge,FALSE
+2022/2023,26/11/2022,Cambridge Utd,Grimsby,1,2,Grimsby,Cambridge,FALSE
+2020/2021,30/11/2020,Canvey Island,Boreham Wood,0,3,Boreham Wood,Canvey Island,FALSE
+2019/2020,01/04/2020,Cardiff,Carlisle,2,2,Draw,Cardiff,FALSE
+2019/2020,02/04/2020,Cardiff,Reading,3,4,Reading,Cardiff,FALSE
+2021/2022,09/01/2022,Cardiff,Preston,2,1,Cardiff,Cardiff,FALSE
+2022/2023,08/01/2023,Cardiff,Leeds,2,2,Draw,Cardiff,TRUE
+2019/2020,12/10/2019,Carlisle,Forest Green,1,0,Carlisle,Carlisle,FALSE
+2019/2020,1/15/2020,Carlisle,Cardiff,3,4,Cardiff,Carlisle,FALSE
+2021/2022,04/12/2021,Carlisle,Shrewsbury,1,2,Shrewsbury,Carlisle,FALSE
+2021/2022,06/11/2021,Carlisle,Horsham FC,2,0,Carlisle,Carlisle,FALSE
+2022/2023,05/11/2022,Carlisle,Tranmere,2,1,Carlisle,Carlisle,FALSE
+2020/2021,29/11/2020,Carlisle,Doncaster,1,2,Doncaster,Carlisle,FALSE
+2019/2020,11/09/2019,Carshalton,Boston Utd,1,4,Boston Utd,London,FALSE
+2018/2019,20/11/2018,Charlton,Mansfield,5,0,Charlton,Charlton,FALSE
+2019/2020,01/05/2020,Charlton,West Brom,0,1,West Brom,Charlton,FALSE
+2020/2021,07/11/2020,Charlton,Plymouth,0,1,Plymouth,Charlton,FALSE
+2021/2022,06/11/2021,Charlton,Havant & W,4,0,Charlton,Charlton,FALSE
+2022/2023,05/11/2022,Charlton,Coalville,4,1,Charlton,Charlton,FALSE
+2021/2022,09/01/2022,Charlton,Norwich,0,1,Norwich,Charlton,FALSE
+2023/2024,05/11/2023,Charlton,Cray Valley,1,1,Draw,Charlton,FALSE
+2018/2019,01/12/2018,Charlton,Doncaster,0,2,Doncaster,Charlton,FALSE
+2022/2023,26/11/2022,Charlton,Stockport,2,2,Draw,Charlton,FALSE
+2022/2023,14/11/2022,Chelmsford,Barnet,0,1,Barnet,Chelmsford,FALSE
+2018/2019,27/01/2019,Chelsea,Sheff Wed,3,0,Chelsea,London,FALSE
+2018/2019,18/02/2019,Chelsea,Man Utd,0,2,Man Utd,London,FALSE
+2018/2019,05/01/2019,Chelsea,Nottm Forest,2,0,Chelsea,London,FALSE
+2019/2020,01/05/2020,Chelsea,Nottm Forest,2,0,Chelsea,London,FALSE
+2019/2020,03/03/2020,Chelsea,Liverpool,2,0,Chelsea,London,FALSE
+2020/2021,10/01/2021,Chelsea,Morecambe,4,0,Chelsea,London,FALSE
+2021/2022,05/02/2022,Chelsea,Plymouth,2,1,Chelsea,London,FALSE
+2021/2022,08/01/2022,Chelsea,Chesterfield,5,1,Chelsea,London,FALSE
+2023/2024,06/01/2024,Chelsea,Preston,4,0,Chelsea,London,FALSE
+2021/2022,14/05/2022,Chelsea,Liverpool,0,1,Liverpool,London,TRUE
+2020/2021,15/05/2021,Chelsea,Leicester,0,1,Leicester,London,FALSE
+2023/2024,17/03/2024,Chelsea,Leicester,4,2,Chelsea,London,FALSE
+2020/2021,17/04/2021,Chelsea,Man City,1,0,Chelsea,London,FALSE
+2021/2022,17/04/2022,Chelsea,Crystal Palace,2,0,Chelsea,London,FALSE
+2020/2021,21/03/2021,Chelsea,Sheff Utd,2,0,Chelsea,London,FALSE
+2020/2021,24/01/2021,Chelsea,Luton,3,1,Chelsea,London,FALSE
+2023/2024,27/01/2024,Chelsea,Aston Villa,0,0,Draw,London,FALSE
+2023/2024,28/02/2024,Chelsea,Leeds,3,2,Chelsea,London,TRUE
+2018/2019,20/11/2018,Cheltenham,Ebbsfleet,2,0,Cheltenham,Cheltenham,FALSE
+2019/2020,11/09/2019,Cheltenham,Swindon,1,1,Draw,Cheltenham,FALSE
+2019/2020,11/30/2019,Cheltenham,Port Vale,1,3,Port Vale,Cheltenham,FALSE
+2020/2021,07/11/2020,Cheltenham,South Shields,3,1,Cheltenham,Cheltenham,FALSE
+2020/2021,10/01/2021,Cheltenham,Mansfield,2,1,Cheltenham,Cheltenham,FALSE
+2022/2023,05/11/2022,Cheltenham,Alvechurch,1,2,Alvechurch,Cheltenham,FALSE
+2021/2022,16/11/2021,Cheltenham,Gillingham,1,0,Cheltenham,Cheltenham,FALSE
+2020/2021,23/01/2021,Cheltenham,Man City,1,3,Man City,Cheltenham,FALSE
+2020/2021,28/11/2020,Cheltenham,Crewe,2,1,Cheltenham,Cheltenham,FALSE
+2023/2024,04/11/2023,Chesham,Maidstone,0,2,Maidstone,Chesham,FALSE
+2023/2024,04/11/2023,Chester,York City,0,0,Draw,Chester,FALSE
+2021/2022,06/11/2021,Chesterfield,Southend,3,1,Chesterfield,Chesterfield,FALSE
+2022/2023,05/11/2022,Chesterfield,Northampton,1,0,Chesterfield,Chesterfield,FALSE
+2023/2024,03/12/2023,Chesterfield,Leyton Orient,1,0,Chesterfield,Chesterfield,FALSE
+2023/2024,05/11/2023,Chesterfield,Portsmouth,1,0,Chesterfield,Chesterfield,FALSE
+2022/2023,07/01/2023,Chesterfield,West Brom,3,3,Draw,Chesterfield,FALSE
+2018/2019,10/11/2018,Chesterfield,Billericay,1,1,Draw,Chesterfield,FALSE
+2018/2019,02/12/2018,Chesterfield,Grimsby,0,2,Grimsby,Chesterfield,FALSE
+2019/2020,11/10/2019,Chippenham,Northampton,0,3,Northampton,Chippenham,FALSE
+2022/2023,05/11/2022,Chippenham,Lincoln,1,0,Chippenham,Chippenham,FALSE
+2018/2019,11/11/2018,Chorley,Doncaster,2,2,Draw,Chorley,FALSE
+2020/2021,09/01/2021,Chorley,Derby,2,0,Chorley,Chorley,FALSE
+2020/2021,23/01/2021,Chorley,Wolves,0,1,Wolves,Chorley,FALSE
+2019/2020,11/09/2019,Colchester,Coventry,0,2,Coventry,Colchester,FALSE
+2020/2021,07/11/2020,Colchester,Marine,1,2,Marine,Colchester,FALSE
+2021/2022,05/12/2021,Colchester,Wigan,1,2,Wigan,Colchester,FALSE
+2019/2020,12/01/2019,Coventry,Ipswich,1,1,Draw,Coventry,FALSE
+2019/2020,1/14/2020,Coventry,Bristol Rovers,3,0,Coventry,Coventry,FALSE
+2019/2020,1/25/2020,Coventry,Birmingham,0,0,Draw,Coventry,FALSE
+2021/2022,08/01/2022,Coventry,Derby,1,0,Coventry,Coventry,FALSE
+2022/2023,07/01/2023,Coventry,West Ham,0,1,West Ham,Coventry,FALSE
+2023/2024,06/01/2024,Coventry,Oxford Utd,6,2,Coventry,Coventry,FALSE
+2023/2024,06/02/2024,Coventry,Sheff Wed,4,1,Coventry,Coventry,FALSE
+2023/2024,21/04/2024,Coventry,Man Utd,3,4,Man Utd,Coventry,FALSE
+2023/2024,26/02/2024,Coventry,Maidstone,5,0,Coventry,Coventry,FALSE
+2018/2019,20/11/2018,Crawley ,Southend,2,6,Southend,Crawley ,FALSE
+2019/2020,11/09/2019,Crawley ,Scunthorpe,4,1,Crawley,Crawley ,FALSE
+2019/2020,12/01/2019,Crawley ,Fleetwood,1,2,Fleetwood,Crawley ,FALSE
+2021/2022,06/11/2021,Crawley ,Tranmere,0,1,Tranmere,Crawley ,FALSE
+2020/2021,10/01/2021,Crawley ,Leeds,3,0,Crawley,Crawley ,FALSE
+2022/2023,05/11/2022,Crawley ,Accrington,1,4,Accrington,Crawley ,FALSE
+2023/2024,15/11/2023,Cray Valley,Charlton,1,6,Charlton,London,FALSE
+2019/2020,12/10/2019,Crewe,Eastleigh,3,1,Crewe,Crewe,FALSE
+2019/2020,01/05/2020,Crewe,Barnsley,1,3,Barnsley,Crewe,FALSE
+2021/2022,06/11/2021,Crewe,Swindon,0,3,Swindon,Crewe,FALSE
+2022/2023,05/11/2022,Crewe,Leyton Orient,1,0,Crewe,Crewe,FALSE
+2023/2024,05/11/2023,Crewe,Derby,2,2,Draw,Crewe,FALSE
+2023/2024,12/12/2023,Crewe,Bristol Rovers,2,4,Bristol Rovers,Crewe,FALSE
+2018/2019,10/11/2018,Crewe,Carlisle,0,1,Carlisle,Crewe,FALSE
+2018/2019,27/01/2019,Crystal Palace,Tottenham,2,0,Crystal Palace,London,TRUE
+2018/2019,05/01/2019,Crystal Palace,Grimsby,1,0,Crystal Palace,London,FALSE
+2019/2020,01/05/2020,Crystal Palace,Derby,0,1,Derby,London,FALSE
+2021/2022,01/03/2022,Crystal Palace,Stoke,2,1,Crystal Palace,London,FALSE
+2021/2022,05/02/2022,Crystal Palace,Hartlepool,2,0,Crystal Palace,London,FALSE
+2022/2023,07/01/2023,Crystal Palace,Southampton,1,2,Southampton,London,FALSE
+2023/2024,04/01/2024,Crystal Palace,Everton,0,0,Draw,London,FALSE
+2021/2022,20/03/2022,Crystal Palace,Everton,4,0,Crystal Palace,London,FALSE
+2022/2023,06/11/2022,Curzon Ashton,Cambridge Utd,0,0,Draw,Ashton-under-Lyne,FALSE
+2023/2024,04/11/2023,Curzon Ashton,Barnet,0,1,Barnet,Ashton-under-Lyne,FALSE
+2020/2021,07/11/2020,Dagenham & Redbridge,Grimsby,3,1,Dagenham & Redbridge,Dagenham,FALSE
+2021/2022,08/11/2021,Dagenham & Redbridge,Salford,0,1,Salford,Dagenham,FALSE
+2022/2023,26/11/2022,Dagenham & Redbridge,Gillingham,1,1,Draw,Dagenham,FALSE
+2019/2020,11/20/2019,Darlington,Walsall,0,1,Walsall,Darlington,FALSE
+2018/2019,05/01/2019,Derby,Southampton,2,2,Draw,Derby,FALSE
+2019/2020,02/04/2020,Derby,Northamption,4,2,Derby,Derby,FALSE
+2019/2020,03/05/2020,Derby,Man Utd,0,3,Man Utd,Derby,FALSE
+2022/2023,08/01/2023,Derby,Barnsley,3,0,Derby,Derby,FALSE
+2023/2024,14/11/2023,Derby,Crewe,1,3,Crewe,Derby,FALSE
+2022/2023,15/11/2022,Derby,Torquay,5,0,Derby,Derby,FALSE
+2022/2023,30/01/2023,Derby,West Ham,0,2,West Ham,Derby,FALSE
+2018/2019,26/01/2019,Doncaster,Oldham,2,1,Doncaster,Doncaster,FALSE
+2018/2019,20/11/2018,Doncaster,Chorley,7,0,Doncaster,Doncaster,FALSE
+2018/2019,17/02/2019,Doncaster,Crystal Palace,0,2,Crystal Palace,Doncaster,FALSE
+2019/2020,11/19/2019,Doncaster,AFC Wimbledon,2,0,Doncaster,Doncaster,FALSE
+2021/2022,04/12/2021,Doncaster,Mansfield,2,3,Mansfield,Doncaster,FALSE
+2022/2023,05/11/2022,Doncaster,King's Lynn,0,1,King's Lynn,Doncaster,FALSE
+2023/2024,04/11/2023,Doncaster,Accrington,2,2,Draw,Doncaster,FALSE
+2019/2020,11/10/2019,Dover,Southend,1,0,Dover,Dover,FALSE
+2019/2020,11/08/2019,Dulwich Hamlet,Carlisle,1,4,Carlisle,East Dulwich,FALSE
+2020/2021,08/11/2020,Eastbourne Borough,Blackpool,0,3,Blackpool,Eastbourne,FALSE
+2019/2020,11/19/2019,Eastleigh,Stourbridge,3,0,Eastleigh,Eastleigh,FALSE
+2019/2020,11/30/2019,Eastleigh,Crewe,1,1,Draw,Eastleigh,FALSE
+2020/2021,08/11/2020,Eastleigh,MK Dons,0,1,MK Dons,Eastleigh,FALSE
+2023/2024,03/12/2023,Eastleigh,Reading,2,1,Eastleigh,Eastleigh,FALSE
+2023/2024,04/11/2023,Eastleigh,Boreham Wood,5,1,Eastleigh,Eastleigh,FALSE
+2023/2024,16/01/2024,Eastleigh,Newport,1,3,Newport,Eastleigh,FALSE
+2019/2020,11/09/2019,Ebbsfleet,Notts Co,2,3,Notts Co,Ebbsfleet,FALSE
+2022/2023,05/11/2022,Ebbsfleet,FC Halifax,2,1,Ebbsfleet,Ebbsfleet,FALSE
+2018/2019,10/11/2018,Ebbsfleet,Cheltenham,0,0,Draw,Ebbsfleet,FALSE
+2022/2023,27/11/2022,Ebbsfleet,Fleetwood,0,1,Fleetwood,Ebbsfleet,FALSE
+2018/2019,05/01/2019,Everton,Lincoln,2,1,Everton,Liverpool,FALSE
+2020/2021,09/01/2021,Everton,Rotherham,2,2,Draw,Liverpool,FALSE
+2020/2021,10/02/2021,Everton,Tottenham,5,4,Everton,Liverpool,FALSE
+2021/2022,03/03/2022,Everton,Boreham Wood,2,0,Everton,Liverpool,FALSE
+2021/2022,05/02/2022,Everton,Brentford,4,1,Everton,Liverpool,FALSE
+2023/2024,17/01/2024,Everton,Crystal Palace,1,0,Everton,Liverpool,FALSE
+2020/2021,20/03/2021,Everton,Man City,0,2,Man City,Liverpool,FALSE
+2020/2021,24/01/2021,Everton,Sheff Wed,3,0,Everton,Liverpool,FALSE
+2023/2024,27/01/2024,Everton,Luton,1,2,Luton,Liverpool,FALSE
+2019/2020,11/19/2019,Exeter,Cambridge Utd,1,0,Exeter,Exeter,FALSE
+2019/2020,12/01/2019,Exeter,Hartlepool,2,2,Draw,Exeter,FALSE
+2020/2021,07/11/2020,Exeter,AFC Fylde,2,1,Exeter,Exeter,FALSE
+2020/2021,09/01/2021,Exeter,Sheff Wed,0,2,Sheff Wed,Exeter,FALSE
+2023/2024,04/11/2023,Exeter,Wigan,0,2,Wigan,Exeter,FALSE
+2018/2019,10/11/2018,Exeter,Blackpool,2,3,Blackpool,Exeter,FALSE
+2021/2022,30/11/2021,Exeter,Bradford City,2,1,Exeter,Exeter,FALSE
+2018/2019,20/11/2018,FC Halifax,Morecambe,1,0,FC Halifax,Halifax,FALSE
+2021/2022,06/11/2021,FC Halifax,Maidenhead,7,4,FC Halifax,Halifax,FALSE
+2018/2019,01/12/2018,FC Halifax,AFC Wimbledon,1,3,AFC Wimbledon,Halifax,FALSE
+2020/2021,07/11/2020,FC United,Doncaster,1,5,Doncaster,Halifax,FALSE
+2018/2019,05/01/2019,Fleetwood,AFC Wimbledon,2,3,AFC Wimbledon,Fleetwood,FALSE
+2019/2020,01/04/2020,Fleetwood,Portsmouth,1,2,Portsmouth,Fleetwood,FALSE
+2021/2022,06/11/2021,Fleetwood,Burton,1,2,Burton,Fleetwood,FALSE
+2022/2023,05/11/2022,Fleetwood,Oxford City,3,1,Fleetwood,Fleetwood,FALSE
+2022/2023,07/01/2023,Fleetwood,QPR,2,1,Fleetwood,Fleetwood,FALSE
+2022/2023,07/02/2023,Fleetwood,Sheff Wed,1,0,Fleetwood,Fleetwood,FALSE
+2018/2019,20/11/2018,Forest Green,Oxford Utd,0,3,Oxford Utd,Nailsworth,FALSE
+2019/2020,11/09/2019,Forest Green,Billericay,4,0,Forest Green,Nailsworth,FALSE
+2019/2020,11/30/2019,Forest Green,Carlisle,2,2,Draw,Nailsworth,FALSE
+2022/2023,17/01/2023,Forest Green,Birmingham,1,2,Birmingham,Nailsworth,FALSE
+2022/2023,26/11/2022,Forest Green,Alvechurch,2,1,Forest Green,Nailsworth,FALSE
+2018/2019,06/01/2019,Fulham,Oldham,1,2,Oldham,London,FALSE
+2019/2020,01/04/2020,Fulham,Aston Villa,2,1,Fulham,London,FALSE
+2023/2024,05/01/2024,Fulham,Rotherham,1,0,Fulham,London,FALSE
+2020/2021,24/01/2021,Fulham,Burnley,0,3,Burnley,London,FALSE
+2023/2024,27/01/2024,Fulham,Newcastle,0,2,Newcastle,London,FALSE
+2022/2023,28/01/2023,Fulham,Sunderland,1,1,Draw,London,FALSE
+2022/2023,28/02/2023,Fulham,Leeds,2,0,Fulham,London,FALSE
+2019/2020,11/10/2019,Gateshead,Oldham,1,2,Oldham,Gateshead,FALSE
+2021/2022,03/12/2021,Gateshead,Charlton,0,1,Charlton,Gateshead,FALSE
+2021/2022,06/11/2021,Gateshead,Altrincham,2,2,Draw,Gateshead,FALSE
+2022/2023,05/11/2022,Gateshead,Stevenage,2,3,Stevenage,Gateshead,FALSE
+2018/2019,05/01/2019,Gillingham,Cardiff,1,0,Gillingham,Gillingham,FALSE
+2019/2020,11/19/2019,Gillingham,Sunderland,1,0,Gillingham,Gillingham,FALSE
+2019/2020,12/01/2019,Gillingham,Doncaster,3,0,Gillingham,Gillingham,FALSE
+2019/2020,01/05/2020,Gillingham,West Ham,0,2,West Ham,Gillingham,FALSE
+2020/2021,07/11/2020,Gillingham,Woking,3,2,Gillingham,Gillingham,FALSE
+2021/2022,06/11/2021,Gillingham,Cheltenham,1,1,Draw,Gillingham,FALSE
+2022/2023,08/12/2022,Gillingham,Dag & Red,3,2,Gillingham,Gillingham,FALSE
+2023/2024,02/12/2023,Gillingham,Charlton,2,0,Gillingham,Gillingham,TRUE
+2022/2023,07/01/2023,Gillingham,Leicester,0,1,Leicester,Gillingham,FALSE
+2023/2024,06/01/2024,Gillingham,Sheff Utd,0,4,Sheff Utd,Gillingham,FALSE
+2022/2023,15/11/2022,Gillingham,AFC Fylde,1,0,Gillingham,Gillingham,FALSE
+2018/2019,10/11/2018,Gillingham,Hartlepool,0,0,Draw,Gillingham,FALSE
+2020/2021,28/11/2020,Gillingham,Exeter,2,3,Exeter,Gillingham,FALSE
+2019/2020,11/09/2019,Grimsby,Newport,1,1,Draw,Cleethorpes,FALSE
+2022/2023,05/11/2022,Grimsby,Plymouth,5,1,Grimsby,Cleethorpes,FALSE
+2022/2023,07/01/2023,Grimsby,Burton,1,0,Grimsby,Cleethorpes,FALSE
+2022/2023,07/02/2023,Grimsby,Luton,3,0,Grimsby,Cleethorpes,FALSE
+2023/2024,14/11/2023,Grimsby,Slough,7,2,Grimsby,Cleethorpes,FALSE
+2018/2019,10/11/2018,Grimsby,MK Dons,3,1,Grimsby,Cleethorpes,FALSE
+2018/2019,11/11/2018,Guiseley,Cambridge Utd,4,3,Guiseley,Cleethorpes,FALSE
+2018/2019,03/12/2018,Guiseley,Fleetwood,1,2,Fleetwood,Cleethorpes,FALSE
+2018/2019,12/11/2018,Hampton & Richmond,Oldham,1,2,Oldham,London,FALSE
+2020/2021,08/11/2020,Hampton & Richmond,Oldham,2,3,Oldham,London,FALSE
+2018/2019,09/11/2018,Haringey,AFC Wimbledon,0,1,AFC Wimbledon,London,FALSE
+2019/2020,11/11/2019,Harrogate,Portsmouth,1,2,Portsmouth,Harrogate,FALSE
+2020/2021,06/11/2020,Harrogate,Skelmersdale,4,1,Harrogate,Harrogate,FALSE
+2021/2022,06/11/2021,Harrogate,Wrexham,2,1,Harrogate,Harrogate,FALSE
+2020/2021,28/11/2020,Harrogate,Blackpool,0,4,Blackpool,Harrogate,FALSE
+2018/2019,21/11/2018,Hartlepool,Gillingham,3,4,Gillingham,Hartlepool,FALSE
+2019/2020,12/10/2019,Hartlepool,Exeter,1,0,Hartlepool,Hartlepool,FALSE
+2021/2022,06/11/2021,Hartlepool,Wycombe,2,2,Draw,Hartlepool,FALSE
+2021/2022,08/01/2022,Hartlepool,Blackpool,2,1,Hartlepool,Hartlepool,FALSE
+2022/2023,08/01/2023,Hartlepool,Stoke,0,3,Stoke,Hartlepool,FALSE
+2022/2023,15/11/2022,Hartlepool,Solihull Moors,2,1,Hartlepool,Hartlepool,FALSE
+2022/2023,26/11/2022,Hartlepool,Harrogate,3,1,Hartlepool,Hartlepool,FALSE
+2020/2021,08/11/2020,Havant & Waterlooville,Cray Valley,1,0,Havant & Waterlooville,Havant,FALSE
+2019/2020,11/10/2019,Hayes & Yeading,Oxford Utd,0,2,Oxford Utd,London,FALSE
+2020/2021,08/11/2020,Hayes & Yeading,Carlisle,2,3,Carlisle,London,FALSE
+2021/2022,06/11/2021,Hayes & Yeading,Sutton,0,1,Sutton,London,FALSE
+2022/2023,04/11/2022,Hereford,Portsmouth,1,3,Portsmouth,Hereford,FALSE
+2023/2024,04/11/2023,Hereford,Gillingham,0,2,Gillingham,Hereford,FALSE
+2018/2019,11/11/2018,Hitchin,Solihull Moors,0,2,Solihull Moors,Hitchin,FALSE
+2023/2024,14/11/2023,Horsham FC,Barnsley,0,3,Barnsley,Horsham,FALSE
+2020/2021,09/01/2021,Huddersfield,Plymouth,2,3,Plymouth,Huddersfield,FALSE
+2021/2022,05/02/2022,Huddersfield,Barnsley,1,0,Huddersfield,Huddersfield,FALSE
+2019/2020,1/25/2020,Hull,Chelsea,1,2,Chelsea,Hull,FALSE
+2020/2021,07/11/2020,Hull,Fleetwood,2,0,Hull,Hull,FALSE
+2021/2022,08/01/2022,Hull,Everton,2,3,Everton,Hull,FALSE
+2022/2023,07/01/2023,Hull,Fulham,0,2,Fulham,Hull,FALSE
+2023/2024,06/01/2024,Hull,Birmingham,1,1,Draw,Hull,FALSE
+2019/2020,11/09/2019,Ipswich,Lincoln,1,1,Draw,Ipswich,FALSE
+2019/2020,12/10/2019,Ipswich,Coventry,1,2,Coventry,Ipswich,FALSE
+2020/2021,07/11/2020,Ipswich,Portsmouth,2,3,Portsmouth,Ipswich,FALSE
+2021/2022,04/12/2021,Ipswich,Barrow,0,0,Draw,Ipswich,FALSE
+2021/2022,06/11/2021,Ipswich,Oldham,1,1,Draw,Ipswich,FALSE
+2022/2023,07/01/2023,Ipswich,Rotherham,4,1,Ipswich,Ipswich,FALSE
+2023/2024,27/01/2024,Ipswich,Maidstone,1,2,Maidstone,Ipswich,FALSE
+2022/2023,27/11/2022,Ipswich,Buxton,4,0,Ipswich,Ipswich,FALSE
+2022/2023,28/01/2023,Ipswich,Burnley,0,0,Draw,Ipswich,FALSE
+2021/2022,05/12/2021,Kidderminster,FC Halifax,2,0,Kidderminster,Kidderminster,FALSE
+2021/2022,06/11/2021,Kidderminster,Grimsby,1,0,Kidderminster,Kidderminster,FALSE
+2021/2022,05/02/2022,Kidderminster,West Ham,1,2,West Ham,Kidderminster,FALSE
+2021/2022,08/01/2022,Kidderminster,Reading,2,1,Kidderminster,Kidderminster,FALSE
+2023/2024,05/11/2023,Kidderminster,Fleetwood,1,2,Fleetwood,Kidderminster,FALSE
+2021/2022,06/11/2021,King's Lynn,Walsall,0,1,Walsall,King's Lynn,FALSE
+2022/2023,26/11/2022,King's Lynn,Stevenage,0,3,Stevenage,King's Lynn,FALSE
+2019/2020,11/30/2019,Kingstonian,AFC Fylde,0,2,AFC Fylde,London,FALSE
+2022/2023,18/01/2023,Leeds,Cardiff,5,2,Leeds,Leeds,FALSE
+2023/2024,27/01/2024,Leeds,Plymouth,1,1,Draw,Leeds,FALSE
+2019/2020,01/04/2020,Leicester,Wigan,2,0,Leicester,Leicester,FALSE
+2019/2020,03/04/2020,Leicester,Birmingham,1,0,Leicester,Leicester,FALSE
+2019/2020,6/28/2020,Leicester,Chelsea,0,1,Chelsea,Leicester,FALSE
+2020/2021,10/02/2021,Leicester,Brighton,1,0,Leicester,Leicester,FALSE
+2021/2022,08/01/2022,Leicester,Watford,4,1,Leicester,Leicester,FALSE
+2020/2021,18/04/2021,Leicester,Southampton,1,0,Leicester,Leicester,FALSE
+2020/2021,21/03/2021,Leicester,Man Utd,3,1,Leicester,Leicester,FALSE
+2023/2024,27/01/2024,Leicester,Birmingham,3,0,Leicester,Leicester,FALSE
+2022/2023,28/02/2023,Leicester,Blackburn,1,2,Blackburn,Leicester,FALSE
+2019/2020,11/10/2019,Leyton Orient,Maldon & Tiptree,1,2,Maldon & Tiptree,London,FALSE
+2020/2021,07/11/2020,Leyton Orient,Newport,1,2,Newport,London,FALSE
+2021/2022,04/12/2021,Leyton Orient,Tranmere,4,0,Leyton Orient,London,FALSE
+2021/2022,06/11/2021,Leyton Orient,Ebbsfleet,1,0,Leyton Orient,London,FALSE
+2023/2024,04/11/2023,Leyton Orient,Carlisle,3,1,Leyton Orient,London,FALSE
+2019/2020,11/20/2019,Lincoln,Ipswich,0,1,Ipswich,Lincoln,FALSE
+2020/2021,07/11/2020,Lincoln,Forest Green,6,2,Lincoln,Lincoln,FALSE
+2021/2022,04/12/2021,Lincoln,Hartlepool,0,1,Hartlepool,Lincoln,FALSE
+2021/2022,06/11/2021,Lincoln,Bowers & Pitsea,1,0,Lincoln,Lincoln,FALSE
+2023/2024,04/11/2023,Lincoln,Morecambe,1,2,Morecambe,Lincoln,FALSE
+2018/2019,10/11/2018,Lincoln,Northampton,3,2,Lincoln,Lincoln,FALSE
+2018/2019,01/12/2018,Lincoln,Carlisle,2,0,Lincoln,Lincoln,FALSE
+2019/2020,01/05/2020,Liverpool,Everton,1,0,Liverpool,Liverpool,TRUE
+2019/2020,02/04/2020,Liverpool,Shrewsbury,1,0,Liverpool,Liverpool,FALSE
+2021/2022,02/03/2022,Liverpool,Norwich,2,1,Liverpool,Liverpool,FALSE
+2021/2022,06/02/2022,Liverpool,Cardiff,3,1,Liverpool,Liverpool,FALSE
+2021/2022,09/01/2022,Liverpool,Shrewsbury,4,1,Liverpool,Liverpool,FALSE
+2022/2023,07/01/2023,Liverpool,Wolves,2,2,Draw,Liverpool,FALSE
+2023/2024,28/01/2024,Liverpool,Norwich,5,2,Liverpool,Liverpool,FALSE
+2023/2024,28/02/2024,Liverpool,Southampton,3,0,Liverpool,Liverpool,FALSE
+2020/2021,09/01/2021,Luton,Reading,1,0,Luton,Luton,FALSE
+2021/2022,02/03/2022,Luton,Chelsea,2,3,Chelsea,Luton,FALSE
+2021/2022,09/01/2022,Luton,Harrogate,4,0,Luton,Luton,FALSE
+2022/2023,07/01/2023,Luton,Wigan,1,1,Draw,Luton,FALSE
+2023/2024,07/01/2024,Luton,Bolton,0,0,Draw,Luton,FALSE
+2018/2019,10/11/2018,Luton,Wycombe,2,0,Luton,Luton,FALSE
+2023/2024,27/02/2024,Luton,Man City,2,6,Man City,Luton,FALSE
+2022/2023,28/01/2023,Luton,Grimsby,2,2,Draw,Luton,FALSE
+2019/2020,11/10/2019,Macclesfield,Kingstonian,0,4,Kingstonian,Macclesfield,FALSE
+2019/2020,11/09/2019,Maidenhead,Rotherham,1,3,Rotherham,Maidenhead,FALSE
+2022/2023,05/11/2022,Maidenhead,Dag & Red,0,1,Dag & Red,Maidenhead,FALSE
+2018/2019,10/11/2018,Maidenhead,Port,0,4,Port,Maidenhead,FALSE
+2019/2020,11/09/2019,Maidstone,Torquay,1,0,Maidstone,Maidstone,FALSE
+2023/2024,02/12/2023,Maidstone,Barrow,2,1,Maidstone,Maidstone,FALSE
+2023/2024,06/01/2024,Maidstone,Stevenage,1,0,Maidstone,Maidstone,FALSE
+2018/2019,10/11/2018,Maidstone,Macclesfield,2,1,Maidstone,Maidstone,FALSE
+2018/2019,01/12/2018,Maidstone,Oldham,0,2,Oldham,Maidstone,FALSE
+2019/2020,11/29/2019,Maldon & Tiptree,Newport,0,1,Newport,Maldon,FALSE
+2020/2021,08/11/2020,Maldon & Tiptree,Morecambe,0,1,Morecambe,Maldon,FALSE
+2018/2019,26/01/2019,Man City,Burnley,5,0,Man City,Manchester,FALSE
+2018/2019,18/05/2019,Man City,Watford,6,0,Man City,Manchester,FALSE
+2018/2019,06/04/2019,Man City,Brighton,1,0,Man City,Manchester,FALSE
+2018/2019,06/01/2019,Man City,Rotherham,7,0,Man City,Manchester,FALSE
+2019/2020,01/04/2020,Man City,Port Vale,4,1,Man City,Manchester,FALSE
+2019/2020,1/26/2020,Man City,Fulham,4,0,Man City,Manchester,FALSE
+2020/2021,10/01/2021,Man City,Birmingham,3,0,Man City,Manchester,FALSE
+2021/2022,05/02/2022,Man City,Fulham,4,1,Man City,Manchester,FALSE
+2022/2023,03/06/2023,Man City,Man Utd,2,1,Man City,Manchester,FALSE
+2022/2023,08/01/2023,Man City,Chelsea,4,0,Man City,Manchester,FALSE
+2023/2024,07/01/2024,Man City,Huddersfield,5,0,Man City,Manchester,FALSE
+2023/2024,16/03/2024,Man City,Newcastle,2,0,Man City,Manchester,FALSE
+2021/2022,16/04/2022,Man City,Liverpool,2,3,Liverpool,Manchester,FALSE
+2022/2023,18/03/2023,Man City,Burnley,6,0,Man City,Manchester,FALSE
+2023/2024,20/04/2024,Man City,Chelsea,1,0,Man City,Manchester,FALSE
+2022/2023,22/04/2023,Man City,Sheff Utd,3,0,Man City,Manchester,FALSE
+2023/2024,25/05/2024,Man City,Man Utd,1,2,Man Utd,Manchester,FALSE
+2022/2023,27/01/2023,Man City,Arsenal,1,0,Man City,Manchester,FALSE
+2018/2019,05/01/2019,Man Utd,Reading,2,0,Man Utd,Manchester,FALSE
+2019/2020,1/15/2020,Man Utd,Wolves,1,0,Man Utd,Manchester,FALSE
+2019/2020,7/19/2020,Man Utd,Chelsea,1,3,Chelsea,Manchester,FALSE
+2020/2021,09/01/2021,Man Utd,Watford,1,0,Man Utd,Manchester,FALSE
+2020/2021,09/02/2021,Man Utd,West Ham,1,0,Man Utd,Manchester,FALSE
+2021/2022,04/02/2022,Man Utd,Middlesbrough,1,2,Middlesbrough,Manchester,FALSE
+2021/2022,10/01/2022,Man Utd,Aston Villa,1,0,Man Utd,Manchester,FALSE
+2022/2023,01/03/2023,Man Utd,West Ham,3,1,Man Utd,Manchester,FALSE
+2022/2023,06/01/2023,Man Utd,Everton,3,1,Man Utd,Manchester,FALSE
+2023/2024,17/03/2024,Man Utd,Liverpool,4,3,Man Utd,Manchester,FALSE
+2022/2023,19/03/2023,Man Utd,Fulham,3,1,Man Utd,Manchester,FALSE
+2020/2021,24/01/2021,Man Utd,Liverpool,3,2,Man Utd,Manchester,FALSE
+2022/2023,28/01/2023,Man Utd,Reading,3,1,Man Utd,Manchester,FALSE
+2018/2019,11/11/2018,Mansfield,Charlton,1,1,Draw,Mansfield,FALSE
+2019/2020,11/09/2019,Mansfield,Chorley,1,0,Mansfield,Mansfield,FALSE
+2021/2022,08/01/2022,Mansfield,Middlesbrough,2,3,Middlesbrough,Mansfield,FALSE
+2023/2024,04/11/2023,Mansfield,Wrexham,1,2,Wrexham,Mansfield,FALSE
+2020/2021,29/11/2020,Mansfield,Dag & Red,2,1,Mansfield,Mansfield,FALSE
+2020/2021,10/01/2021,Marine,Tottenham,0,5,Tottenham,Crosby,FALSE
+2023/2024,04/11/2023,Marine,Harrogate,1,5,Harrogate,Crosby,FALSE
+2020/2021,29/11/2020,Marine,Havant & W,1,0,Marine,Crosby,FALSE
+2018/2019,10/11/2018,Met.Police,Newport,0,2,Newport,East Molesey,FALSE
+2018/2019,26/01/2019,Middlesbrough,Newport,1,1,Draw,Middlesbrough,FALSE
+2018/2019,05/01/2019,Middlesbrough,Peterborough,5,0,Middlesbrough,Middlesbrough,FALSE
+2019/2020,01/05/2020,Middlesbrough,Tottenham,1,1,Draw,Middlesbrough,FALSE
+2021/2022,01/03/2022,Middlesbrough,Tottenham,1,0,Middlesbrough,Middlesbrough,FALSE
+2022/2023,07/01/2023,Middlesbrough,Brighton,1,5,Brighton,Middlesbrough,FALSE
+2023/2024,06/01/2024,Middlesbrough,Aston Villa,0,1,Aston Villa,Middlesbrough,FALSE
+2021/2022,19/03/2022,Middlesbrough,Chelsea,0,1,Chelsea,Middlesbrough,FALSE
+2018/2019,26/01/2019,Millwall,Everton,3,2,Millwall,London,FALSE
+2018/2019,17/03/2019,Millwall,Brighton,2,3,Brighton,London,FALSE
+2018/2019,06/01/2019,Millwall,Hull,2,1,Millwall,London,FALSE
+2019/2020,01/04/2020,Millwall,Newport,3,0,Millwall,London,FALSE
+2019/2020,1/25/2020,Millwall,Sheff Utd,0,2,Sheff Utd,London,FALSE
+2021/2022,08/01/2022,Millwall,Crystal Palace,1,2,Crystal Palace,London,FALSE
+2022/2023,07/01/2023,Millwall,Sheff Utd,0,2,Sheff Utd,London,FALSE
+2023/2024,06/01/2024,Millwall,Leicester,2,3,Leicester,London,FALSE
+2020/2021,23/01/2021,Millwall,Bristol City,0,3,Bristol City,London,FALSE
+2019/2020,11/09/2019,MK Dons,Port Vale,0,1,Port Vale,Milton Keynes,FALSE
+2021/2022,06/11/2021,MK Dons,Steveage,2,2,Draw,Milton Keynes,FALSE
+2022/2023,05/11/2022,MK Dons,Taunton,6,0,MK Dons,Milton Keynes,FALSE
+2021/2022,06/11/2021,Morecambe,Newport,1,0,Morecambe,Morecombe,FALSE
+2018/2019,10/11/2018,Morecambe,FC Halifax,0,0,Draw,Morecombe,FALSE
+2020/2021,28/11/2020,Morecambe,Solihull Moors,4,2,Morecambe,Morecombe,FALSE
+2019/2020,11/09/2019,Nantwich,AFC Fylde,0,1,AFC Fylde,Cheshire,FALSE
+2018/2019,26/01/2019,Newcastle,Watford,0,2,Watford,Newcastle Upon Tyne,FALSE
+2018/2019,05/01/2019,Newcastle,Blackburn,1,1,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,1/14/2020,Newcastle,Rochdale,4,1,Newcastle,Newcastle Upon Tyne,FALSE
+2019/2020,1/25/2020,Newcastle,Oxford Utd,0,0,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,6/28/2020,Newcastle,Man City,0,2,Man City,Newcastle Upon Tyne,FALSE
+2021/2022,08/01/2022,Newcastle,Cambridge Utd,0,1,Cambridge Utd,Newcastle Upon Tyne,FALSE
+2018/2019,16/02/2019,Newport,Man City,1,4,Man City,Newport,FALSE
+2018/2019,06/01/2019,Newport,Leicester,2,1,Newport,Newport,FALSE
+2018/2019,05/02/2019,Newport,Middlesbrough,2,0,Newport,Newport,FALSE
+2018/2019,11/12/2018,Newport,Wrexham,4,0,Newport,Newport,FALSE
+2019/2020,11/20/2019,Newport,Grimsby,2,0,Newport,Newport,FALSE
+2020/2021,10/01/2021,Newport,Brighton,1,2,Brighton,Newport,FALSE
+2022/2023,05/11/2022,Newport,Colchester,2,0,Newport,Newport,FALSE
+2023/2024,02/12/2023,Newport,Barnet,1,1,Draw,Newport,FALSE
+2023/2024,04/11/2023,Newport,Oldham,2,0,Newport,Newport,FALSE
+2023/2024,06/01/2024,Newport,Eastleigh,1,1,Draw,Newport,FALSE
+2022/2023,27/11/2022,Newport,Derby,1,2,Derby,Newport,FALSE
+2023/2024,28/01/2024,Newport,Man Utd,2,4,Man Utd,Newport,FALSE
+2020/2021,28/11/2020,Newport,Salford,3,0,Newport,Newport,FALSE
+2019/2020,12/01/2019,Northampton,Notts Co,3,1,Northampton,Northampton,FALSE
+2019/2020,1/24/2020,Northampton,Derby,0,0,Draw,Northampton,FALSE
+2021/2022,06/11/2021,Northampton,Cambridge Utd,2,2,Draw,Northampton,FALSE
+2023/2024,04/11/2023,Northampton,Barrow,1,3,Barrow,Northampton,FALSE
+2018/2019,05/01/2019,Norwich,Portsmouth,0,1,Portsmouth,Norwich,FALSE
+2019/2020,6/27/2020,Norwich,Man Utd,1,2,Man Utd,Norwich,FALSE
+2020/2021,09/01/2021,Norwich,Coventry,2,0,Norwich,Norwich,FALSE
+2022/2023,08/01/2023,Norwich,Blackburn,0,1,Blackburn,Norwich,FALSE
+2023/2024,06/01/2024,Norwich,Bristol Rovers,1,1,Draw,Norwich,FALSE
+2020/2021,09/01/2021,Nottm Forest,Cardiff,1,0,Nottm Forest,Nottingham,FALSE
+2021/2022,06/02/2022,Nottm Forest,Leicester,4,1,Nottm Forest,Nottingham,FALSE
+2021/2022,07/03/2022,Nottm Forest,Huddersfield,2,1,Nottm Forest,Nottingham,FALSE
+2021/2022,09/01/2022,Nottm Forest,Arsenal,1,0,Nottm Forest,Nottingham,FALSE
+2023/2024,07/01/2024,Nottm Forest,Blackpool,2,2,Draw,Nottingham,FALSE
+2023/2024,07/02/2024,Nottm Forest,Bristol City,2,1,Nottm Forest,Nottingham,FALSE
+2021/2022,20/03/2022,Nottm Forest,Liverpool,0,1,Liverpool,Nottingham,FALSE
+2023/2024,28/02/2024,Nottm Forest,Man Utd,0,1,Man Utd,Nottingham,FALSE
+2023/2024,01/12/2023,Notts Co,Shrewsbury,2,3,Shrewsbury,Nottingham,FALSE
+2023/2024,04/11/2023,Notts Co,Crawley,3,2,Notts Co,Nottingham,FALSE
+2021/2022,16/11/2021,Notts Co,Rochdale,1,2,Rochdale,Nottingham,FALSE
+2019/2020,11/30/2019,Oldham,Burton,0,1,Burton,Manchester,FALSE
+2021/2022,16/11/2021,Oldham,Ipswich,1,2,Ipswich,Manchester,FALSE
+2018/2019,20/11/2018,Oxford City ,Tranmere,0,2,Tranmere,Oxford,FALSE
+2019/2020,11/09/2019,Oxford City ,Solihull Moors,1,5,Solihull Moors,Oxford,FALSE
+2020/2021,09/11/2020,Oxford City ,Northampton,2,1,Oxford City,Oxford,FALSE
+2019/2020,01/04/2020,Oxford Utd,Hartlepool,4,1,Oxford Utd,Oxford,FALSE
+2019/2020,02/04/2020,Oxford Utd,Newcastle,2,3,Newcastle,Oxford,FALSE
+2020/2021,07/11/2020,Oxford Utd,Peterborough,1,2,Peterborough,Oxford,FALSE
+2021/2022,07/11/2021,Oxford Utd,Bristol Rovers,2,2,Draw,Oxford,FALSE
+2023/2024,02/12/2023,Oxford Utd,Grimsby,2,0,Oxford Utd,Oxford,FALSE
+2023/2024,04/11/2023,Oxford Utd,Maidenhead,2,0,Oxford Utd,Oxford,FALSE
+2022/2023,09/01/2023,Oxford Utd,Arsenal,0,3,Arsenal,Oxford,FALSE
+2018/2019,10/11/2018,Oxford Utd,Forest Green,0,0,Draw,Oxford,FALSE
+2022/2023,26/11/2022,Oxford Utd,Exeter,4,1,Oxford Utd,Oxford,FALSE
+2019/2020,11/19/2019,Peterborough,Stevenage,2,0,Peterborough,Peterborough,FALSE
+2019/2020,12/01/2019,Peterborough,Dover,3,0,Peterborough,Peterborough,FALSE
+2021/2022,01/03/2022,Peterborough,Man City,0,2,Man City,Peterborough,FALSE
+2021/2022,05/02/2022,Peterborough,QPR,2,0,Peterborough,Peterborough,FALSE
+2022/2023,05/11/2022,Peterborough,Salford,0,0,Draw,Peterborough,FALSE
+2021/2022,08/01/2022,Peterborough,Bristol Rovers,2,1,Peterborough,Peterborough,FALSE
+2023/2024,02/12/2023,Peterborough,Doncaster,2,1,Peterborough,Peterborough,FALSE
+2023/2024,04/11/2023,Peterborough,Salford,2,2,Draw,Peterborough,FALSE
+2023/2024,07/01/2024,Peterborough,Leeds,0,3,Leeds,Peterborough,FALSE
+2018/2019,01/12/2018,Peterborough,Bradford City,2,2,Draw,Peterborough,FALSE
+2020/2021,28/11/2020,Peterborough,Chorley,1,2,Chorley,Peterborough,FALSE
+2019/2020,12/17/2019,Plymouth,Bristol Rovers,0,1,Bristol Rovers,Plymouth,FALSE
+2023/2024,06/01/2024,Plymouth,Sutton,3,1,Plymouth,Plymouth,FALSE
+2023/2024,06/02/2024,Plymouth,Leeds,1,4,Leeds,Plymouth,FALSE
+2021/2022,16/11/2021,Plymouth,Sheff Wed,3,0,Plymouth,Plymouth,FALSE
+2018/2019,10/11/2018,Plymouth,Stevenage,1,0,Plymouth,Plymouth,FALSE
+2018/2019,01/12/2018,Plymouth,Oxford Utd,1,2,Oxford Utd,Plymouth,FALSE
+2020/2021,28/11/2020,Plymouth,Lincoln,2,0,Plymouth,Plymouth,FALSE
+2018/2019,11/11/2018,Port Vale,Sunderland,1,2,Sunderland,Burslem,FALSE
+2020/2021,07/11/2020,Port Vale,King's Lynn,0,1,King's Lynn,Burslem,FALSE
+2021/2022,06/11/2021,Port Vale,Accrington,5,1,Port Vale,Burslem,FALSE
+2022/2023,05/11/2022,Port Vale,Exeter,2,3,Exeter,Burslem,FALSE
+2021/2022,08/01/2022,Port Vale,Brentford,1,4,Brentford,Burslem,FALSE
+2023/2024,04/11/2023,Port Vale,Burton,0,0,Draw,Burslem,FALSE
+2023/2024,12/12/2023,Port Vale,Stevenage,3,4,Stevenage,Burslem,FALSE
+2018/2019,26/01/2019,Portsmouth,QPR,1,1,Draw,Portmouth,FALSE
+2019/2020,11/30/2019,Portsmouth,Altrincham,2,1,Portsmouth,Portmouth,FALSE
+2019/2020,1/25/2020,Portsmouth,Barnsley,4,2,Portsmouth,Portsmouth,FALSE
+2019/2020,03/02/2020,Portsmouth,Arsenal,0,2,Arsenal,Portsmouth,FALSE
+2021/2022,04/12/2021,Portsmouth,Harrogate,1,2,Harrogate,Portmouth,FALSE
+2021/2022,06/11/2021,Portsmouth,Harrow,1,0,Portsmouth,Portmouth,FALSE
+2022/2023,26/11/2022,Portsmouth,MK Dons,3,2,Portsmouth,Portmouth,FALSE
+2020/2021,28/11/2020,Portsmouth,King's Lynn,6,1,Portsmouth,Portmouth,FALSE
+2018/2019,06/01/2019,Preston,Doncaster,1,3,Doncaster,Preston,FALSE
+2019/2020,01/04/2020,Preston,Norwich,2,4,Norwich,Preston,FALSE
+2022/2023,07/01/2023,Preston,Huddersfield,3,1,Preston,Preston,FALSE
+2022/2023,28/01/2023,Preston,Tottenham,0,3,Tottenham,Preston,FALSE
+2018/2019,15/02/2019,QPR,Watford,0,1,Watford,London,FALSE
+2018/2019,06/01/2019,QPR,Leeds,2,1,QPR,London,FALSE
+2018/2019,05/02/2019,QPR,Portsmouth,2,0,QPR,London,FALSE
+2019/2020,01/05/2020,QPR,Swansea,5,1,QPR,London,FALSE
+2019/2020,1/24/2020,QPR,Sheff Wed,1,2,Sheff Wed,London,FALSE
+2020/2021,09/01/2021,QPR,Fulham,0,2,Fulham,London,TRUE
+2021/2022,08/01/2022,QPR,Rotherham,2,1,QPR,London,FALSE
+2023/2024,06/01/2024,QPR,Bournemouth,2,3,Bournemouth,London,FALSE
+2023/2024,04/11/2023,Ramsgate,Woking,2,1,Ramsgate,Ramsgate,FALSE
+2019/2020,01/04/2020,Reading,Blackpool,2,2,Draw,Reading,FALSE
+2019/2020,1/25/2020,Reading,Carding,1,1,Draw,Reading,FALSE
+2019/2020,03/03/2020,Reading,Sheff Utd,1,2,Sheff Utd,Reading,FALSE
+2023/2024,04/11/2023,Reading,MK Dons,3,2,Reading,Reading,FALSE
+2022/2023,07/01/2023,Reading,Watford,2,0,Reading,Reading,FALSE
+2019/2020,11/19/2019,Rochdale,Wrexham,1,0,Rochdale,Manchester,FALSE
+2019/2020,12/01/2019,Rochdale,Boston Utd,0,0,Draw,Manchester,FALSE
+2019/2020,01/04/2020,Rochdale,Newcastle,1,1,Draw,Manchester,FALSE
+2020/2021,07/11/2020,Rochdale,Stockport,1,2,Stockport,Manchester,FALSE
+2021/2022,05/12/2021,Rochdale,Plymouth,1,2,Plymouth,Manchester,FALSE
+2021/2022,07/11/2021,Rochdale,Notts Co,1,1,Draw,Manchester,FALSE
+2018/2019,10/11/2018,Rochdale,Gateshead,2,1,Rochdale,Manchester,FALSE
+2018/2019,02/12/2018,Rochdale,Portsmouth,0,1,Portsmouth,Manchester,FALSE
+2019/2020,01/04/2020,Rotherham,Hull,2,3,Hull,Rotherham,FALSE
+2021/2022,03/12/2021,Rotherham,Stockport,1,0,Rotherham,Rotherham,FALSE
+2021/2022,06/11/2021,Rotherham,Bromley,3,0,Rotherham,Rotherham,FALSE
+2018/2019,21/11/2018,Salford,Shrewsbury,1,3,Shrewsbury,Manchester,FALSE
+2019/2020,11/09/2019,Salford,Burton,1,1,Draw,Manchester,FALSE
+2020/2021,07/11/2020,Salford,Hartlepool,2,0,Salford,Manchester,FALSE
+2021/2022,05/12/2021,Salford,Chesterfield,0,2,Chesterfield,Manchester,FALSE
+2023/2024,14/11/2023,Salford,Peterborough,4,5,Peterborough,Manchester,FALSE
+2022/2023,16/11/2022,Salford,Peterborough,0,3,Peterborough,Manchester,FALSE
+2023/2024,12/12/2023,Scarborough,Forest Green,2,4,Forest Green,Scarborough,FALSE
+2020/2021,08/11/2020,Scunthorpe,Solihull Moors,2,3,Solihull Moors,Scunthorpe,FALSE
+2021/2022,06/11/2021,Scunthorpe,Doncaster,0,1,Doncaster,Scunthorpe,FALSE
+2018/2019,10/11/2018,Scunthorpe,Burton,2,1,Scunthorpe,Scunthorpe,FALSE
+2018/2019,06/01/2019,Sheff Utd,Barnet,0,1,Barnet,Sheffield,FALSE
+2018/2019,05/01/2019,Sheff Utd,Luton,0,0,Draw,Sheffield,FALSE
+2019/2020,01/05/2020,Sheff Utd,AFC Fylde,2,1,Sheff Utd,Sheffield,FALSE
+2019/2020,6/28/2020,Sheff Utd,Arsenal,1,2,Arsenal,Sheffield,FALSE
+2020/2021,10/02/2021,Sheff Utd,Bristol City,1,0,Sheff Utd,Sheffield,FALSE
+2022/2023,01/03/2023,Sheff Utd,Tottenham,1,0,Sheff Utd,Sheffield,FALSE
+2022/2023,07/02/2023,Sheff Utd,Wrexham,3,1,Sheff Utd,Sheffield,FALSE
+2022/2023,19/03/2023,Sheff Utd,Blackburn,3,2,Sheff Utd,Sheffield,FALSE
+2020/2021,23/01/2021,Sheff Utd,Plymouth,2,1,Sheff Utd,Sheffield,FALSE
+2019/2020,03/04/2020,Sheff Wed,Man City,0,1,Man City,Sheffield,FALSE
+2021/2022,07/11/2021,Sheff Wed,Plymouth,0,0,Draw,Sheffield,FALSE
+2022/2023,04/11/2022,Sheff Wed,Morecambe,2,0,Sheff Wed,Sheffield,FALSE
+2022/2023,07/01/2023,Sheff Wed,Newcastle,2,1,Sheff Wed,Sheffield,FALSE
+2023/2024,06/01/2024,Sheff Wed,Cardiff,4,0,Sheff Wed,Sheffield,FALSE
+2022/2023,26/11/2022,Sheff Wed,Mansfield,2,1,Sheff Wed,Sheffield,FALSE
+2023/2024,27/01/2024,Sheff Wed,Coventry,1,1,Draw,Sheffield,FALSE
+2022/2023,28/01/2023,Sheff Wed,Fleetwood,1,1,Draw,Sheffield,FALSE
+2023/2024,03/11/2023,Sheppey United,Walsall,1,4,Walsall,Isle of Sheppey,FALSE
+2018/2019,26/01/2019,Shrewsbury,Wolves,2,2,Draw,Shrewsbury,FALSE
+2018/2019,05/01/2019,Shrewsbury,Stoke,1,1,Draw,Shrewsbury,FALSE
+2018/2019,11/11/2018,Shrewsbury,Salford,1,1,Draw,Shrewsbury,FALSE
+2019/2020,11/09/2019,Shrewsbury,Bradford City,1,1,Draw,Shrewsbury,FALSE
+2019/2020,11/30/2019,Shrewsbury,Mansfield,2,0,Shrewsbury,Shrewsbury,FALSE
+2019/2020,1/14/2020,Shrewsbury,Bristol City,1,0,Shrewsbury,Shrewsbury,FALSE
+2019/2020,1/26/2020,Shrewsbury,Liverpool,2,2,Draw,Shrewsbury,FALSE
+2022/2023,05/11/2022,Shrewsbury,York City,2,1,Shrewsbury,Shrewsbury,FALSE
+2023/2024,04/11/2023,Shrewsbury,Colchester,3,2,Shrewsbury,Shrewsbury,FALSE
+2022/2023,07/01/2023,Shrewsbury,Sunderland,1,2,Sunderland,Shrewsbury,FALSE
+2023/2024,07/01/2024,Shrewsbury,Wrexham,0,1,Wrexham,Shrewsbury,TRUE
+2018/2019,02/12/2018,Shrewsbury,Scunthorpe,1,0,Shrewsbury,Shrewsbury,FALSE
+2022/2023,26/11/2022,Shrewsbury,Peterborough,3,1,Shrewsbury,Shrewsbury,FALSE
+2020/2021,29/11/2020,Shrewsbury,Oxford City,1,0,Shrewsbury,Shrewsbury,FALSE
+2018/2019,20/11/2018,Slough,Sutton,2,1,Slough,Slough,FALSE
+2023/2024,05/11/2023,Slough,Grimsby,1,1,Draw,Slough,FALSE
+2018/2019,02/12/2018,Slough,Gillingham,0,1,Gillingham,Slough,FALSE
+2018/2019,30/11/2018,Solihull Moors,Blackpool,0,0,Draw,Solihull,FALSE
+2019/2020,12/02/2019,Solihull Moors,Rotherham,3,4,Rotherham,Solihull,FALSE
+2022/2023,05/11/2022,Solihull Moors,Hartlepool,2,2,Draw,Solihull,FALSE
+2021/2022,16/11/2021,Solihull Moors,Wigan,1,2,Wigan,Solihull,FALSE
+2022/2023,05/11/2022,South Shields,Forest Green,0,2,Forest Green,South Shields,FALSE
+2018/2019,16/01/2019,Southampton,Derby,2,3,Derby,Southampton,FALSE
+2019/2020,01/04/2020,Southampton,Huddersfield,2,0,Southampton,Southampton,FALSE
+2019/2020,1/25/2020,Southampton,Tottenham,1,1,Draw,Southampton,FALSE
+2021/2022,02/03/2022,Southampton,West Ham,3,1,Southampton,Southampton,FALSE
+2021/2022,05/02/2022,Southampton,Coventry,2,1,Southampton,Southampton,FALSE
+2022/2023,01/03/2023,Southampton,Grimsby,1,2,Grimsby,Southampton,FALSE
+2023/2024,06/01/2024,Southampton,Walsall,4,0,Southampton,Southampton,FALSE
+2023/2024,06/02/2024,Southampton,Watford,3,0,Southampton,Southampton,FALSE
+2020/2021,19/01/2021,Southampton,Shrewsbury,2,0,Southampton,Southampton,FALSE
+2021/2022,20/03/2022,Southampton,Man City,1,4,Man City,Southampton,FALSE
+2020/2021,23/01/2021,Southampton,Arsenal,1,0,Southampton,Southampton,FALSE
+2022/2023,28/01/2023,Southampton,Blackpool,2,1,Southampton,Southampton,FALSE
+2018/2019,10/11/2018,Southend,Crawley,1,1,Draw,Southend-on-Sea,FALSE
+2018/2019,01/12/2018,Southend,Barnsley,2,4,Barnsley,Southend-on-Sea,FALSE
+2018/2019,17/12/2018,Southport,Tranmere,0,2,Tranmere,Southport,FALSE
+2018/2019,10/11/2018,Southport,Boreham Wood,2,0,Southport,Southport,FALSE
+2021/2022,07/11/2021,St. Albans,Forest Green,3,2,St. Albans,St Albans,FALSE
+2019/2020,11/09/2019,Stevenage,Peterborough,1,1,Draw,Stevenage,FALSE
+2020/2021,07/11/2020,Stevenage,Concord,3,2,Stevenage,Stevenage,FALSE
+2020/2021,09/01/2021,Stevenage,Swansea,0,2,Swansea,Stevenage,FALSE
+2023/2024,02/12/2023,Stevenage,Port Vale,1,1,Draw,Stevenage,FALSE
+2023/2024,04/11/2023,Stevenage,Tranmere,4,3,Stevenage,Stevenage,FALSE
+2021/2022,16/11/2021,Stevenage,MK Dons,2,1,Stevenage,Stevenage,FALSE
+2020/2021,29/11/2020,Stevenage,Hull,2,1,Stevenage,Stevenage,FALSE
+2020/2021,11/01/2021,Stockport,West Ham,0,1,West Ham,Stockport,FALSE
+2022/2023,05/11/2022,Stockport,Swindon,4,0,Stockport,Stockport,FALSE
+2022/2023,07/12/2022,Stockport,Charlton,3,1,Stockport,Stockport,FALSE
+2023/2024,04/11/2023,Stockport,Worksop,5,1,Stockport,Stockport,FALSE
+2022/2023,08/01/2023,Stockport,Walsall,1,2,Walsall,Stockport,FALSE
+2023/2024,13/12/2023,Stockport,Aldershot,0,1,Aldershot,Stockport,FALSE
+2021/2022,17/11/2021,Stockport,Bolton,5,3,Stockport,Stockport,FALSE
+2020/2021,29/11/2020,Stockport,Yeovil,3,2,Stockport,Stockport,FALSE
+2018/2019,15/01/2019,Stoke,Shrewsbury,2,3,Shrewsbury,Stoke,FALSE
+2020/2021,09/01/2021,Stoke,Leicester,0,4,Leicester,Stoke,FALSE
+2021/2022,05/02/2022,Stoke,Wigan,2,0,Stoke,Stoke,FALSE
+2021/2022,09/01/2022,Stoke,Leyton Orient,2,0,Stoke,Stoke,FALSE
+2023/2024,06/01/2024,Stoke,Brighton,2,4,Brighton,Stoke,FALSE
+2022/2023,28/02/2023,Stoke,Brighton,0,1,Brighton,Stoke,FALSE
+2022/2023,29/01/2023,Stoke,Stevenage,3,1,Stoke,Stoke,FALSE
+2019/2020,11/09/2019,Stourbridge,Eastleigh,2,2,Draw,Dudley,FALSE
+2021/2022,07/11/2021,Stratford,Shrewsbury,1,5,Shrewsbury,Straford,FALSE
+2021/2022,05/11/2021,Sudbury,Colchester,0,4,Colchester,Sudbury,FALSE
+2018/2019,11/12/2018,Sunderland,Walsall,0,1,Walsall,Sunderland,FALSE
+2019/2020,11/09/2019,Sunderland,Gillingham,1,1,Draw,Sunderland,FALSE
+2020/2021,07/11/2020,Sunderland,Mansfield,0,1,Mansfield,Sunderland,FALSE
+2021/2022,06/11/2021,Sunderland,Mansfield,0,1,Mansfield,Sunderland,FALSE
+2022/2023,08/02/2023,Sunderland,Fulham,2,3,Fulham,Sunderland,FALSE
+2023/2024,06/01/2024,Sunderland,Newcastle,0,3,Newcastle,Sunderland,TRUE
+2022/2023,05/11/2022,Sutton,Farnborough,0,2,Farnborough,London,FALSE
+2023/2024,02/12/2023,Sutton,Horsham FC,3,0,Sutton,London,FALSE
+2023/2024,04/11/2023,Sutton,AFC Fylde,2,1,Sutton,London,FALSE
+2018/2019,10/11/2018,Sutton,Slough,0,0,Draw,London,FALSE
+2018/2019,26/01/2019,Swansea,Gillingham,4,1,Swansea,Swansea,FALSE
+2018/2019,17/02/2019,Swansea,Brentford,4,1,Swansea,Swansea,FALSE
+2018/2019,16/03/2019,Swansea,Man City,2,3,Man City,Swansea,FALSE
+2020/2021,10/02/2021,Swansea,Man City,1,3,Man City,Swansea,FALSE
+2021/2022,08/01/2022,Swansea,Southampton,2,3,Southampton,Swansea,FALSE
+2023/2024,06/01/2024,Swansea,Morecambe,2,0,Swansea,Swansea,FALSE
+2022/2023,17/01/2023,Swansea,Bristol City,1,2,Bristol City,Swansea,FALSE
+2020/2021,23/01/2021,Swansea,Nottm Forest,5,1,Swansea,Swansea,FALSE
+2019/2020,11/19/2019,Swindon,Cheltenham,0,1,Cheltenham,Swindon,FALSE
+2020/2021,07/11/2020,Swindon,Darlington,1,2,Darlington,Swindon,FALSE
+2021/2022,07/01/2022,Swindon,Man City,1,4,Man City,Swindon,FALSE
+2023/2024,04/11/2023,Swindon,Aldershot,4,7,Aldershot,Swindon,FALSE
+2018/2019,10/11/2018,Swindon,York City,2,1,Swindon,Swindon,FALSE
+2018/2019,02/12/2018,Swindon,Woking,0,1,Woking,Swindon,FALSE
+2020/2021,07/11/2020,Tonbridge,Bradford City,0,7,Bradford City,Tonbridge,FALSE
+2020/2021,08/11/2020,Torquay,Crawley,5,6,Crawley,Torquay,FALSE
+2022/2023,06/11/2022,Torquay,Derby,2,2,Draw,Torquay,FALSE
+2018/2019,10/11/2018,Torquay,Woking,0,1,Woking,Torquay,FALSE
+2019/2020,1/14/2020,Tottenham,Middlesbrough,2,1,Tottenham,London,FALSE
+2019/2020,02/05/2020,Tottenham,Southampton,3,2,Tottenham,London,FALSE
+2019/2020,03/04/2020,Tottenham,Norwich,1,2,Norwich,London,FALSE
+2021/2022,05/02/2022,Tottenham,Brighton,3,1,Tottenham,London,FALSE
+2021/2022,09/01/2022,Tottenham,Morecambe,3,1,Tottenham,London,FALSE
+2022/2023,07/01/2023,Tottenham,Portsmouth,1,0,Tottenham,London,FALSE
+2023/2024,05/01/2024,Tottenham,Burnley,1,0,Tottenham,London,FALSE
+2023/2024,27/01/2024,Tottenham,Man City,0,1,Man City,London,FALSE
+2018/2019,04/01/2019,Tranmere,Tottenham,0,7,Tottenham,Birkenhead,FALSE
+2019/2020,11/09/2019,Tranmere,Wycombe,2,2,Draw,Birkenhead,FALSE
+2019/2020,12/01/2019,Tranmere,Chichester,5,1,Tranmere,Birkenhead,FALSE
+2019/2020,1/23/2020,Tranmere,Watford,2,1,Tranmere,Birkenhead,FALSE
+2019/2020,1/26/2020,Tranmere,Man Utd,0,6,Man Utd,Birkenhead,FALSE
+2020/2021,07/11/2020,Tranmere,Accrington,2,1,Tranmere,Birkenhead,FALSE
+2018/2019,10/11/2018,Tranmere,Oxford City,3,3,Draw,Birkenhead,FALSE
+2018/2019,02/12/2018,Tranmere,Southport,1,1,Draw,Birkenhead,FALSE
+2020/2021,27/11/2020,Tranmere,Brackley Town,1,0,Tranmere,Birkenhead,FALSE
+2019/2020,11/09/2019,Walsall,Darlington,2,2,Draw,Walsall,FALSE
+2019/2020,11/30/2019,Walsall,Oxford Utd,0,1,Oxford Utd,Walsall,FALSE
+2020/2021,07/11/2020,Walsall,Bristol Rovers,1,2,Bristol Rovers,Walsall,FALSE
+2021/2022,04/12/2021,Walsall,Swindon,1,2,Swindon,Walsall,FALSE
+2023/2024,12/12/2023,Walsall,Alfreton,1,0,Walsall,Walsall,FALSE
+2018/2019,10/11/2018,Walsall,Coventry,3,2,Walsall,Walsall,FALSE
+2022/2023,26/11/2022,Walsall,Carlisle,2,1,Walsall,Walsall,FALSE
+2018/2019,01/12/2018,Walsall,Sunderland,1,1,Draw,Walsall,FALSE
+2022/2023,28/01/2023,Walsall,Leicester,0,1,Leicester,Walsall,FALSE
+2018/2019,16/03/2019,Watford,Crystal Palace,2,1,Watford,Watford,FALSE
+2018/2019,07/04/2019,Watford,Wolves,3,2,Watford,Watford,FALSE
+2019/2020,01/04/2020,Watford,Tranmere,3,3,Draw,Watford,FALSE
+2023/2024,06/01/2024,Watford,Chesterfield,2,1,Watford,Watford,FALSE
+2023/2024,28/01/2024,Watford,Southampton,1,1,Draw,Watford,FALSE
+2018/2019,06/02/2019,West Brom,Brighton,1,3,Brighton,West Bromich,FALSE
+2018/2019,05/01/2019,West Brom,Wigan,1,0,West Brom,West Bromich,FALSE
+2019/2020,03/03/2020,West Brom,Newcastle,2,3,Newcastle,West Bromich,FALSE
+2021/2022,08/01/2022,West Brom,Brighton,1,2,Brighton,West Bromich,FALSE
+2023/2024,07/01/2024,West Brom,Aldershot,4,1,West Brom,West Bromich,FALSE
+2022/2023,17/01/2023,West Brom,Chesterfield,4,0,West Brom,West Bromich,FALSE
+2023/2024,28/01/2024,West Brom,Wolves,0,2,Wolves,West Bromich,TRUE
+2018/2019,05/01/2019,West Ham,Birmingham,2,0,West Ham,London,FALSE
+2019/2020,1/25/2020,West Ham,West Brom,0,1,West Brom,London,FALSE
+2021/2022,09/01/2022,West Ham,Leeds,2,0,West Ham,London,FALSE
+2023/2024,07/01/2024,West Ham,Bristol City,1,1,Draw,London,FALSE
+2020/2021,23/01/2021,West Ham,Doncaster,4,0,West Ham,London,FALSE
+2018/2019,11/11/2018,Weston-super-Mare,Wrexham,0,2,Wrexham,Weston-super-Mare,FALSE
+2022/2023,05/11/2022,Weymouth,AFC Wimbledon,1,1,Draw,Weymouth,FALSE
+2020/2021,08/11/2020,Wigan,Chorley,2,3,Chorley,Wigan,FALSE
+2021/2022,06/11/2021,Wigan,Solihull Moors,0,0,Draw,Wigan,FALSE
+2021/2022,08/01/2022,Wigan,Blackburn,3,2,Wigan,Wigan,FALSE
+2023/2024,08/01/2024,Wigan,Man Utd,0,2,Man Utd,Wigan,FALSE
+2022/2023,17/01/2023,Wigan,Luton,1,2,Luton,Wigan,FALSE
+2018/2019,06/01/2019,Woking,Watford,0,2,Watford,Woking,FALSE
+2022/2023,16/11/2022,Woking,Oxford Utd,1,2,Oxford Utd,Woking,FALSE
+2018/2019,16/03/2019,Wolverhampton Wolves,Man Utd,2,1,Wolverhampton Wolves,Wolverhampton,FALSE
+2018/2019,07/01/2019,Wolverhampton Wolves,Liverpool,2,1,Wolverhampton Wolves,Wolverhampton,FALSE
+2018/2019,05/02/2019,Wolverhampton Wolves,Shrewsbury,3,2,Wolverhampton Wolves,Wolverhampton,TRUE
+2019/2020,01/04/2020,Wolverhampton Wolves,Man Utd,0,0,Draw,Wolverhampton,FALSE
+2020/2021,08/01/2021,Wolverhampton Wolves,Crystal Palace,1,0,Wolverhampton Wolves,Wolverhampton,FALSE
+2020/2021,11/02/2021,Wolverhampton Wolves,Southampton,0,2,Southampton,Wolverhampton,FALSE
+2021/2022,05/02/2022,Wolverhampton Wolves,Norwich,0,1,Norwich,Wolverhampton,FALSE
+2021/2022,09/01/2022,Wolverhampton Wolves,Sheff Utd,3,0,Wolverhampton Wolves,Wolverhampton,FALSE
+2023/2024,16/01/2024,Wolverhampton Wolves,Brentford,3,2,Wolverhampton Wolves,Wolverhampton,FALSE
+2023/2024,16/03/2024,Wolverhampton Wolves,Coventry,2,3,Coventry,Wolverhampton,FALSE
+2022/2023,17/01/2023,Wolverhampton Wolves,Liverpool,0,1,Liverpool,Wolverhampton,FALSE
+2023/2024,28/02/2024,Wolverhampton Wolves,Brighton,1,0,Wolverhampton Wolves,Wolverhampton,FALSE
+2019/2020,11/10/2019,Wrexham,Rochdale,0,0,Draw,Wrexham,FALSE
+2022/2023,06/11/2022,Wrexham,Oldham,3,0,Wrexham,Wrexham,FALSE
+2023/2024,03/12/2023,Wrexham,Yeovil,3,0,Wrexham,Wrexham,FALSE
+2022/2023,26/11/2022,Wrexham,Farnborough,4,1,Wrexham,Wrexham,FALSE
+2022/2023,29/01/2023,Wrexham,Sheff Utd,3,3,Draw,Wrexham,FALSE
+2018/2019,01/12/2018,Wrexham,Newport,0,0,Draw,Wrexham,FALSE
+2019/2020,11/20/2019,Wycombe,Tranmere,1,2,Tranmere,High Wycombe,FALSE
+2020/2021,09/01/2021,Wycombe,Preston,4,1,Wycombe,High Wycombe,FALSE
+2022/2023,05/11/2022,Wycombe,Walsall,0,2,Walsall,High Wycombe,FALSE
+2023/2024,02/12/2023,Wycombe,Morecambe,0,2,Morecambe,High Wycombe,FALSE
+2021/2022,16/11/2021,Wycombe,Hartlepool,0,1,Hartlepool,High Wycombe,FALSE
+2020/2021,25/01/2021,Wycombe,Tottenham,1,4,Tottenham,High Wycombe,FALSE
+2021/2022,06/11/2021,Yate Town,Yeovil,0,5,Yeovil,Yate,FALSE
+2019/2020,11/12/2019,Yeovil,Hartlepool,1,4,Hartlepool,Yeovil,FALSE
+2021/2022,04/12/2021,Yeovil,Steven,1,0,Yeovil,Yeovil,FALSE
+2021/2022,08/01/2022,Yeovil,Bournemouth,1,3,Bournemouth,Yeovil,FALSE
+2023/2024,04/11/2023,Yeovil,Gateshead,3,2,Yeovil,Yeovil,FALSE
+2018/2019,10/11/2018,Yeovil,Stockport,1,3,Stockport,Yeovil,FALSE
+2019/2020,11/10/2019,York City,Altrincham,0,1,Altrincham,York,FALSE
+2021/2022,06/11/2021,York City,Buxton,0,1,Buxton,York,FALSE
+2023/2024,01/12/2023,York City,Wigan,0,1,Wigan,York,FALSE
+2023/2024,14/11/2023,York City,Chester,2,1,York City,York,FALSE

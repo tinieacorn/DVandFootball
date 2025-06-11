@@ -1,0 +1,129 @@
+Season,DateofMatch,HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Winner,Location,Derby,Final,Semi-Final,Quarter-Final
+2018,15/07/2018,France,Croatia,4,2,France,France,FALSE,TRUE,FALSE,FALSE
+2018,14/07/2018,Belgium,England,2,0,Belgium,Belgium,FALSE,FALSE,FALSE,FALSE
+2018,11/07/2018,Croatia,England,2,1,Croatia,Croatia,FALSE,FALSE,TRUE,FALSE
+2018,10/07/2018,France,Belgium,1,0,France,France,FALSE,FALSE,TRUE,FALSE
+2018,07/07/2018,Russia,Croatia,2,3,Russia,Croatia,FALSE,FALSE,FALSE,TRUE
+2018,07/07/2018,Sweden,England,0,2,Sweden,England,FALSE,FALSE,FALSE,TRUE
+2018,06/07/2018,Brazil,Belgium,1,2,Brazil,Belgium,FALSE,FALSE,FALSE,TRUE
+2018,06/07/2018,Uruguay,France,0,2,Uruguay,France,FALSE,FALSE,FALSE,TRUE
+2018,03/07/2018,Colombia,England,1,2,Colombia,England,FALSE,FALSE,FALSE,FALSE
+2018,03/07/2018,Sweden,Switzerland,1,0,Sweden,Sweden,FALSE,FALSE,FALSE,FALSE
+2018,02/07/2018,Belgium,Japan,3,2,Belgium,Belgium,FALSE,FALSE,FALSE,FALSE
+2018,02/07/2018,Brazil,Mexico,2,0,Brazil,Brazil,FALSE,FALSE,FALSE,FALSE
+2018,01/07/2018,Croatia,Denmark,2,1,Croatia,Croatia,FALSE,FALSE,FALSE,FALSE
+2018,01/07/2018,Spain,Russia,1,2,Spain,Russia,FALSE,FALSE,FALSE,FALSE
+2018,30/06/2018,Uruguay,Portugal,2,1,Uruguay,Uruguay,FALSE,FALSE,FALSE,FALSE
+2018,30/06/2018,France,Argentina,4,3,France,France,FALSE,FALSE,FALSE,FALSE
+2018,28/06/2018,England,Belgium,0,1,England,Belgium,FALSE,FALSE,FALSE,FALSE
+2018,28/06/2018,Panama,Tunisia,1,2,Panama,Tunisia,FALSE,FALSE,FALSE,FALSE
+2018,28/06/2018,Japan,Poland,0,1,Japan,Poland,FALSE,FALSE,FALSE,FALSE
+2018,28/06/2018,Senegal,Colombia,0,1,Senegal,Colombia,FALSE,FALSE,FALSE,FALSE
+2018,27/06/2018,Serbia,Brazil,0,2,Serbia,Brazil,FALSE,FALSE,FALSE,FALSE
+2018,27/06/2018,Switzerland,Costa Rica,2,2,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,27/06/2018,Mexico,Sweden,0,3,Mexico,Sweden,FALSE,FALSE,FALSE,FALSE
+2018,27/06/2018,South Korea,Germany,2,0,South Korea,South Korea,FALSE,FALSE,FALSE,FALSE
+2018,26/06/2018,Iceland,Croatia,1,2,Iceland,Croatia,FALSE,FALSE,FALSE,FALSE
+2018,26/06/2018,Nigeria,Argentina,1,2,Nigeria,Argentina,FALSE,FALSE,FALSE,FALSE
+2018,26/06/2018,Australia,Peru,0,2,Australia,Peru,FALSE,FALSE,FALSE,FALSE
+2018,26/06/2018,Denmark,France,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,25/06/2018,Iran,Portugal,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,25/06/2018,Spain,Morocco,2,2,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,25/06/2018,Saudi Arabia,Egypt,2,1,Saudi Arabia,Saudi Arabia,FALSE,FALSE,FALSE,FALSE
+2018,25/06/2018,Uruguay,Russia,3,0,Uruguay,Uruguay,FALSE,FALSE,FALSE,FALSE
+2018,24/06/2018,Poland,Colombia,0,3,Poland,Colombia,FALSE,FALSE,FALSE,FALSE
+2018,24/06/2018,Japan,Senegal,2,2,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,24/06/2018,England,Panama,6,1,England,England,FALSE,FALSE,FALSE,FALSE
+2018,23/06/2018,Germany,Sweden,2,1,Germany,Germany,FALSE,FALSE,FALSE,FALSE
+2018,23/06/2018,South Korea,Mexico,1,2,South Korea,Mexico,FALSE,FALSE,FALSE,FALSE
+2018,23/06/2018,Belgium,Tunisia,5,2,Belgium,Belgium,FALSE,FALSE,FALSE,FALSE
+2018,22/06/2018,Serbia,Switzerland,1,2,Serbia,Switzerland,FALSE,FALSE,FALSE,FALSE
+2018,22/06/2018,Nigeria,Iceland,2,0,Nigeria,Nigeria,FALSE,FALSE,FALSE,FALSE
+2018,22/06/2018,Brazil,Costa Rica,2,0,Brazil,Brazil,FALSE,FALSE,FALSE,FALSE
+2018,21/06/2018,Argentina,Croatia,0,3,Argentina,Croatia,FALSE,FALSE,FALSE,FALSE
+2018,21/06/2018,France,Peru,1,0,France,France,FALSE,FALSE,FALSE,FALSE
+2018,21/06/2018,Denmark,Australia,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,20/06/2018,Iran,Spain,0,1,Iran,Spain,FALSE,FALSE,FALSE,FALSE
+2018,20/06/2018,Uruguay,Saudi Arabia,1,0,Uruguay,Uruguay,FALSE,FALSE,FALSE,FALSE
+2018,20/06/2018,Portugal,Morocco,1,0,Portugal,Portugal,FALSE,FALSE,FALSE,FALSE
+2018,19/06/2018,Russia,Egypt,3,1,Russia,Russia,FALSE,FALSE,FALSE,FALSE
+2018,19/06/2018,Poland,Senegal,1,2,Poland,Senegal,FALSE,FALSE,FALSE,FALSE
+2018,19/06/2018,Colombia,Japan,1,2,Colombia,Japan,FALSE,FALSE,FALSE,FALSE
+2018,18/06/2018,Tunisia,England,1,2,Tunisia,England,FALSE,FALSE,FALSE,FALSE
+2018,18/06/2018,Belgium,Panama,3,0,Belgium,Belgium,FALSE,FALSE,FALSE,FALSE
+2018,18/06/2018,Sweden,South Korea,1,0,Sweden,Sweden,FALSE,FALSE,FALSE,FALSE
+2018,17/06/2018,Brazil,Switzerland,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,17/06/2018,Germany,Mexico,0,1,Germany,Mexico,FALSE,FALSE,FALSE,FALSE
+2018,17/06/2018,Costa Rica,Serbia,0,1,Costa Rica,Serbia,FALSE,FALSE,FALSE,FALSE
+2018,16/06/2018,Croatia,Nigeria,2,0,Croatia,Croatia,FALSE,FALSE,FALSE,FALSE
+2018,16/06/2018,Peru,Denmark,0,1,Peru,Denmark,FALSE,FALSE,FALSE,FALSE
+2018,16/06/2018,Argentina,Iceland,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,16/06/2018,France,Australia,2,1,France,France,FALSE,FALSE,FALSE,FALSE
+2018,15/06/2018,Portugal,Spain,3,3,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2018,15/06/2018,Morocco,Iran,0,1,Morocco,Iran,FALSE,FALSE,FALSE,FALSE
+2018,15/06/2018,Egypt,Uruguay,0,1,Egypt,Uruguay,FALSE,FALSE,FALSE,FALSE
+2018,14/06/2018,Russia,Saudi Arabia,5,0,Russia,Russia,FALSE,FALSE,FALSE,FALSE
+2022,18/12/2022,Argentia,France,4,3,Argentia,Argentia,FALSE,TRUE,FALSE,FALSE
+2022,17/12/2022,Croatia,Morocco,2,1,Croatia,Croatia,FALSE,FALSE,FALSE,FALSE
+2022,14/12/2022,France,Morocco,2,0,France,France,FALSE,FALSE,TRUE,FALSE
+2022,13/12/2022,Argentina,Croatia,3,0,Argentina,Argentina,FALSE,FALSE,TRUE,FALSE
+2022,10/12/2022,England,France,1,2,England,France,FALSE,FALSE,FALSE,TRUE
+2022,10/12/2022,Morocco,Portugal,1,0,Morocco,Morocco,FALSE,FALSE,FALSE,TRUE
+2022,09/12/2022,Netherlands,Argentina,2,3,Netherlands,Argentina,FALSE,FALSE,FALSE,TRUE
+2022,09/12/2022,Croatia,Brazil,2,1,Croatia,Croatia,FALSE,FALSE,FALSE,TRUE
+2022,06/12/2022,Portugal,Switzerland,6,1,Portugal,Portugal,FALSE,FALSE,FALSE,FALSE
+2022,06/12/2022,Morocco,Spain,1,0,Morocco,Morocco,FALSE,FALSE,FALSE,FALSE
+2022,05/12/2022,Brazil,South Korea,4,1,Brazil,Brazil,FALSE,FALSE,FALSE,FALSE
+2022,05/12/2022,Japan,Croatia,1,2,Japan,Croatia,FALSE,FALSE,FALSE,FALSE
+2022,04/12/2022,England,Senegal,3,0,England,England,FALSE,FALSE,FALSE,FALSE
+2022,04/12/2022,France,Poland,3,1,France,France,FALSE,FALSE,FALSE,FALSE
+2022,03/12/2022,Argentina,Australia,2,1,Argentina,Argentina,FALSE,FALSE,FALSE,FALSE
+2022,03/12/2022,Netherlands,USA,3,1,Netherlands,Netherlands,FALSE,FALSE,FALSE,FALSE
+2022,02/12/2022,Cameroon,Brazil,1,0,Cameroon,Cameroon,FALSE,FALSE,FALSE,FALSE
+2022,02/12/2022,Serbia,Switzerland,2,3,Serbia,Switzerland,FALSE,FALSE,FALSE,FALSE
+2022,02/12/2022,Ghana,Uruguay,0,2,Ghana,Uruguay,FALSE,FALSE,FALSE,FALSE
+2022,02/12/2022,South Korea,Portugal,2,1,South Korea,South Korea,FALSE,FALSE,FALSE,FALSE
+2022,01/12/2022,Costa Rica,Germany,2,4,Costa Rica,Germany,FALSE,FALSE,FALSE,FALSE
+2022,01/12/2022,Japan,Spain,2,1,Japan,Japan,FALSE,FALSE,FALSE,FALSE
+2022,01/12/2022,Canada,Morocco,1,2,Canada,Morocco,FALSE,FALSE,FALSE,FALSE
+2022,01/12/2022,Croatia,Belgium,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,30/11/2022,Poland,Argentina,0,2,Poland,Argentina,FALSE,FALSE,FALSE,FALSE
+2022,30/11/2022,Saudi Arabia,Mexico,1,2,Saudi Arabia,Mexico,FALSE,FALSE,FALSE,FALSE
+2022,30/11/2022,Australia,Denmark,1,0,Australia,Australia,FALSE,FALSE,FALSE,FALSE
+2022,30/11/2022,Tunisia,France,1,0,Tunisia,Tunisia,FALSE,FALSE,FALSE,FALSE
+2022,29/11/2022,Iran,USA,0,1,Iran,USA,FALSE,FALSE,FALSE,FALSE
+2022,29/11/2022,Wales,England,0,3,Wales,England,FALSE,FALSE,FALSE,FALSE
+2022,29/11/2022,Ecuador,Senegal,1,2,Ecuador,Senegal,FALSE,FALSE,FALSE,FALSE
+2022,29/11/2022,Netherlands,Qatar,2,0,Netherlands,Netherlands,FALSE,FALSE,FALSE,FALSE
+2022,28/11/2022,Portugal,Uruguay,2,0,Portugal,Portugal,FALSE,FALSE,FALSE,FALSE
+2022,28/11/2022,Brazil,Switzerland,1,0,Brazil,Brazil,FALSE,FALSE,FALSE,FALSE
+2022,28/11/2022,South Korea,Ghana,2,3,South Korea,Ghana,FALSE,FALSE,FALSE,FALSE
+2022,28/11/2022,Cameroon,Serbia,3,3,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,27/11/2022,Spain,Germany,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,27/11/2022,Croatia,Canada,4,1,Croatia,Croatia,FALSE,FALSE,FALSE,FALSE
+2022,27/11/2022,Belgium,Morocco,0,2,Belgium,Morocco,FALSE,FALSE,FALSE,FALSE
+2022,27/11/2022,Japan,Costa Rica,0,1,Japan,Costa Rica,FALSE,FALSE,FALSE,FALSE
+2022,26/11/2022,Argentina,Mexico,2,0,Argentina,Argentina,FALSE,FALSE,FALSE,FALSE
+2022,26/11/2022,France,Denmark,2,1,France,France,FALSE,FALSE,FALSE,FALSE
+2022,26/11/2022,Poland,Saudi Arabia,2,0,Poland,Poland,FALSE,FALSE,FALSE,FALSE
+2022,26/11/2022,Tunisia,Australia,0,1,Tunisia,Australia,FALSE,FALSE,FALSE,FALSE
+2022,25/11/2022,England,USA,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,25/11/2022,Netherlands,Ecuador,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,25/11/2022,Qatar,Senegal,1,3,Qatar,Senegal,FALSE,FALSE,FALSE,FALSE
+2022,25/11/2022,Wales,Iran,0,2,Wales,Iran,FALSE,FALSE,FALSE,FALSE
+2022,24/11/2022,Brazil,Serbia,2,0,Brazil,Brazil,FALSE,FALSE,FALSE,FALSE
+2022,24/11/2022,Portugal,Ghana,3,2,Portugal,Portugal,FALSE,FALSE,FALSE,FALSE
+2022,24/11/2022,Uruguay,South Korea,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,24/11/2022,Switzerland,Cameroon,1,0,Switzerland,Switzerland,FALSE,FALSE,FALSE,FALSE
+2022,23/11/2022,Belgium,Canada,1,0,Belgium,Belgium,FALSE,FALSE,FALSE,FALSE
+2022,23/11/2022,Spain,Costa Rica,7,0,Spain,Spain,FALSE,FALSE,FALSE,FALSE
+2022,23/11/2022,Germany,Japan,1,2,Germany,Japan,FALSE,FALSE,FALSE,FALSE
+2022,23/11/2022,Morocco,Croatia,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,22/11/2022,France,Australia,4,1,France,France,FALSE,FALSE,FALSE,FALSE
+2022,22/11/2022,Mexico,Poland,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,22/11/2022,Denmark,Tunisia,0,0,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,22/11/2022,Argentina,Saudi Arabia,1,2,Argentina,Saudi Arabia,FALSE,FALSE,FALSE,FALSE
+2022,21/11/2022,USA,Wales,1,1,Draw,Draw,FALSE,FALSE,FALSE,FALSE
+2022,21/11/2022,Senegal,Netherlands,0,2,Senegal,Netherlands,FALSE,FALSE,FALSE,FALSE
+2022,21/11/2022,England,Iran,6,2,England,England,FALSE,FALSE,FALSE,FALSE
+2022,20/11/2022,Qatar,Ecuador,0,2,Qatar,Ecuador,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,2271 @@
+Season,DateofMatch,HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Winner,Location,Derby
+2018/2019,10/05/2018,Brighton & Hove Albion,West Ham United,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,11/08/2018,Watford FC,Brighton & Hove Albion,2,0,Watford FC,Watford,FALSE
+2018/2019,11/08/2018,AFC Bournemouth,Cardiff City,2,0,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,04/12/2018,AFC Bournemouth,Huddersfield Town,2,1,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,11/08/2018,Fulham FC,Crystal Palace,0,2,Fulham FC,London,TRUE
+2018/2019,11/08/2018,Wolverhampton Wanderers,Everton FC,2,2,Draw,Wolverhampton,FALSE
+2018/2019,11/08/2018,Newcastle United,Tottenham Hotspur,1,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,12/08/2018,Southampton FC,Burnley FC,0,0,Draw,London,FALSE
+2018/2019,12/08/2018,Arsenal FC,Manchester City,0,2,Arsenal FC,London,FALSE
+2018/2019,12/08/2018,Liverpool FC,West Ham United,4,0,Liverpool FC,Liverpool,FALSE
+2018/2019,18/08/2018,West Ham United,AFC Bournemouth,1,2,West Ham United,London,FALSE
+2018/2019,18/08/2018,Chelsea FC,Arsenal FC,3,2,Chelsea FC,London,TRUE
+2018/2019,16/03/2019,AFC Bournemouth,Newcastle United,2,2,Draw,Bournemouth,FALSE
+2022/2023,01/10/2022,AFC Bournemouth,Brentford FC,0,0,Draw,Bournemouth,FALSE
+2018/2019,18/08/2018,Everton FC,Southampton FC,2,1,Everton FC,Liverpool,FALSE
+2018/2019,18/08/2018,Leicester City,Wolverhampton Wanderers,2,0,Leicester City,Leicester,FALSE
+2022/2023,30/04/2023,AFC Bournemouth,Leeds United,4,1,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,19/08/2018,Brighton & Hove Albion,Manchester United,3,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,19/08/2018,Burnley FC,Watford FC,1,3,Burnley FC,Burnley,FALSE
+2018/2019,20/08/2018,Crystal Palace,Liverpool FC,0,2,Crystal Palace,London,FALSE
+2018/2019,25/08/2018,Liverpool FC,Brighton & Hove Albion,1,0,Liverpool FC,Liverpool,FALSE
+2023/2024,13/03/2024,AFC Bournemouth,Luton Town,4,3,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,25/08/2018,AFC Bournemouth,Everton FC,2,2,Draw,Bournemouth,FALSE
+2018/2019,25/08/2018,Southampton FC,Leicester City,1,2,Southampton FC,Southampton,FALSE
+2018/2019,25/08/2018,Wolverhampton Wanderers,Manchester City,1,1,Draw,Wolverhampton,FALSE
+2018/2019,25/08/2018,Arsenal FC,West Ham United,3,1,Arsenal FC,London,TRUE
+2018/2019,26/08/2018,Fulham FC,Burnley FC,4,2,Fulham FC,London,FALSE
+2018/2019,26/08/2018,Newcastle United,Chelsea FC,1,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,26/08/2018,Watford FC,Crystal Palace,2,1,Watford FC,Watford,FALSE
+2018/2019,27/08/2018,Manchester United,Tottenham Hotspur,0,3,Manchester United,Manchester,FALSE
+2018/2019,01/09/2018,Chelsea FC,AFC Bournemouth,2,0,Chelsea FC,London,FALSE
+2018/2019,01/09/2018,Brighton & Hove Albion,Fulham FC,2,2,Draw,Brighton and Hove,FALSE
+2023/2024,11/05/2024,AFC Bournemouth,Brentford FC,1,2,Brentford FC,Bournemouth,FALSE
+2018/2019,01/09/2018,Leicester City,Liverpool FC,1,2,Leicester City,Leicester,FALSE
+2018/2019,01/09/2018,Manchester City,Newcastle United,2,1,Manchester City,Manchester,FALSE
+2018/2019,01/09/2018,Crystal Palace,Southampton FC,0,2,Crystal Palace,London,FALSE
+2018/2019,01/09/2018,West Ham United,Wolverhampton Wanderers,0,1,West Ham United,London,FALSE
+2018/2019,08/12/2018,Arsenal FC,Huddersfield Town,1,0,Arsenal FC,London,FALSE
+2018/2019,02/09/2018,Burnley FC,Manchester United,0,2,Burnley FC,Burnley,FALSE
+2018/2019,02/09/2018,Watford FC,Tottenham Hotspur,2,1,Watford FC,Watford,FALSE
+2018/2019,01/01/2019,Arsenal FC,Fulham FC,4,1,Arsenal FC,London,FALSE
+2018/2019,29/01/2019,Arsenal FC,Cardiff City,2,1,Arsenal FC,London,FALSE
+2020/2021,14/02/2021,Arsenal FC,Leeds United,4,2,Arsenal FC,London,FALSE
+2018/2019,15/09/2018,Manchester City,Fulham FC,3,0,Manchester City,Manchester,FALSE
+2018/2019,15/09/2018,AFC Bournemouth,Leicester City,4,2,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,15/09/2018,Watford FC,Manchester United,1,2,Watford FC,Watford,FALSE
+2018/2019,15/09/2018,Tottenham Hotspur,Tottenham Hotspur,1,2,Tottenham Hotspur,London,TRUE
+2018/2019,16/09/2018,Wolverhampton Wanderers,Burnley FC,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,16/09/2018,Everton FC,West Ham United,1,3,Everton FC,Liverpool,FALSE
+2018/2019,17/09/2018,Southampton FC,Brighton & Hove Albion,2,2,Draw,Southampton,FALSE
+2018/2019,22/09/2018,Burnley FC,AFC Bournemouth,4,0,Burnley FC,Burnley,FALSE
+2020/2021,18/04/2021,Arsenal FC,Fulham FC,1,1,Draw,London,FALSE
+2020/2021,09/05/2021,Arsenal FC,West Bromwich Albion,3,1,Arsenal FC,London,FALSE
+2018/2019,22/09/2018,Crystal Palace,Newcastle United,0,0,Draw,London,FALSE
+2018/2019,22/09/2018,Liverpool FC,Southampton FC,3,0,Liverpool FC,Liverpool,FALSE
+2018/2019,22/09/2018,Brighton & Hove Albion,Tottenham Hotspur,1,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,22/09/2018,Fulham FC,Watford FC,1,1,Draw,London,FALSE
+2018/2019,22/09/2018,Manchester United,Wolverhampton Wanderers,1,1,Draw,Manchester,FALSE
+2018/2019,23/09/2018,West Ham United,Chelsea FC,0,0,Draw,London,TRUE
+2018/2019,23/09/2018,Arsenal FC,Everton FC,2,0,Arsenal FC,London,FALSE
+2018/2019,29/09/2018,Manchester City,Brighton & Hove Albion,2,0,Manchester City,Manchester,FALSE
+2021/2022,08/05/2022,Arsenal FC,Leeds United,2,1,Arsenal FC,London,FALSE
+2018/2019,29/09/2018,Newcastle United,Leicester City,0,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,29/09/2018,Chelsea FC,Liverpool FC,1,1,Draw,London,FALSE
+2018/2019,29/09/2018,West Ham United,Manchester United,3,1,West Ham United,London,FALSE
+2018/2019,29/09/2018,Wolverhampton Wanderers,Southampton FC,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,27/08/2022,Arsenal FC,Fulham FC,2,1,Arsenal FC,London,FALSE
+2018/2019,29/09/2018,Arsenal FC,Watford FC,2,0,Arsenal FC,London,FALSE
+2022/2023,30/10/2022,Arsenal FC,Nottingham Forest,5,0,Arsenal FC,London,FALSE
+2018/2019,01/10/2018,AFC Bournemouth,Crystal Palace,2,1,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,06/10/2018,Watford FC,AFC Bournemouth,0,4,Watford FC,Watford,FALSE
+2022/2023,01/04/2023,Arsenal FC,Leeds United,4,1,Arsenal FC,London,FALSE
+2018/2019,06/10/2018,Leicester City,Everton FC,1,2,Leicester City,Leicester,FALSE
+2023/2024,12/08/2023,Arsenal FC,Nottingham Forest,2,1,Arsenal FC,London,FALSE
+2018/2019,06/10/2018,Manchester United,Newcastle United,3,2,Manchester United,Manchester,FALSE
+2023/2024,26/08/2023,Arsenal FC,Fulham FC,2,2,Draw,London,FALSE
+2018/2019,07/10/2018,Fulham FC,Arsenal FC,1,5,Fulham FC,London,TRUE
+2018/2019,07/10/2018,Southampton FC,Chelsea FC,0,3,Southampton FC,Southampton,FALSE
+2018/2019,07/10/2018,Liverpool FC,Manchester City,0,0,Draw,Liverpool,FALSE
+2018/2019,08/10/2018,Manchester United,Leicester City,2,1,Manchester United,Manchester,FALSE
+2018/2019,20/10/2018,Newcastle United,Brighton & Hove Albion,0,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,20/10/2018,Manchester City,Burnley FC,5,0,Manchester City,Manchester,FALSE
+2023/2024,03/04/2024,Arsenal FC,Luton Town,2,0,Arsenal FC,London,FALSE
+2020/2021,23/10/2020,Aston Villa,Leeds United,0,3,Leeds United,Birmingham,FALSE
+2018/2019,20/10/2018,Chelsea FC,Manchester United,2,2,Draw,London,FALSE
+2018/2019,20/10/2018,AFC Bournemouth,Southampton FC,0,0,Draw,Bournemouth,TRUE
+2018/2019,20/10/2018,West Ham United,Tottenham Hotspur,0,1,West Ham United,London,TRUE
+2018/2019,20/10/2018,Wolverhampton Wanderers,Watford FC,0,2,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,21/10/2018,Everton FC,Crystal Palace,2,0,Everton FC,Liverpool,FALSE
+2018/2019,22/10/2018,Arsenal FC,Leicester City,3,1,Arsenal FC,London,FALSE
+2018/2019,27/10/2018,Fulham FC,AFC Bournemouth,0,3,Fulham FC,London,FALSE
+2020/2021,04/04/2021,Aston Villa,Fulham FC,3,1,Aston Villa,Birmingham,FALSE
+2020/2021,25/04/2021,Aston Villa,West Bromwich Albion,2,2,Draw,Birmingham,FALSE
+2018/2019,27/10/2018,Southampton FC,Newcastle United,0,0,Draw,Southampton,FALSE
+2018/2019,27/10/2018,Leicester City,West Ham United,1,1,Draw,Leicester,FALSE
+2018/2019,27/10/2018,Brighton & Hove Albion,Wolverhampton Wanderers,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,28/10/2018,Crystal Palace,Arsenal FC,2,2,Draw,London,TRUE
+2018/2019,28/10/2018,Burnley FC,Chelsea FC,0,4,Burnley FC,Burnley,FALSE
+2018/2019,28/10/2018,Manchester United,Everton FC,2,1,Manchester United,Manchester,FALSE
+2018/2019,29/10/2018,Tottenham Hotspur,Manchester City,0,1,Tottenham Hotspur,London,FALSE
+2018/2019,03/11/2018,Everton FC,Brighton & Hove Albion,3,1,Everton FC,Liverpool,FALSE
+2018/2019,03/11/2018,West Ham United,Burnley FC,4,2,West Ham United,London,FALSE
+2021/2022,28/08/2021,Aston Villa,Brentford FC,1,1,Draw,Birmingham,FALSE
+2018/2019,03/11/2018,Arsenal FC,Liverpool FC,1,1,Draw,London,FALSE
+2018/2019,03/11/2018,AFC Bournemouth,Manchester United,1,2,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,03/11/2018,Wolverhampton Wanderers,Tottenham Hotspur,2,3,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,03/11/2018,Newcastle United,Watford FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,04/11/2018,Chelsea FC,Crystal Palace,3,1,Chelsea FC,London,TRUE
+2018/2019,04/11/2018,Manchester City,Southampton FC,6,1,Manchester City,Manchester,FALSE
+2021/2022,09/02/2022,Aston Villa,Leeds United,3,3,Draw,Birmingham,FALSE
+2018/2019,10/11/2018,Newcastle United,AFC Bournemouth,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,23/10/2022,Aston Villa,Brentford FC,4,0,Aston Villa,Birmingham,FALSE
+2022/2023,13/01/2023,Aston Villa,Leeds United,2,1,Aston Villa,Birmingham,FALSE
+2018/2019,10/11/2018,Crystal Palace,Tottenham Hotspur,0,1,Crystal Palace,London,TRUE
+2018/2019,10/11/2018,Southampton FC,Watford FC,1,1,Draw,Southampton,FALSE
+2022/2023,18/03/2023,Aston Villa,AFC Bournemouth,2,0,Aston Villa,Birmingham,FALSE
+2018/2019,11/11/2018,Chelsea FC,Everton FC,0,0,Draw,London,FALSE
+2022/2023,08/04/2023,Aston Villa,Nottingham Forest,1,2,Nottingham Forest,Birmingham,FALSE
+2018/2019,11/11/2018,Manchester City,Manchester United,3,1,Manchester City,Manchester,TRUE
+2018/2019,11/11/2018,Arsenal FC,Wolverhampton Wanderers,1,1,Draw,London,FALSE
+2022/2023,25/04/2023,Aston Villa,Fulham FC,1,0,Aston Villa,Birmingham,FALSE
+2018/2019,24/11/2018,Tottenham Hotspur,Chelsea FC,3,1,Tottenham Hotspur,London,TRUE
+2018/2019,24/11/2018,Manchester United,Crystal Palace,0,0,Draw,Manchester,FALSE
+2018/2019,24/11/2018,Brighton & Hove Albion,Leicester City,1,1,Draw,Brighton and Hove,FALSE
+2018/2019,24/11/2018,Watford FC,Liverpool FC,0,3,Watford FC,Watford,FALSE
+2018/2019,24/11/2018,West Ham United,Manchester City,0,4,West Ham United,London,FALSE
+2018/2019,24/11/2018,Fulham FC,Southampton FC,3,2,Fulham FC,London,FALSE
+2018/2019,25/11/2018,AFC Bournemouth,Arsenal FC,1,2,AFC Bournemouth,Bournemouth,FALSE
+2023/2024,29/10/2023,Aston Villa,Luton Town,3,1,Aston Villa,Birmingham,FALSE
+2018/2019,26/11/2018,Burnley FC,Newcastle United,1,2,Burnley FC,Burnley,FALSE
+2023/2024,12/11/2023,Aston Villa,Fulham FC,3,1,Aston Villa,Birmingham,FALSE
+2018/2019,01/12/2018,Manchester City,AFC Bournemouth,3,1,Manchester City,Manchester,FALSE
+2023/2024,24/02/2024,Aston Villa,Nottingham Forest,4,2,Aston Villa,Birmingham,FALSE
+2018/2019,01/12/2018,Crystal Palace,Burnley FC,2,0,Crystal Palace,London,FALSE
+2018/2019,01/12/2018,Southampton FC,Manchester United,2,2,Draw,Southampton,FALSE
+2018/2019,01/12/2018,Leicester City,Watford FC,2,0,Leicester City,Leicester,FALSE
+2018/2019,01/12/2018,Newcastle United,West Ham United,0,3,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,02/12/2018,Liverpool FC,Everton FC,1,0,Liverpool FC,Liverpool,TRUE
+2023/2024,06/04/2024,Aston Villa,Brentford FC,3,3,Draw,Birmingham,FALSE
+2018/2019,02/12/2018,Arsenal FC,Tottenham Hotspur,4,2,Arsenal FC,London,TRUE
+2023/2024,21/04/2024,Aston Villa,AFC Bournemouth,3,1,Aston Villa,Birmingham,FALSE
+2018/2019,04/12/2018,Brighton & Hove Albion,Crystal Palace,3,1,Brighton & Hove Albion,Brighton and Hove,TRUE
+2021/2022,22/05/2022,Brentford FC,Leeds United,1,2,Leeds United,London,FALSE
+2018/2019,04/12/2018,Watford FC,Manchester City,1,2,Watford FC,Watford,FALSE
+2018/2019,05/12/2018,Manchester United,Arsenal FC,2,2,Draw,Manchester,FALSE
+2018/2019,05/12/2018,Wolverhampton Wanderers,Chelsea FC,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,05/12/2018,Fulham FC,Leicester City,1,1,Draw,London,FALSE
+2018/2019,05/12/2018,Burnley FC,Liverpool FC,1,3,Burnley FC,Burnley,FALSE
+2018/2019,05/12/2018,Everton FC,Newcastle United,1,1,Draw,Liverpool,FALSE
+2018/2019,05/12/2018,Tottenham Hotspur,Southampton FC,3,1,Tottenham Hotspur,London,FALSE
+2018/2019,08/12/2018,Burnley FC,Brighton & Hove Albion,1,0,Burnley FC,Burnley,FALSE
+2018/2019,08/12/2018,West Ham United,Crystal Palace,3,2,West Ham United,London,TRUE
+2018/2019,08/12/2018,Manchester United,Fulham FC,4,1,Manchester United,Manchester,FALSE
+2022/2023,03/09/2022,Brentford FC,Leeds United,5,2,Brentford FC,London,FALSE
+2018/2019,08/12/2018,AFC Bournemouth,Liverpool FC,0,4,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,08/12/2018,Chelsea FC,Manchester City,2,0,Chelsea FC,London,FALSE
+2022/2023,06/03/2023,Brentford FC,Fulham FC,3,2,Brentford FC,London,TRUE
+2018/2019,08/12/2018,Leicester City,Tottenham Hotspur,0,2,Leicester City,Leicester,FALSE
+2018/2019,09/12/2018,Newcastle United,Wolverhampton Wanderers,1,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,10/12/2018,Everton FC,Watford FC,2,2,Draw,Liverpool,FALSE
+2018/2019,15/12/2018,Wolverhampton Wanderers,AFC Bournemouth,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,15/12/2018,Tottenham Hotspur,Burnley FC,1,0,Tottenham Hotspur,London,FALSE
+2022/2023,29/04/2023,Brentford FC,Nottingham Forest,2,1,Brentford FC,London,FALSE
+2018/2019,15/12/2018,Manchester City,Everton FC,3,1,Manchester City,Manchester,FALSE
+2018/2019,15/12/2018,Crystal Palace,Leicester City,1,0,Crystal Palace,London,FALSE
+2023/2024,02/12/2023,Brentford FC,Luton Town,3,1,Brentford FC,London,FALSE
+2018/2019,15/12/2018,Fulham FC,West Ham United,0,2,Fulham FC,London,TRUE
+2018/2019,16/12/2018,Southampton FC,Arsenal FC,3,2,Southampton FC,Southampton,FALSE
+2018/2019,16/12/2018,Brighton & Hove Albion,Chelsea FC,1,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,16/12/2018,Liverpool FC,Manchester United,3,1,Liverpool FC,Liverpool,TRUE
+2018/2019,21/12/2018,Wolverhampton Wanderers,Liverpool FC,0,2,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,22/12/2018,AFC Bournemouth,Brighton & Hove Albion,2,0,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,22/12/2018,Arsenal FC,Burnley FC,3,1,Arsenal FC,London,FALSE
+2018/2019,22/12/2018,Manchester City,Crystal Palace,2,3,Manchester City,Manchester,FALSE
+2018/2019,22/12/2018,Newcastle United,Fulham FC,0,0,Draw,Newcastle Upon Tyne,FALSE
+2018/2019,22/12/2018,Chelsea FC,Leicester City,0,1,Chelsea FC,London,FALSE
+2023/2024,20/01/2024,Brentford FC,Nottingham Forest,3,2,Brentford FC,London,FALSE
+2023/2024,04/05/2024,Brentford FC,Fulham FC,0,0,Draw,London,TRUE
+2018/2019,22/12/2018,West Ham United,Watford FC,0,2,West Ham United,London,FALSE
+2018/2019,23/12/2018,Everton FC,Tottenham Hotspur,2,6,Everton FC,Liverpool,FALSE
+2018/2019,26/12/2018,Tottenham Hotspur,AFC Bournemouth,5,0,Tottenham Hotspur,London,FALSE
+2018/2019,26/12/2018,Brighton & Hove Albion,Arsenal FC,1,1,Draw,Brighton and Hove,FALSE
+2018/2019,03/02/2019,Brighton & Hove Albion,Huddersfield Town,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,26/12/2018,Watford FC,Chelsea FC,1,2,Watford FC,Watford,FALSE
+2018/2019,26/12/2018,Burnley FC,Everton FC,1,5,Burnley FC,Burnley,FALSE
+2018/2019,16/04/2019,Brighton & Hove Albion,Cardiff City,0,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,26/12/2018,Leicester City,Manchester City,2,1,Leicester City,Leicester,FALSE
+2018/2019,26/12/2018,Liverpool FC,Newcastle United,4,0,Liverpool FC,Liverpool,FALSE
+2020/2021,26/10/2020,Brighton & Hove Albion,West Bromwich Albion,1,1,Draw,Brighton and Hove,FALSE
+2018/2019,27/12/2018,Southampton FC,West Ham United,1,2,Southampton FC,Southampton,FALSE
+2018/2019,29/12/2018,Liverpool FC,Arsenal FC,5,1,Liverpool FC,Liverpool,FALSE
+2020/2021,01/05/2021,Brighton & Hove Albion,Leeds United,2,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,29/12/2018,Brighton & Hove Albion,Everton FC,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2021/2022,27/11/2021,Brighton & Hove Albion,Leeds United,0,0,Draw,Brighton and Hove,FALSE
+2018/2019,29/12/2018,Watford FC,Newcastle United,1,1,Draw,Watford,FALSE
+2021/2022,26/12/2021,Brighton & Hove Albion,Brentford FC,2,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,30/12/2018,Manchester United,AFC Bournemouth,4,1,Manchester United,Manchester,FALSE
+2018/2019,30/12/2018,Crystal Palace,Chelsea FC,0,1,Crystal Palace,London,TRUE
+2018/2019,30/12/2018,Southampton FC,Manchester City,1,3,Southampton FC,Southampton,FALSE
+2018/2019,30/12/2018,Burnley FC,West Ham United,2,0,Burnley FC,Burnley,FALSE
+2022/2023,27/08/2022,Brighton & Hove Albion,Leeds United,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,01/01/2019,Everton FC,Leicester City,0,1,Everton FC,Liverpool,FALSE
+2022/2023,18/10/2022,Brighton & Hove Albion,Nottingham Forest,0,0,Draw,Brighton and Hove,FALSE
+2018/2019,04/01/2019,Arsenal FC,Newcastle United,2,0,Arsenal FC,London,FALSE
+2018/2019,13/01/2019,Tottenham Hotspur,AFC Bournemouth,0,1,Tottenham Hotspur,London,FALSE
+2018/2019,13/01/2019,Everton FC,Everton FC,2,0,Everton FC,Liverpool,TRUE
+2018/2019,14/01/2019,Manchester City,Wolverhampton Wanderers,3,0,Manchester City,Manchester,FALSE
+2018/2019,19/01/2019,Manchester United,Brighton & Hove Albion,2,1,Manchester United,Manchester,FALSE
+2018/2019,19/01/2019,Watford FC,Burnley FC,0,0,Draw,Watford,FALSE
+2022/2023,01/04/2023,Brighton & Hove Albion,Brentford FC,3,3,Draw,Brighton and Hove,FALSE
+2018/2019,19/01/2019,Arsenal FC,Chelsea FC,2,0,Arsenal FC,London,TRUE
+2018/2019,19/01/2019,Liverpool FC,Crystal Palace,4,3,Liverpool FC,Liverpool,FALSE
+2018/2019,19/01/2019,Southampton FC,Everton FC,2,1,Southampton FC,Southampton,FALSE
+2018/2019,19/01/2019,Wolverhampton Wanderers,Leicester City,4,3,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,19/01/2019,AFC Bournemouth,West Ham United,2,0,AFC Bournemouth,Bournemouth,FALSE
+2023/2024,12/08/2023,Brighton & Hove Albion,Luton Town,4,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,20/01/2019,Fulham FC,Tottenham Hotspur,1,2,Fulham FC,London,TRUE
+2018/2019,29/01/2019,Fulham FC,Brighton & Hove Albion,4,2,Fulham FC,London,FALSE
+2018/2019,29/01/2019,Manchester United,Burnley FC,2,2,Draw,Manchester,FALSE
+2023/2024,06/12/2023,Brighton & Hove Albion,Brentford FC,2,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2023/2024,10/03/2024,Brighton & Hove Albion,Nottingham Forest,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,29/01/2019,Newcastle United,Manchester City,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,29/01/2019,Wolverhampton Wanderers,West Ham United,3,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,30/01/2019,AFC Bournemouth,Chelsea FC,4,0,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,30/01/2019,Southampton FC,Crystal Palace,1,1,Draw,Southampton,FALSE
+2018/2019,30/01/2019,Liverpool FC,Leicester City,1,1,Draw,Liverpool,FALSE
+2018/2019,30/01/2019,Tottenham Hotspur,Watford FC,2,1,Tottenham Hotspur,London,FALSE
+2018/2019,01/02/2019,West Ham United,Brighton & Hove Albion,2,2,Draw,London,FALSE
+2018/2019,06/10/2018,Burnley FC,Huddersfield Town,1,1,Draw,Burnley,FALSE
+2018/2019,01/02/2019,Wolverhampton Wanderers,Crystal Palace,0,2,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,01/02/2019,Newcastle United,Manchester United,0,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,01/02/2019,Chelsea FC,Southampton FC,0,0,Draw,London,FALSE
+2018/2019,01/02/2019,AFC Bournemouth,Watford FC,3,3,Draw,Bournemouth,FALSE
+2018/2019,13/04/2019,Burnley FC,Cardiff City,2,0,Burnley FC,Burnley,FALSE
+2018/2019,01/12/2019,Burnley FC,Fulham FC,2,1,Burnley FC,Burnley,FALSE
+2020/2021,17/02/2021,Burnley FC,Fulham FC,1,1,Draw,Burnley,FALSE
+2018/2019,02/02/2019,Tottenham Hotspur,Newcastle United,1,0,Tottenham Hotspur,London,FALSE
+2018/2019,02/02/2019,Burnley FC,Southampton FC,1,1,Draw,Burnley,FALSE
+2018/2019,02/02/2019,Brighton & Hove Albion,Watford FC,0,0,Draw,Brighton and Hove,FALSE
+2018/2019,02/02/2019,Everton FC,Wolverhampton Wanderers,1,3,Everton FC,Liverpool,FALSE
+2018/2019,03/02/2019,Tottenham Hotspur,Arsenal FC,1,1,Draw,London,TRUE
+2020/2021,15/05/2021,Burnley FC,Leeds United,0,4,Leeds United,Burnley,FALSE
+2018/2019,03/02/2019,Burnley FC,Crystal Palace,1,2,Burnley FC,Burnley,FALSE
+2021/2022,29/08/2021,Burnley FC,Leeds United,1,1,Draw,Burnley,FALSE
+2018/2019,03/02/2019,AFC Bournemouth,Manchester City,0,1,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,03/02/2019,West Ham United,Newcastle United,2,0,West Ham United,London,FALSE
+2018/2019,03/02/2019,Manchester United,Southampton FC,3,2,Manchester United,Manchester,FALSE
+2021/2022,30/10/2021,Burnley FC,Brentford FC,3,1,Burnley FC,Burnley,FALSE
+2018/2019,04/02/2019,Wolverhampton Wanderers,Manchester United,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,12/01/2024,Burnley FC,Luton Town,1,1,Draw,Burnley,FALSE
+2023/2024,03/02/2024,Burnley FC,Fulham FC,2,2,Draw,Burnley,FALSE
+2018/2019,23/02/2019,Leicester City,Crystal Palace,1,4,Leicester City,Leicester,FALSE
+2023/2024,16/03/2024,Burnley FC,Brentford FC,2,1,Burnley FC,Burnley,FALSE
+2018/2019,23/02/2019,Burnley FC,Tottenham Hotspur,2,1,Burnley FC,Burnley,FALSE
+2018/2019,23/02/2019,AFC Bournemouth,Wolverhampton Wanderers,1,1,Draw,Bournemouth,FALSE
+2018/2019,24/02/2019,Manchester United,Liverpool FC,0,0,Draw,Manchester,TRUE
+2018/2019,24/02/2019,Arsenal FC,Southampton FC,2,0,Arsenal FC,London,FALSE
+2018/2019,26/02/2019,Leicester City,Brighton & Hove Albion,2,1,Leicester City,Leicester,FALSE
+2018/2019,26/02/2019,Newcastle United,Burnley FC,2,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,18/08/2018,Cardiff City,Newcastle United,0,0,Draw,Cardiff,FALSE
+2018/2019,02/09/2018,Cardiff City,Arsenal FC,2,3,Cardiff City,Cardiff,FALSE
+2018/2019,27/02/2019,Arsenal FC,AFC Bournemouth,5,1,Arsenal FC,London,FALSE
+2018/2019,22/09/2018,Cardiff City,Manchester City,0,5,Cardiff City,Cardiff,FALSE
+2018/2019,27/02/2019,Crystal Palace,Manchester United,1,3,Crystal Palace,London,FALSE
+2018/2019,27/02/2019,Chelsea FC,Tottenham Hotspur,2,0,Chelsea FC,London,TRUE
+2018/2019,27/02/2019,Liverpool FC,Watford FC,5,0,Liverpool FC,Liverpool,FALSE
+2018/2019,27/02/2019,Manchester City,West Ham United,1,0,Manchester City,Manchester,FALSE
+2018/2019,01/03/2019,Manchester City,Liverpool FC,2,1,Manchester City,Manchester,TRUE
+2018/2019,02/03/2019,Manchester City,Arsenal FC,3,1,Manchester City,Manchester,FALSE
+2018/2019,02/03/2019,Leicester City,Manchester United,0,1,Leicester City,Leicester,FALSE
+2018/2019,03/03/2019,Fulham FC,Chelsea FC,1,2,Fulham FC,London,TRUE
+2018/2019,03/03/2019,Watford FC,Leicester City,2,1,Watford FC,Watford,FALSE
+2018/2019,03/03/2019,Everton FC,Liverpool FC,0,0,Draw,Liverpool,TRUE
+2018/2019,04/03/2019,Chelsea FC,Brighton & Hove Albion,3,0,Chelsea FC,London,FALSE
+2018/2019,04/03/2019,Manchester City,Cardiff City,2,0,Manchester City,Manchester,FALSE
+2018/2019,04/03/2019,Tottenham Hotspur,Crystal Palace,2,0,Tottenham Hotspur,London,TRUE
+2018/2019,30/09/2018,Cardiff City,Burnley FC,1,2,Cardiff City,Cardiff,FALSE
+2018/2019,16/03/2019,Burnley FC,Leicester City,1,2,Burnley FC,Burnley,FALSE
+2018/2019,20/10/2018,Cardiff City,Fulham FC,4,2,Cardiff City,Cardiff,FALSE
+2018/2019,17/03/2019,Everton FC,Chelsea FC,2,0,Everton FC,Liverpool,FALSE
+2018/2019,17/03/2019,Fulham FC,Liverpool FC,1,2,Fulham FC,London,FALSE
+2018/2019,30/03/2019,Leicester City,AFC Bournemouth,2,0,Leicester City,Leicester,FALSE
+2018/2019,30/03/2019,West Ham United,Everton FC,0,2,West Ham United,London,FALSE
+2018/2019,03/11/2018,Cardiff City,Leicester City,0,1,Cardiff City,Cardiff,FALSE
+2018/2019,30/03/2019,Fulham FC,Manchester City,0,2,Fulham FC,London,FALSE
+2018/2019,30/03/2019,Brighton & Hove Albion,Southampton FC,0,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,30/03/2019,Manchester United,Watford FC,2,1,Manchester United,Manchester,FALSE
+2018/2019,30/03/2019,Burnley FC,Wolverhampton Wanderers,2,0,Burnley FC,Burnley,FALSE
+2018/2019,10/11/2018,Cardiff City,Brighton & Hove Albion,2,1,Cardiff City,Cardiff,FALSE
+2018/2019,31/03/2019,Liverpool FC,Tottenham Hotspur,2,1,Liverpool FC,Liverpool,FALSE
+2018/2019,02/04/2019,West Ham United,Liverpool FC,1,1,Draw,London,FALSE
+2018/2019,13/04/2019,Brighton & Hove Albion,AFC Bournemouth,0,5,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,30/11/2018,Cardiff City,Wolverhampton Wanderers,2,1,Cardiff City,Cardiff,FALSE
+2018/2019,13/04/2019,Fulham FC,Everton FC,2,0,Fulham FC,London,FALSE
+2018/2019,08/12/2018,Cardiff City,Southampton FC,1,0,Cardiff City,Cardiff,TRUE
+2018/2019,13/04/2019,Manchester United,West Ham United,2,1,Manchester United,Manchester,FALSE
+2018/2019,13/04/2019,Southampton FC,Wolverhampton Wanderers,3,1,Southampton FC,Southampton,FALSE
+2018/2019,14/04/2019,Liverpool FC,Chelsea FC,2,0,Liverpool FC,Liverpool,FALSE
+2018/2019,14/04/2019,Crystal Palace,Manchester City,1,3,Crystal Palace,London,FALSE
+2018/2019,15/04/2019,Watford FC,Arsenal FC,0,1,Watford FC,Watford,FALSE
+2018/2019,22/12/2018,Cardiff City,Manchester United,1,5,Cardiff City,Cardiff,FALSE
+2018/2019,20/04/2019,Wolverhampton Wanderers,Brighton & Hove Albion,0,0,Draw,Wolverhampton,FALSE
+2018/2019,20/04/2019,AFC Bournemouth,Fulham FC,0,1,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,20/04/2019,West Ham United,Leicester City,2,2,Draw,London,FALSE
+2018/2019,20/04/2019,Newcastle United,Southampton FC,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,20/04/2019,Manchester City,Tottenham Hotspur,1,0,Manchester City,Manchester,FALSE
+2018/2019,01/01/2019,Cardiff City,Tottenham Hotspur,0,3,Cardiff City,Cardiff,FALSE
+2018/2019,21/04/2019,Arsenal FC,Crystal Palace,2,3,Arsenal FC,London,TRUE
+2018/2019,02/02/2019,Cardiff City,AFC Bournemouth,2,0,Cardiff City,Cardiff,FALSE
+2018/2019,21/04/2019,Everton FC,Manchester United,4,0,Everton FC,Liverpool,TRUE
+2018/2019,22/04/2019,Chelsea FC,Burnley FC,2,2,Draw,London,FALSE
+2018/2019,23/04/2019,Tottenham Hotspur,Brighton & Hove Albion,1,0,Tottenham Hotspur,London,FALSE
+2018/2019,23/04/2019,Watford FC,Southampton FC,1,1,Draw,Watford,FALSE
+2018/2019,24/04/2019,Wolverhampton Wanderers,Arsenal FC,3,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,24/04/2019,Manchester United,Manchester City,0,2,Manchester United,Manchester,TRUE
+2018/2019,22/02/2019,Cardiff City,Watford FC,1,5,Cardiff City,Cardiff,FALSE
+2018/2019,27/04/2019,Southampton FC,AFC Bournemouth,3,3,Draw,Southampton,TRUE
+2018/2019,26/02/2019,Cardiff City,Everton FC,0,3,Cardiff City,Cardiff,FALSE
+2018/2019,27/04/2019,Crystal Palace,Everton FC,0,0,Draw,London,FALSE
+2018/2019,27/04/2019,Brighton & Hove Albion,Newcastle United,1,1,Draw,Brighton and Hove,FALSE
+2018/2019,27/04/2019,Tottenham Hotspur,West Ham United,0,1,Tottenham Hotspur,London,TRUE
+2018/2019,27/04/2019,Watford FC,Wolverhampton Wanderers,1,2,Watford FC,Watford,FALSE
+2018/2019,28/04/2019,Leicester City,Arsenal FC,3,0,Leicester City,Leicester,FALSE
+2018/2019,28/04/2019,Manchester United,Chelsea FC,1,1,Draw,Manchester,FALSE
+2018/2019,28/04/2019,Burnley FC,Manchester City,0,1,Burnley FC,Burnley,FALSE
+2018/2019,04/05/2019,Southampton FC,Liverpool FC,1,3,Southampton FC,Southampton,FALSE
+2018/2019,02/06/2019,Everton FC,Manchester City,0,2,Everton FC,Liverpool,FALSE
+2018/2019,04/06/2019,AFC Bournemouth,Burnley FC,1,3,AFC Bournemouth,Bournemouth,FALSE
+2018/2019,04/06/2019,Newcastle United,Crystal Palace,0,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,31/03/2019,Cardiff City,Chelsea FC,1,2,Cardiff City,Cardiff,FALSE
+2018/2019,04/07/2019,Everton FC,Arsenal FC,1,0,Everton FC,Liverpool,FALSE
+2018/2019,04/08/2019,Chelsea FC,West Ham United,2,0,Chelsea FC,London,TRUE
+2019/2020,09/08/2019,Liverpool FC,Norwich City,4,1,Liverpool FC,Liverpool,FALSE
+2019/2020,10/08/2019,Tottenham Hotspur,Aston Villa,3,1,Tottenham Hotspur,London,FALSE
+2019/2020,10/08/2019,Watford FC,Brighton & Hove Albion,0,3,Brighton & Hove Albion,Watford,FALSE
+2019/2020,10/08/2019,Crystal Palace,Everton FC,0,0,Draw,London,FALSE
+2019/2020,10/08/2019,West Ham United,Manchester City,0,5,Manchester City,London,FALSE
+2019/2020,10/08/2019,AFC Bournemouth,Sheffield United,1,1,Draw,Bournemouth,FALSE
+2019/2020,10/08/2019,Burnley FC,Southampton FC,3,0,Burnley FC,Burnley,FALSE
+2019/2020,11/08/2019,Newcastle United,Arsenal FC,0,1,Arsenal FC,Newcastle Upon Tyne,FALSE
+2019/2020,11/08/2019,Manchester United,Chelsea FC,4,0,Manchester United,Manchester,FALSE
+2019/2020,11/08/2019,Leicester City,Wolverhampton Wanderers,0,0,Draw,Leicester,FALSE
+2019/2020,17/08/2019,Aston Villa,AFC Bournemouth,1,2,AFC Bournemouth,Birmingham,FALSE
+2019/2020,17/08/2019,Arsenal FC,Burnley FC,2,1,Arsenal FC,London,FALSE
+2019/2020,17/08/2019,Southampton FC,Liverpool FC,1,2,Liverpool FC,Southampton,FALSE
+2019/2020,17/08/2019,Norwich City,Newcastle United,3,1,Norwich City,Norwich,FALSE
+2019/2020,17/08/2019,Manchester City,Tottenham Hotspur,2,2,Draw,Manchester,FALSE
+2019/2020,17/08/2019,Everton FC,Watford FC,1,0,Everton FC,Liverpool,FALSE
+2019/2020,17/08/2019,Brighton & Hove Albion,West Ham United,1,1,Draw,Brighton and Hove,FALSE
+2019/2020,18/08/2019,Sheffield United,Crystal Palace,1,0,Sheffield United,Sheffield,FALSE
+2019/2020,18/08/2019,Chelsea FC,Leicester City,1,1,Draw,London,FALSE
+2019/2020,19/08/2019,Wolverhampton Wanderers,Manchester United,1,1,Draw,Wolverhampton,FALSE
+2019/2020,23/08/2019,Aston Villa,Everton FC,2,0,Aston Villa,Birmingham,FALSE
+2019/2020,24/08/2019,Liverpool FC,Arsenal FC,3,1,Liverpool FC,Liverpool,FALSE
+2019/2020,24/08/2019,Norwich City,Chelsea FC,2,3,Chelsea FC,Norwich,FALSE
+2019/2020,24/08/2019,Manchester United,Crystal Palace,1,2,Crystal Palace,Manchester,FALSE
+2019/2020,24/08/2019,Sheffield United,Leicester City,1,2,Leicester City,Sheffield,FALSE
+2019/2020,24/08/2019,Brighton & Hove Albion,Southampton FC,0,2,Southampton FC,Brighton and Hove,FALSE
+2019/2020,24/08/2019,Watford FC,West Ham United,1,3,West Ham United,Watford,FALSE
+2019/2020,25/08/2019,Wolverhampton Wanderers,Burnley FC,1,1,Draw,Wolverhampton,FALSE
+2019/2020,25/08/2019,AFC Bournemouth,Manchester City,1,3,Manchester City,Bournemouth,FALSE
+2019/2020,25/08/2019,Tottenham Hotspur,Newcastle United,0,1,Newcastle United,London,FALSE
+2019/2020,31/08/2019,Leicester City,AFC Bournemouth,3,1,Leicester City,Leicester,FALSE
+2019/2020,31/08/2019,Crystal Palace,Aston Villa,1,0,Crystal Palace,London,FALSE
+2019/2020,31/08/2019,Manchester City,Brighton & Hove Albion,4,0,Manchester City,Manchester,FALSE
+2019/2020,31/08/2019,Burnley FC,Liverpool FC,0,3,Liverpool FC,Burnley,FALSE
+2019/2020,31/08/2019,Southampton FC,Manchester United,1,1,Draw,Southampton,FALSE
+2019/2020,31/08/2019,West Ham United,Norwich City,2,0,West Ham United,London,FALSE
+2019/2020,31/08/2019,Chelsea FC,Sheffield United,2,2,Draw,London,FALSE
+2019/2020,31/08/2019,Newcastle United,Watford FC,1,1,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,01/09/2019,Arsenal FC,Tottenham Hotspur,2,2,Draw,London,TRUE
+2019/2020,01/09/2019,Everton FC,Wolverhampton Wanderers,3,2,Everton FC,Liverpool,FALSE
+2018/2019,02/09/2019,Liverpool FC,AFC Bournemouth,3,0,Liverpool FC,Liverpool,FALSE
+2018/2019,21/04/2019,Cardiff City,Liverpool FC,0,2,Cardiff City,Cardiff,FALSE
+2018/2019,02/09/2019,Brighton & Hove Albion,Burnley FC,1,3,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,02/09/2019,Southampton FC,Cardiff City,1,2,Southampton FC,Southampton,FALSE
+2018/2019,02/09/2019,Watford FC,Everton FC,1,0,Watford FC,Watford,FALSE
+2018/2019,02/09/2019,Fulham FC,Manchester United,0,3,Fulham FC,London,FALSE
+2018/2019,02/09/2019,Crystal Palace,West Ham United,1,1,Draw,London,TRUE
+2018/2019,03/09/2019,Cardiff City,West Ham United,2,0,Cardiff City,Cardiff,FALSE
+2018/2019,03/09/2019,Crystal Palace,Brighton & Hove Albion,1,2,Crystal Palace,London,FALSE
+2018/2019,03/09/2019,Newcastle United,Everton FC,3,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,01/12/2019,Cardiff City,Huddersfield Town,0,0,Draw,Cardiff,FALSE
+2018/2019,03/09/2019,Southampton FC,Tottenham Hotspur,2,1,Southampton FC,Southampton,FALSE
+2018/2019,03/09/2019,Manchester City,Watford FC,3,1,Manchester City,Manchester,FALSE
+2018/2019,15/09/2018,Chelsea FC,Cardiff City,4,1,Chelsea FC,London,FALSE
+2019/2020,14/09/2019,Brighton & Hove Albion,Burnley FC,1,1,Draw,Brighton and Hove,FALSE
+2019/2020,14/09/2019,Wolverhampton Wanderers,Chelsea FC,2,5,Chelsea FC,Wolverhampton,FALSE
+2019/2020,14/09/2019,Tottenham Hotspur,Crystal Palace,4,0,Tottenham Hotspur,London,TRUE
+2019/2020,14/09/2019,Manchester United,Leicester City,1,0,Manchester United,Manchester,FALSE
+2019/2020,14/09/2019,Norwich City,Manchester City,3,2,Norwich City,Norwich,FALSE
+2019/2020,14/09/2019,Liverpool FC,Newcastle United,3,1,Liverpool FC,Liverpool,FALSE
+2019/2020,14/09/2019,Sheffield United,Southampton FC,0,1,Southampton FC,Sheffield,FALSE
+2019/2020,15/09/2019,Watford FC,Arsenal FC,2,2,Draw,Watford,FALSE
+2019/2020,15/09/2019,AFC Bournemouth,Everton FC,3,1,AFC Bournemouth,Bournemouth,FALSE
+2019/2020,16/09/2019,Aston Villa,West Ham United,0,0,Draw,Birmingham,FALSE
+2019/2020,20/09/2019,Southampton FC,AFC Bournemouth,1,3,AFC Bournemouth,Southampton,TRUE
+2019/2020,21/09/2019,Newcastle United,Brighton & Hove Albion,0,0,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,21/09/2019,Burnley FC,Norwich City,2,0,Burnley FC,Burnley,FALSE
+2019/2020,21/09/2019,Everton FC,Sheffield United,0,2,Sheffield United,Liverpool,FALSE
+2019/2020,21/09/2019,Leicester City,Tottenham Hotspur,2,1,Leicester City,Leicester,FALSE
+2019/2020,21/09/2019,Manchester City,Watford FC,8,0,Manchester City,Manchester,FALSE
+2019/2020,22/09/2019,Arsenal FC,Aston Villa,3,2,Arsenal FC,London,FALSE
+2019/2020,22/09/2019,Chelsea FC,Liverpool FC,1,2,Liverpool FC,London,FALSE
+2019/2020,22/09/2019,West Ham United,Manchester United,2,0,West Ham United,London,FALSE
+2019/2020,22/09/2019,Crystal Palace,Wolverhampton Wanderers,1,1,Draw,London,FALSE
+2019/2020,28/09/2019,Chelsea FC,Brighton & Hove Albion,2,0,Chelsea FC,London,FALSE
+2019/2020,28/09/2019,Aston Villa,Burnley FC,2,2,Draw,Birmingham,FALSE
+2019/2020,28/09/2019,Sheffield United,Liverpool FC,0,1,Liverpool FC,Sheffield,FALSE
+2019/2020,28/09/2019,Everton FC,Manchester City,1,3,Manchester City,Liverpool,FALSE
+2019/2020,28/09/2019,Crystal Palace,Norwich City,2,0,Crystal Palace,London,FALSE
+2019/2020,28/09/2019,Tottenham Hotspur,Southampton FC,2,1,Tottenham Hotspur,London,FALSE
+2019/2020,28/09/2019,Wolverhampton Wanderers,Watford FC,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,28/09/2019,AFC Bournemouth,West Ham United,2,2,Draw,Bournemouth,FALSE
+2019/2020,29/09/2019,Leicester City,Newcastle United,5,0,Leicester City,Leicester,FALSE
+2019/2020,30/09/2019,Manchester United,Arsenal FC,1,1,Draw,Manchester,FALSE
+2018/2019,02/10/2019,Manchester City,Chelsea FC,6,0,Manchester City,Manchester,FALSE
+2018/2019,02/10/2019,Tottenham Hotspur,Leicester City,3,1,Tottenham Hotspur,London,FALSE
+2018/2019,03/10/2019,Liverpool FC,Burnley FC,4,2,Liverpool FC,Liverpool,FALSE
+2018/2019,03/10/2019,Arsenal FC,Manchester United,2,0,Arsenal FC,London,FALSE
+2018/2019,03/10/2019,Chelsea FC,Wolverhampton Wanderers,1,1,Draw,London,FALSE
+2019/2020,05/10/2019,Norwich City,Aston Villa,1,5,Aston Villa,Norwich,FALSE
+2019/2020,05/10/2019,West Ham United,Crystal Palace,1,2,Crystal Palace,London,TRUE
+2019/2020,05/10/2019,Burnley FC,Everton FC,1,0,Burnley FC,Burnley,FALSE
+2019/2020,05/10/2019,Liverpool FC,Leicester City,2,1,Liverpool FC,Liverpool,FALSE
+2019/2020,05/10/2019,Watford FC,Sheffield United,0,0,Draw,Watford,FALSE
+2019/2020,05/10/2019,Brighton & Hove Albion,Tottenham Hotspur,3,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2019/2020,06/10/2019,Arsenal FC,AFC Bournemouth,1,0,Arsenal FC,London,FALSE
+2019/2020,06/10/2019,Southampton FC,Chelsea FC,1,4,Chelsea FC,Southampton,FALSE
+2019/2020,06/10/2019,Newcastle United,Manchester United,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2019/2020,06/10/2019,Manchester City,Wolverhampton Wanderers,0,2,Wolverhampton Wanderers,Manchester,FALSE
+2019/2020,19/10/2019,Aston Villa,Brighton & Hove Albion,2,1,Aston Villa,Birmingham,FALSE
+2019/2020,19/10/2019,Leicester City,Burnley FC,2,1,Leicester City,Leicester,FALSE
+2019/2020,19/10/2019,Crystal Palace,Manchester City,0,2,Manchester City,London,FALSE
+2019/2020,19/10/2019,Chelsea FC,Newcastle United,1,0,Chelsea FC,London,FALSE
+2019/2020,19/10/2019,AFC Bournemouth,Norwich City,0,0,Draw,Bournemouth,FALSE
+2019/2020,19/10/2019,Wolverhampton Wanderers,Southampton FC,1,1,Draw,Wolverhampton,FALSE
+2019/2020,19/10/2019,Tottenham Hotspur,Watford FC,1,1,Draw,London,FALSE
+2019/2020,19/10/2019,Everton FC,West Ham United,2,0,Everton FC,Liverpool,FALSE
+2019/2020,20/10/2019,Manchester United,Liverpool FC,1,1,Draw,Manchester,TRUE
+2019/2020,21/10/2019,Sheffield United,Arsenal FC,1,0,Sheffield United,Sheffield,FALSE
+2019/2020,26/10/2019,Watford FC,AFC Bournemouth,0,0,Draw,Watford,FALSE
+2019/2020,26/10/2019,Manchester City,Aston Villa,3,0,Manchester City,Manchester,FALSE
+2019/2020,26/10/2019,Burnley FC,Chelsea FC,2,4,Chelsea FC,Burnley,FALSE
+2019/2020,26/10/2019,Brighton & Hove Albion,Everton FC,3,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2019/2020,26/10/2019,Southampton FC,Leicester City,0,9,Leicester City,Southampton,FALSE
+2019/2020,26/10/2019,West Ham United,Sheffield United,1,1,Draw,London,FALSE
+2019/2020,27/10/2019,Arsenal FC,Crystal Palace,2,2,Draw,London,TRUE
+2019/2020,27/10/2019,Norwich City,Manchester United,1,3,Manchester United,Norwich,FALSE
+2019/2020,27/10/2019,Liverpool FC,Tottenham Hotspur,2,1,Liverpool FC,Liverpool,FALSE
+2019/2020,27/10/2019,Newcastle United,Wolverhampton Wanderers,1,1,Draw,Newcastle Upon Tyne,FALSE
+2018/2019,02/11/2019,Wolverhampton Wanderers,Newcastle United,1,1,Draw,Wolverhampton,FALSE
+2019/2020,02/11/2019,Sheffield United,Burnley FC,3,0,Sheffield United,Sheffield,FALSE
+2019/2020,02/11/2019,Watford FC,Chelsea FC,1,2,Chelsea FC,Watford,FALSE
+2019/2020,02/11/2019,Aston Villa,Liverpool FC,1,2,Liverpool FC,Birmingham,FALSE
+2019/2020,02/11/2019,AFC Bournemouth,Manchester United,1,0,AFC Bournemouth,Bournemouth,FALSE
+2019/2020,02/11/2019,West Ham United,Newcastle United,2,3,Newcastle United,London,FALSE
+2019/2020,02/11/2019,Brighton & Hove Albion,Norwich City,2,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2019/2020,02/11/2019,Manchester City,Southampton FC,2,1,Manchester City,Manchester,FALSE
+2019/2020,02/11/2019,Arsenal FC,Wolverhampton Wanderers,2,1,Arsenal FC,London,FALSE
+2019/2020,03/11/2019,Crystal Palace,Leicester City,0,2,Leicester City,London,FALSE
+2019/2020,03/11/2019,Everton FC,Tottenham Hotspur,1,1,Draw,Liverpool,FALSE
+2019/2020,08/11/2019,Norwich City,Watford FC,0,2,Watford FC,Norwich,FALSE
+2019/2020,09/11/2019,Newcastle United,AFC Bournemouth,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2019/2020,09/11/2019,Leicester City,Arsenal FC,2,0,Leicester City,Leicester,FALSE
+2019/2020,09/11/2019,Chelsea FC,Crystal Palace,2,0,Chelsea FC,London,TRUE
+2019/2020,09/11/2019,Southampton FC,Everton FC,1,2,Everton FC,Southampton,FALSE
+2019/2020,09/11/2019,Tottenham Hotspur,Sheffield United,1,1,Draw,London,FALSE
+2019/2020,09/11/2019,Burnley FC,West Ham United,3,0,Burnley FC,Burnley,FALSE
+2019/2020,10/11/2019,Wolverhampton Wanderers,Aston Villa,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,10/11/2019,Manchester United,Brighton & Hove Albion,3,1,Manchester United,Manchester,FALSE
+2019/2020,10/11/2019,Liverpool FC,Manchester City,3,1,Liverpool FC,Liverpool,FALSE
+2019/2020,23/11/2019,Watford FC,Burnley FC,0,3,Burnley FC,Watford,FALSE
+2019/2020,23/11/2019,Manchester City,Chelsea FC,2,1,Manchester City,Manchester,FALSE
+2019/2020,23/11/2019,Brighton & Hove Albion,Leicester City,0,2,Leicester City,Brighton and Hove,FALSE
+2019/2020,23/11/2019,Crystal Palace,Liverpool FC,1,2,Liverpool FC,London,FALSE
+2019/2020,23/11/2019,Everton FC,Norwich City,0,2,Norwich City,Liverpool,FALSE
+2019/2020,23/11/2019,Arsenal FC,Southampton FC,2,2,Draw,London,FALSE
+2019/2020,23/11/2019,West Ham United,Tottenham Hotspur,2,3,Tottenham Hotspur,London,TRUE
+2019/2020,23/11/2019,AFC Bournemouth,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,Bournemouth,FALSE
+2019/2020,24/11/2019,Sheffield United,Manchester United,3,3,Draw,Sheffield,FALSE
+2019/2020,25/11/2019,Aston Villa,Newcastle United,2,0,Aston Villa,Birmingham,FALSE
+2019/2020,30/11/2019,Tottenham Hotspur,AFC Bournemouth,3,2,Tottenham Hotspur,London,FALSE
+2019/2020,30/11/2019,Liverpool FC,Brighton & Hove Albion,2,1,Liverpool FC,Liverpool,FALSE
+2019/2020,30/11/2019,Burnley FC,Crystal Palace,0,2,Crystal Palace,Burnley,FALSE
+2019/2020,30/11/2019,Newcastle United,Manchester City,2,2,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,30/11/2019,Southampton FC,Watford FC,2,1,Southampton FC,Southampton,FALSE
+2019/2020,30/11/2019,Chelsea FC,West Ham United,0,1,West Ham United,London,TRUE
+2018/2019,01/12/2019,West Ham United,Arsenal FC,1,0,West Ham United,London,TRUE
+2018/2019,02/12/2018,Chelsea FC,Fulham FC,2,0,Chelsea FC,London,TRUE
+2018/2019,02/02/2019,Chelsea FC,Huddersfield Town,5,0,Chelsea FC,London,FALSE
+2018/2019,01/12/2019,Brighton & Hove Albion,Liverpool FC,0,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,01/12/2019,Chelsea FC,Newcastle United,2,1,Chelsea FC,London,FALSE
+2018/2019,01/12/2019,Leicester City,Southampton FC,1,2,Leicester City,Leicester,FALSE
+2018/2019,01/12/2019,Crystal Palace,Watford FC,1,2,Crystal Palace,London,FALSE
+2019/2020,01/12/2019,Norwich City,Arsenal FC,2,2,Draw,Norwich,FALSE
+2019/2020,01/12/2019,Manchester United,Aston Villa,2,2,Draw,Manchester,FALSE
+2019/2020,01/12/2019,Leicester City,Everton FC,2,1,Leicester City,Leicester,FALSE
+2019/2020,01/12/2019,Wolverhampton Wanderers,Sheffield United,1,1,Draw,Wolverhampton,FALSE
+2019/2020,03/12/2019,Crystal Palace,AFC Bournemouth,1,0,Crystal Palace,London,FALSE
+2019/2020,03/12/2019,Burnley FC,Manchester City,1,4,Manchester City,Burnley,FALSE
+2018/2019,04/12/2019,Leicester City,Newcastle United,0,1,Leicester City,Leicester,FALSE
+2019/2020,04/12/2019,Chelsea FC,Aston Villa,2,1,Chelsea FC,London,FALSE
+2019/2020,04/12/2019,Liverpool FC,Everton FC,5,2,Liverpool FC,Liverpool,TRUE
+2019/2020,04/12/2019,Southampton FC,Norwich City,2,1,Southampton FC,Southampton,FALSE
+2019/2020,04/12/2019,Manchester United,Tottenham Hotspur,2,1,Manchester United,Manchester,FALSE
+2019/2020,04/12/2019,Leicester City,Watford FC,2,0,Leicester City,Leicester,FALSE
+2019/2020,04/12/2019,Wolverhampton Wanderers,West Ham United,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,05/12/2019,Crystal Palace,AFC Bournemouth,5,3,Crystal Palace,London,FALSE
+2018/2019,05/12/2019,Burnley FC,Arsenal FC,1,3,Burnley FC,Burnley,FALSE
+2018/2019,05/12/2019,Manchester United,Cardiff City,0,2,Manchester United,Manchester,FALSE
+2018/2019,05/12/2019,Leicester City,Chelsea FC,0,0,Draw,Leicester,FALSE
+2018/2019,05/12/2019,Tottenham Hotspur,Everton FC,2,2,Draw,London,FALSE
+2020/2021,05/12/2020,Chelsea FC,Leeds United,3,1,Chelsea FC,London,FALSE
+2018/2019,05/12/2019,Brighton & Hove Albion,Manchester City,1,4,Brighton & Hove Albion,Brighton and Hove,FALSE
+2018/2019,05/12/2019,Fulham FC,Newcastle United,0,4,Fulham FC,London,FALSE
+2018/2019,05/12/2019,Watford FC,West Ham United,1,4,Watford FC,Watford,FALSE
+2018/2019,05/12/2019,Liverpool FC,Wolverhampton Wanderers,2,0,Liverpool FC,Liverpool,FALSE
+2019/2020,05/12/2019,Arsenal FC,Brighton & Hove Albion,1,2,Brighton & Hove Albion,London,FALSE
+2019/2020,05/12/2019,Sheffield United,Newcastle United,0,2,Newcastle United,Sheffield,FALSE
+2019/2020,07/12/2019,Tottenham Hotspur,Burnley FC,5,0,Tottenham Hotspur,London,FALSE
+2019/2020,07/12/2019,Everton FC,Chelsea FC,3,1,Everton FC,Liverpool,FALSE
+2019/2020,07/12/2019,Watford FC,Crystal Palace,0,0,Draw,Watford,FALSE
+2019/2020,07/12/2019,AFC Bournemouth,Liverpool FC,0,3,Liverpool FC,Bournemouth,FALSE
+2019/2020,07/12/2019,Manchester City,Manchester United,1,2,Manchester United,Manchester,TRUE
+2019/2020,08/12/2019,Aston Villa,Leicester City,1,4,Leicester City,Birmingham,FALSE
+2019/2020,08/12/2019,Norwich City,Sheffield United,1,2,Sheffield United,Norwich,FALSE
+2019/2020,08/12/2019,Newcastle United,Southampton FC,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2019/2020,08/12/2019,Brighton & Hove Albion,Wolverhampton Wanderers,2,2,Draw,Brighton and Hove,FALSE
+2019/2020,09/12/2019,West Ham United,Arsenal FC,1,3,Arsenal FC,London,TRUE
+2019/2020,14/12/2019,Chelsea FC,AFC Bournemouth,0,1,AFC Bournemouth,London,FALSE
+2019/2020,14/12/2019,Sheffield United,Aston Villa,2,0,Sheffield United,Sheffield,FALSE
+2019/2020,14/12/2019,Burnley FC,Newcastle United,1,0,Burnley FC,Burnley,FALSE
+2019/2020,14/12/2019,Leicester City,Norwich City,1,1,Draw,Leicester,FALSE
+2019/2020,14/12/2019,Liverpool FC,Watford FC,2,0,Liverpool FC,Liverpool,FALSE
+2019/2020,14/12/2019,Southampton FC,West Ham United,0,1,West Ham United,Southampton,FALSE
+2019/2020,15/12/2019,Manchester United,Everton FC,1,1,Draw,Manchester,FALSE
+2019/2020,15/12/2019,Arsenal FC,Manchester City,0,3,Manchester City,London,FALSE
+2019/2020,15/12/2019,Wolverhampton Wanderers,Tottenham Hotspur,1,2,Tottenham Hotspur,Wolverhampton,FALSE
+2019/2020,16/12/2019,Crystal Palace,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2019/2020,21/12/2019,Everton FC,Arsenal FC,0,0,Draw,Liverpool,FALSE
+2019/2020,21/12/2019,AFC Bournemouth,Burnley FC,0,1,Burnley FC,Bournemouth,FALSE
+2019/2020,21/12/2019,Newcastle United,Crystal Palace,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2019/2020,21/12/2019,Manchester City,Leicester City,3,1,Manchester City,Manchester,FALSE
+2019/2020,21/12/2019,Brighton & Hove Albion,Sheffield United,0,1,Sheffield United,Brighton and Hove,FALSE
+2019/2020,21/12/2019,Aston Villa,Southampton FC,1,3,Southampton FC,Birmingham,FALSE
+2019/2020,21/12/2019,Norwich City,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,Norwich,FALSE
+2019/2020,22/12/2019,Tottenham Hotspur,Chelsea FC,0,2,Chelsea FC,London,TRUE
+2019/2020,22/12/2019,Watford FC,Manchester United,2,0,Watford FC,Watford,FALSE
+2019/2020,26/12/2019,AFC Bournemouth,Arsenal FC,1,1,Draw,Bournemouth,FALSE
+2019/2020,26/12/2019,Tottenham Hotspur,Brighton & Hove Albion,2,1,Tottenham Hotspur,London,FALSE
+2019/2020,26/12/2019,Everton FC,Burnley FC,1,0,Everton FC,Liverpool,FALSE
+2019/2020,26/12/2019,Leicester City,Liverpool FC,0,4,Liverpool FC,Leicester,FALSE
+2019/2020,26/12/2019,Manchester United,Newcastle United,4,1,Manchester United,Manchester,FALSE
+2019/2020,26/12/2019,Aston Villa,Norwich City,1,0,Aston Villa,Birmingham,FALSE
+2019/2020,26/12/2019,Chelsea FC,Southampton FC,0,2,Southampton FC,London,FALSE
+2019/2020,26/12/2019,Sheffield United,Watford FC,1,1,Draw,Sheffield,FALSE
+2019/2020,26/12/2019,Crystal Palace,West Ham United,2,1,Crystal Palace,London,TRUE
+2019/2020,27/12/2019,Wolverhampton Wanderers,Manchester City,3,2,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,28/12/2019,Brighton & Hove Albion,AFC Bournemouth,2,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2019/2020,28/12/2019,Watford FC,Aston Villa,3,0,Watford FC,Watford,FALSE
+2019/2020,28/12/2019,Southampton FC,Crystal Palace,1,1,Draw,Southampton,FALSE
+2019/2020,28/12/2019,Newcastle United,Everton FC,1,2,Everton FC,Newcastle Upon Tyne,FALSE
+2019/2020,28/12/2019,West Ham United,Leicester City,1,2,Leicester City,London,FALSE
+2019/2020,28/12/2019,Burnley FC,Manchester United,0,2,Manchester United,Burnley,FALSE
+2019/2020,28/12/2019,Norwich City,Tottenham Hotspur,2,2,Draw,Norwich,FALSE
+2019/2020,29/12/2019,Arsenal FC,Chelsea FC,1,2,Chelsea FC,London,TRUE
+2019/2020,29/12/2019,Manchester City,Sheffield United,2,0,Manchester City,Manchester,FALSE
+2019/2020,29/12/2019,Liverpool FC,Wolverhampton Wanderers,1,0,Liverpool FC,Liverpool,FALSE
+2019/2020,01/01/2020,West Ham United,AFC Bournemouth,4,0,West Ham United,London,FALSE
+2019/2020,01/01/2020,Burnley FC,Aston Villa,1,2,Aston Villa,Burnley,FALSE
+2019/2020,01/01/2020,Brighton & Hove Albion,Chelsea FC,1,1,Draw,Brighton and Hove,FALSE
+2019/2020,01/01/2020,Norwich City,Crystal Palace,1,1,Draw,Norwich,FALSE
+2019/2020,01/01/2020,Manchester City,Everton FC,0,2,Everton FC,Manchester,FALSE
+2019/2020,01/01/2020,Newcastle United,Leicester City,0,3,Leicester City,Newcastle Upon Tyne,FALSE
+2019/2020,01/01/2020,Arsenal FC,Manchester United,2,0,Arsenal FC,London,FALSE
+2019/2020,01/01/2020,Southampton FC,Tottenham Hotspur,1,0,Southampton FC,Southampton,FALSE
+2019/2020,01/01/2020,Watford FC,Wolverhampton Wanderers,2,1,Watford FC,Watford,FALSE
+2019/2020,02/01/2020,Liverpool FC,Sheffield United,2,0,Liverpool FC,Liverpool,FALSE
+2019/2020,10/01/2020,Sheffield United,West Ham United,1,0,Sheffield United,Sheffield,FALSE
+2019/2020,11/01/2020,Crystal Palace,Arsenal FC,1,1,Draw,London,TRUE
+2019/2020,11/01/2020,Everton FC,Brighton & Hove Albion,1,0,Everton FC,Liverpool,FALSE
+2019/2020,11/01/2020,Chelsea FC,Burnley FC,3,0,Chelsea FC,London,FALSE
+2019/2020,11/01/2020,Tottenham Hotspur,Liverpool FC,0,1,Liverpool FC,London,FALSE
+2019/2020,11/01/2020,Wolverhampton Wanderers,Newcastle United,1,1,Draw,Wolverhampton,FALSE
+2019/2020,11/01/2020,Manchester United,Norwich City,4,0,Manchester United,Manchester,FALSE
+2019/2020,11/01/2020,Leicester City,Southampton FC,1,2,Southampton FC,Leicester,FALSE
+2019/2020,12/01/2020,Aston Villa,Manchester City,1,6,Manchester City,Birmingham,FALSE
+2019/2020,12/01/2020,AFC Bournemouth,Watford FC,0,3,Watford FC,Bournemouth,FALSE
+2019/2020,18/01/2020,Norwich City,AFC Bournemouth,1,0,Norwich City,Norwich,FALSE
+2019/2020,18/01/2020,Brighton & Hove Albion,Aston Villa,1,1,Draw,Brighton and Hove,FALSE
+2019/2020,18/01/2020,Newcastle United,Chelsea FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2019/2020,18/01/2020,Manchester City,Crystal Palace,2,2,Draw,Manchester,FALSE
+2019/2020,18/01/2020,West Ham United,Everton FC,1,1,Draw,London,FALSE
+2019/2020,18/01/2020,Arsenal FC,Sheffield United,1,1,Draw,London,FALSE
+2019/2020,18/01/2020,Watford FC,Tottenham Hotspur,0,0,Draw,Watford,FALSE
+2019/2020,18/01/2020,Southampton FC,Wolverhampton Wanderers,2,3,Wolverhampton Wanderers,Southampton,FALSE
+2019/2020,19/01/2020,Burnley FC,Leicester City,2,1,Burnley FC,Burnley,FALSE
+2019/2020,19/01/2020,Liverpool FC,Manchester United,2,0,Liverpool FC,Liverpool,TRUE
+2019/2020,21/01/2020,Chelsea FC,Arsenal FC,2,2,Draw,London,TRUE
+2019/2020,21/01/2020,AFC Bournemouth,Brighton & Hove Albion,3,1,AFC Bournemouth,Bournemouth,FALSE
+2019/2020,21/01/2020,Sheffield United,Manchester City,0,1,Manchester City,Sheffield,FALSE
+2019/2020,21/01/2020,Everton FC,Newcastle United,2,2,Draw,Liverpool,FALSE
+2019/2020,21/01/2020,Crystal Palace,Southampton FC,0,2,Southampton FC,London,FALSE
+2019/2020,21/01/2020,Aston Villa,Watford FC,2,1,Aston Villa,Birmingham,FALSE
+2019/2020,22/01/2020,Manchester United,Burnley FC,0,2,Burnley FC,Manchester,FALSE
+2019/2020,22/01/2020,Tottenham Hotspur,Norwich City,2,1,Tottenham Hotspur,London,FALSE
+2019/2020,22/01/2020,Leicester City,West Ham United,4,1,Leicester City,Leicester,FALSE
+2019/2020,23/01/2020,Wolverhampton Wanderers,Liverpool FC,1,2,Liverpool FC,Wolverhampton,FALSE
+2019/2020,29/01/2020,West Ham United,Liverpool FC,0,2,Liverpool FC,London,FALSE
+2019/2020,01/02/2020,AFC Bournemouth,Aston Villa,2,1,AFC Bournemouth,Bournemouth,FALSE
+2019/2020,01/02/2020,West Ham United,Brighton & Hove Albion,3,3,Draw,London,FALSE
+2019/2020,01/02/2020,Leicester City,Chelsea FC,2,2,Draw,Leicester,FALSE
+2019/2020,01/02/2020,Watford FC,Everton FC,2,3,Everton FC,Watford,FALSE
+2019/2020,01/02/2020,Newcastle United,Norwich City,0,0,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,01/02/2020,Crystal Palace,Sheffield United,0,1,Sheffield United,London,FALSE
+2019/2020,01/02/2020,Liverpool FC,Southampton FC,4,0,Liverpool FC,Liverpool,FALSE
+2019/2020,01/02/2020,Manchester United,Wolverhampton Wanderers,0,0,Draw,Manchester,FALSE
+2019/2020,02/02/2020,Burnley FC,Arsenal FC,0,0,Draw,Burnley,FALSE
+2019/2020,02/02/2020,Tottenham Hotspur,Manchester City,2,0,Tottenham Hotspur,London,FALSE
+2019/2020,08/02/2020,Everton FC,Crystal Palace,3,1,Everton FC,Liverpool,FALSE
+2019/2020,08/02/2020,Brighton & Hove Albion,Watford FC,1,1,Draw,Brighton and Hove,FALSE
+2019/2020,09/02/2020,Sheffield United,AFC Bournemouth,2,1,Sheffield United,Sheffield,FALSE
+2019/2020,14/02/2020,Wolverhampton Wanderers,Leicester City,0,0,Draw,Wolverhampton,FALSE
+2019/2020,15/02/2020,Southampton FC,Burnley FC,1,2,Burnley FC,Southampton,FALSE
+2019/2020,15/02/2020,Norwich City,Liverpool FC,0,1,Liverpool FC,Norwich,FALSE
+2019/2020,16/02/2020,Arsenal FC,Newcastle United,4,0,Arsenal FC,London,FALSE
+2019/2020,16/02/2020,Aston Villa,Tottenham Hotspur,2,3,Tottenham Hotspur,Birmingham,FALSE
+2019/2020,17/02/2020,Chelsea FC,Manchester United,0,2,Manchester United,London,FALSE
+2019/2020,19/02/2020,Manchester City,West Ham United,2,0,Manchester City,Manchester,FALSE
+2019/2020,22/02/2020,Burnley FC,AFC Bournemouth,3,0,Burnley FC,Burnley,FALSE
+2019/2020,22/02/2020,Southampton FC,Aston Villa,2,0,Southampton FC,Southampton,FALSE
+2019/2020,22/02/2020,Sheffield United,Brighton & Hove Albion,1,1,Draw,Sheffield,FALSE
+2019/2020,22/02/2020,Leicester City,Manchester City,0,1,Manchester City,Leicester,FALSE
+2019/2020,22/02/2020,Crystal Palace,Newcastle United,1,0,Crystal Palace,London,FALSE
+2019/2020,22/02/2020,Chelsea FC,Tottenham Hotspur,2,1,Chelsea FC,London,TRUE
+2019/2020,23/02/2020,Arsenal FC,Everton FC,3,2,Arsenal FC,London,FALSE
+2019/2020,23/02/2020,Wolverhampton Wanderers,Norwich City,3,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,23/02/2020,Manchester United,Watford FC,3,0,Manchester United,Manchester,FALSE
+2019/2020,24/02/2020,Liverpool FC,West Ham United,3,2,Liverpool FC,Liverpool,FALSE
+2019/2020,28/02/2020,Norwich City,Leicester City,1,0,Norwich City,Norwich,FALSE
+2019/2020,29/02/2020,Newcastle United,Burnley FC,0,0,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,29/02/2020,AFC Bournemouth,Chelsea FC,2,2,Draw,Bournemouth,FALSE
+2019/2020,29/02/2020,Brighton & Hove Albion,Crystal Palace,0,1,Crystal Palace,Brighton and Hove,TRUE
+2019/2020,29/02/2020,Watford FC,Liverpool FC,3,0,Watford FC,Watford,FALSE
+2019/2020,29/02/2020,West Ham United,Southampton FC,3,1,West Ham United,London,FALSE
+2019/2020,01/03/2020,Everton FC,Manchester United,1,1,Draw,Liverpool,TRUE
+2019/2020,01/03/2020,Tottenham Hotspur,Wolverhampton Wanderers,2,3,Wolverhampton Wanderers,London,FALSE
+2019/2020,07/03/2020,Liverpool FC,AFC Bournemouth,2,1,Liverpool FC,Liverpool,FALSE
+2019/2020,07/03/2020,Wolverhampton Wanderers,Brighton & Hove Albion,0,0,Draw,Wolverhampton,FALSE
+2019/2020,07/03/2020,Southampton FC,Newcastle United,0,1,Newcastle United,Southampton,FALSE
+2019/2020,07/03/2020,Sheffield United,Norwich City,1,0,Sheffield United,Sheffield,FALSE
+2019/2020,07/03/2020,Burnley FC,Tottenham Hotspur,1,1,Draw,Burnley,FALSE
+2019/2020,07/03/2020,Crystal Palace,Watford FC,1,0,Crystal Palace,London,FALSE
+2019/2020,07/03/2020,Arsenal FC,West Ham United,1,0,Arsenal FC,London,TRUE
+2019/2020,08/03/2020,Chelsea FC,Everton FC,4,0,Chelsea FC,London,FALSE
+2019/2020,08/03/2020,Manchester United,Manchester City,2,0,Manchester United,Manchester,TRUE
+2019/2020,09/03/2020,Leicester City,Aston Villa,4,0,Leicester City,Leicester,FALSE
+2019/2020,17/06/2020,Manchester City,Arsenal FC,3,0,Manchester City,Manchester,FALSE
+2019/2020,17/06/2020,Aston Villa,Sheffield United,0,0,Draw,Birmingham,FALSE
+2019/2020,19/06/2020,Tottenham Hotspur,Manchester United,1,1,Draw,London,FALSE
+2019/2020,19/06/2020,Norwich City,Southampton FC,0,3,Southampton FC,Norwich,FALSE
+2019/2020,20/06/2020,Brighton & Hove Albion,Arsenal FC,2,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2019/2020,20/06/2020,AFC Bournemouth,Crystal Palace,0,2,Crystal Palace,Bournemouth,FALSE
+2019/2020,20/06/2020,Watford FC,Leicester City,1,1,Draw,Watford,FALSE
+2019/2020,20/06/2020,West Ham United,Wolverhampton Wanderers,0,2,Wolverhampton Wanderers,London,FALSE
+2019/2020,21/06/2020,Aston Villa,Chelsea FC,1,2,Chelsea FC,Birmingham,FALSE
+2019/2020,21/06/2020,Everton FC,Liverpool FC,0,0,Draw,Liverpool,TRUE
+2019/2020,21/06/2020,Newcastle United,Sheffield United,3,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2019/2020,22/06/2020,Manchester City,Burnley FC,5,0,Manchester City,Manchester,FALSE
+2019/2020,23/06/2020,Leicester City,Brighton & Hove Albion,0,0,Draw,Leicester,FALSE
+2019/2020,23/06/2020,Tottenham Hotspur,West Ham United,2,0,Tottenham Hotspur,London,TRUE
+2019/2020,24/06/2020,Wolverhampton Wanderers,AFC Bournemouth,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,24/06/2020,Newcastle United,Aston Villa,1,1,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,24/06/2020,Liverpool FC,Crystal Palace,4,0,Liverpool FC,Liverpool,FALSE
+2019/2020,24/06/2020,Norwich City,Everton FC,0,1,Everton FC,Norwich,FALSE
+2019/2020,24/06/2020,Manchester United,Sheffield United,3,0,Manchester United,Manchester,FALSE
+2019/2020,25/06/2020,Southampton FC,Arsenal FC,0,2,Arsenal FC,Southampton,FALSE
+2019/2020,25/06/2020,Chelsea FC,Manchester City,2,1,Chelsea FC,London,FALSE
+2019/2020,25/06/2020,Burnley FC,Watford FC,1,0,Burnley FC,Burnley,FALSE
+2019/2020,27/06/2020,Aston Villa,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Birmingham,FALSE
+2019/2020,28/06/2020,Watford FC,Southampton FC,1,3,Southampton FC,Watford,FALSE
+2019/2020,29/06/2020,Crystal Palace,Burnley FC,0,1,Burnley FC,London,FALSE
+2019/2020,30/06/2020,Brighton & Hove Albion,Manchester United,3,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2019/2020,01/07/2020,West Ham United,Chelsea FC,3,2,West Ham United,London,TRUE
+2019/2020,01/07/2020,Everton FC,Leicester City,2,1,Everton FC,Liverpool,FALSE
+2019/2020,01/07/2020,AFC Bournemouth,Newcastle United,1,4,Newcastle United,Bournemouth,FALSE
+2019/2020,01/07/2020,Arsenal FC,Norwich City,4,0,Arsenal FC,London,FALSE
+2019/2020,02/07/2020,Manchester City,Liverpool FC,4,0,Manchester City,Manchester,TRUE
+2019/2020,02/07/2020,Sheffield United,Tottenham Hotspur,3,1,Sheffield United,Sheffield,FALSE
+2019/2020,04/07/2020,Manchester United,AFC Bournemouth,5,2,Manchester United,Manchester,FALSE
+2019/2020,04/07/2020,Wolverhampton Wanderers,Arsenal FC,0,2,Arsenal FC,Wolverhampton,FALSE
+2019/2020,04/07/2020,Norwich City,Brighton & Hove Albion,0,1,Brighton & Hove Albion,Norwich,FALSE
+2019/2020,04/07/2020,Leicester City,Crystal Palace,3,0,Leicester City,Leicester,FALSE
+2019/2020,04/07/2020,Chelsea FC,Watford FC,3,0,Chelsea FC,London,FALSE
+2019/2020,05/07/2020,Liverpool FC,Aston Villa,2,0,Liverpool FC,Liverpool,FALSE
+2019/2020,05/07/2020,Southampton FC,Manchester City,1,0,Southampton FC,Southampton,FALSE
+2019/2020,05/07/2020,Burnley FC,Sheffield United,1,1,Draw,Burnley,FALSE
+2019/2020,05/07/2020,Newcastle United,West Ham United,2,2,Draw,Newcastle Upon Tyne,FALSE
+2019/2020,06/07/2020,Tottenham Hotspur,Everton FC,1,0,Tottenham Hotspur,London,FALSE
+2019/2020,07/07/2020,Crystal Palace,Chelsea FC,2,3,Chelsea FC,London,TRUE
+2019/2020,07/07/2020,Arsenal FC,Leicester City,1,1,Draw,London,FALSE
+2019/2020,07/07/2020,Watford FC,Norwich City,2,1,Watford FC,Watford,FALSE
+2019/2020,08/07/2020,West Ham United,Burnley FC,0,1,Burnley FC,London,FALSE
+2019/2020,08/07/2020,Brighton & Hove Albion,Liverpool FC,1,3,Liverpool FC,Brighton and Hove,FALSE
+2019/2020,08/07/2020,Manchester City,Newcastle United,5,0,Manchester City,Manchester,FALSE
+2019/2020,08/07/2020,Sheffield United,Wolverhampton Wanderers,1,0,Sheffield United,Sheffield,FALSE
+2019/2020,09/07/2020,Aston Villa,Manchester United,0,3,Manchester United,Birmingham,FALSE
+2019/2020,09/07/2020,Everton FC,Southampton FC,1,1,Draw,Liverpool,FALSE
+2019/2020,09/07/2020,AFC Bournemouth,Tottenham Hotspur,0,0,Draw,Bournemouth,FALSE
+2019/2020,11/07/2020,Liverpool FC,Burnley FC,1,1,Draw,Liverpool,FALSE
+2019/2020,11/07/2020,Sheffield United,Chelsea FC,3,0,Sheffield United,Sheffield,FALSE
+2019/2020,11/07/2020,Brighton & Hove Albion,Manchester City,0,5,Manchester City,Brighton and Hove,FALSE
+2019/2020,11/07/2020,Watford FC,Newcastle United,2,1,Watford FC,Watford,FALSE
+2019/2020,11/07/2020,Norwich City,West Ham United,0,4,West Ham United,Norwich,FALSE
+2019/2020,12/07/2020,Tottenham Hotspur,Arsenal FC,2,1,Tottenham Hotspur,London,TRUE
+2019/2020,12/07/2020,Aston Villa,Crystal Palace,2,0,Aston Villa,Birmingham,FALSE
+2019/2020,12/07/2020,Wolverhampton Wanderers,Everton FC,3,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,12/07/2020,AFC Bournemouth,Leicester City,4,1,AFC Bournemouth,Bournemouth,FALSE
+2019/2020,13/07/2020,Manchester United,Southampton FC,2,2,Draw,Manchester,FALSE
+2019/2020,14/07/2020,Chelsea FC,Norwich City,1,0,Chelsea FC,London,FALSE
+2019/2020,15/07/2020,Manchester City,AFC Bournemouth,2,1,Manchester City,Manchester,FALSE
+2019/2020,15/07/2020,Arsenal FC,Liverpool FC,2,1,Arsenal FC,London,FALSE
+2019/2020,15/07/2020,Newcastle United,Tottenham Hotspur,1,3,Tottenham Hotspur,Newcastle Upon Tyne,FALSE
+2019/2020,15/07/2020,Burnley FC,Wolverhampton Wanderers,1,1,Draw,Burnley,FALSE
+2019/2020,16/07/2020,Everton FC,Aston Villa,1,1,Draw,Liverpool,FALSE
+2019/2020,16/07/2020,Southampton FC,Brighton & Hove Albion,1,1,Draw,Southampton,FALSE
+2019/2020,16/07/2020,Crystal Palace,Manchester United,0,2,Manchester United,London,FALSE
+2019/2020,16/07/2020,Leicester City,Sheffield United,2,0,Leicester City,Leicester,FALSE
+2019/2020,17/07/2020,West Ham United,Watford FC,3,1,West Ham United,London,FALSE
+2019/2020,18/07/2020,Norwich City,Burnley FC,0,2,Burnley FC,Norwich,FALSE
+2019/2020,19/07/2020,Tottenham Hotspur,Leicester City,3,0,Tottenham Hotspur,London,FALSE
+2019/2020,19/07/2020,AFC Bournemouth,Southampton FC,0,2,Southampton FC,Bournemouth,TRUE
+2019/2020,20/07/2020,Wolverhampton Wanderers,Crystal Palace,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2019/2020,20/07/2020,Sheffield United,Everton FC,0,1,Everton FC,Sheffield,FALSE
+2019/2020,20/07/2020,Brighton & Hove Albion,Newcastle United,0,0,Draw,Brighton and Hove,FALSE
+2019/2020,21/07/2020,Aston Villa,Arsenal FC,1,0,Aston Villa,Birmingham,FALSE
+2019/2020,21/07/2020,Watford FC,Manchester City,0,4,Manchester City,Watford,FALSE
+2019/2020,22/07/2020,Liverpool FC,Chelsea FC,5,3,Liverpool FC,Liverpool,FALSE
+2019/2020,22/07/2020,Manchester United,West Ham United,1,1,Draw,Manchester,FALSE
+2019/2020,26/07/2020,Everton FC,AFC Bournemouth,1,3,AFC Bournemouth,Liverpool,FALSE
+2019/2020,26/07/2020,West Ham United,Aston Villa,1,1,Draw,London,FALSE
+2019/2020,26/07/2020,Burnley FC,Brighton & Hove Albion,1,2,Brighton & Hove Albion,Burnley,FALSE
+2019/2020,26/07/2020,Newcastle United,Liverpool FC,1,3,Liverpool FC,Newcastle Upon Tyne,FALSE
+2019/2020,26/07/2020,Leicester City,Manchester United,0,2,Manchester United,Leicester,FALSE
+2019/2020,26/07/2020,Manchester City,Norwich City,5,0,Manchester City,Manchester,FALSE
+2019/2020,26/07/2020,Southampton FC,Sheffield United,3,1,Southampton FC,Southampton,FALSE
+2019/2020,26/07/2020,Crystal Palace,Tottenham Hotspur,1,1,Draw,London,TRUE
+2019/2020,26/07/2020,Arsenal FC,Watford FC,3,2,Arsenal FC,London,FALSE
+2019/2020,26/07/2020,Chelsea FC,Wolverhampton Wanderers,2,0,Chelsea FC,London,FALSE
+2020/2021,12/09/2020,Fulham FC,Arsenal FC,0,3,Arsenal FC,London,TRUE
+2020/2021,03/04/2021,Chelsea FC,West Bromwich Albion,2,5,West Bromwich Albion,London,FALSE
+2020/2021,12/09/2020,West Ham United,Newcastle United,0,2,Newcastle United,London,FALSE
+2020/2021,12/09/2020,Crystal Palace,Southampton FC,1,0,Crystal Palace,London,FALSE
+2020/2021,13/09/2020,Tottenham Hotspur,Everton FC,0,1,Everton FC,London,FALSE
+2020/2021,01/05/2021,Chelsea FC,Fulham FC,2,0,Chelsea FC,London,TRUE
+2020/2021,14/09/2020,Brighton & Hove Albion,Chelsea FC,1,3,Chelsea FC,Brighton and Hove,FALSE
+2020/2021,14/09/2020,Sheffield United,Wolverhampton Wanderers,0,2,Wolverhampton Wanderers,Sheffield,FALSE
+2020/2021,19/09/2020,Manchester United,Crystal Palace,1,3,Crystal Palace,Manchester,FALSE
+2021/2022,11/12/2021,Chelsea FC,Leeds United,3,2,Chelsea FC,London,FALSE
+2022/2023,03/02/2023,Chelsea FC,Fulham FC,0,0,Draw,London,TRUE
+2020/2021,19/09/2020,Arsenal FC,West Ham United,2,1,Arsenal FC,London,TRUE
+2020/2021,20/09/2020,Newcastle United,Brighton & Hove Albion,0,3,Brighton & Hove Albion,Newcastle Upon Tyne,FALSE
+2020/2021,20/09/2020,Leicester City,Burnley FC,4,2,Leicester City,Leicester,FALSE
+2020/2021,20/09/2020,Chelsea FC,Liverpool FC,0,2,Liverpool FC,London,FALSE
+2020/2021,20/09/2020,Southampton FC,Tottenham Hotspur,2,5,Tottenham Hotspur,Southampton,FALSE
+2020/2021,21/09/2020,Wolverhampton Wanderers,Manchester City,1,3,Manchester City,Wolverhampton,FALSE
+2020/2021,21/09/2020,Aston Villa,Sheffield United,1,0,Aston Villa,Birmingham,FALSE
+2022/2023,04/03/2023,Chelsea FC,Leeds United,1,0,Chelsea FC,London,FALSE
+2020/2021,26/09/2020,Crystal Palace,Everton FC,1,2,Everton FC,London,FALSE
+2020/2021,26/09/2020,Brighton & Hove Albion,Manchester United,2,3,Manchester United,Brighton and Hove,FALSE
+2020/2021,26/09/2020,Burnley FC,Southampton FC,0,1,Southampton FC,Burnley,FALSE
+2022/2023,13/05/2023,Chelsea FC,Nottingham Forest,2,2,Draw,London,FALSE
+2020/2021,27/09/2020,Manchester City,Leicester City,2,5,Leicester City,Manchester,FALSE
+2020/2021,27/09/2020,Tottenham Hotspur,Newcastle United,1,1,Draw,London,FALSE
+2020/2021,27/09/2020,West Ham United,Wolverhampton Wanderers,4,0,West Ham United,London,FALSE
+2020/2021,28/09/2020,Liverpool FC,Arsenal FC,3,1,Liverpool FC,Liverpool,FALSE
+2020/2021,28/09/2020,Fulham FC,Aston Villa,0,3,Aston Villa,London,FALSE
+2020/2021,03/10/2020,Everton FC,Brighton & Hove Albion,4,2,Everton FC,Liverpool,FALSE
+2020/2021,03/10/2020,Newcastle United,Burnley FC,3,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,03/10/2020,Chelsea FC,Crystal Palace,4,0,Chelsea FC,London,TRUE
+2023/2024,25/08/2023,Chelsea FC,Luton Town,3,0,Chelsea FC,London,FALSE
+2023/2024,02/09/2023,Chelsea FC,Nottingham Forest,0,1,Nottingham Forest,London,FALSE
+2020/2021,04/10/2020,Aston Villa,Liverpool FC,7,2,Aston Villa,Birmingham,FALSE
+2020/2021,04/10/2020,Arsenal FC,Sheffield United,2,1,Arsenal FC,London,FALSE
+2020/2021,04/10/2020,Manchester United,Tottenham Hotspur,1,6,Tottenham Hotspur,Manchester,FALSE
+2023/2024,13/01/2024,Chelsea FC,Fulham FC,1,0,Chelsea FC,London,TRUE
+2020/2021,04/10/2020,Leicester City,West Ham United,0,3,West Ham United,Leicester,FALSE
+2020/2021,17/10/2020,Manchester City,Arsenal FC,1,0,Manchester City,Manchester,FALSE
+2020/2021,17/10/2020,Everton FC,Liverpool FC,2,2,Draw,Liverpool,TRUE
+2020/2021,17/10/2020,Newcastle United,Manchester United,1,4,Manchester United,Newcastle Upon Tyne,FALSE
+2020/2021,17/10/2020,Chelsea FC,Southampton FC,3,3,Draw,London,FALSE
+2020/2021,18/10/2020,Leicester City,Aston Villa,0,1,Aston Villa,Leicester,FALSE
+2020/2021,18/10/2020,Crystal Palace,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2018/2019,06/10/2018,Crystal Palace,Wolverhampton Wanderers,0,1,Crystal Palace,London,FALSE
+2020/2021,18/10/2020,Tottenham Hotspur,West Ham United,3,3,Draw,London,TRUE
+2018/2019,26/12/2018,Crystal Palace,Cardiff City,0,0,Draw,London,FALSE
+2018/2019,02/02/2019,Crystal Palace,Fulham FC,2,0,Crystal Palace,London,FALSE
+2018/2019,30/03/2019,Crystal Palace,Huddersfield Town,2,0,Crystal Palace,London,FALSE
+2020/2021,24/10/2020,Manchester United,Chelsea FC,0,0,Draw,Manchester,FALSE
+2020/2021,24/10/2020,Fulham FC,Crystal Palace,1,2,Crystal Palace,London,TRUE
+2020/2021,24/10/2020,West Ham United,Manchester City,1,1,Draw,London,FALSE
+2020/2021,24/10/2020,Liverpool FC,Sheffield United,2,1,Liverpool FC,Liverpool,FALSE
+2020/2021,25/10/2020,Southampton FC,Everton FC,2,0,Southampton FC,Southampton,FALSE
+2020/2021,25/10/2020,Arsenal FC,Leicester City,0,1,Leicester City,London,FALSE
+2020/2021,25/10/2020,Wolverhampton Wanderers,Newcastle United,1,1,Draw,Wolverhampton,FALSE
+2020/2021,26/10/2020,Burnley FC,Tottenham Hotspur,0,1,Tottenham Hotspur,Burnley,FALSE
+2020/2021,07/11/2020,Crystal Palace,Leeds United,4,1,Crystal Palace,London,FALSE
+2020/2021,30/10/2020,Wolverhampton Wanderers,Crystal Palace,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2020/2021,31/10/2020,Burnley FC,Chelsea FC,0,3,Chelsea FC,Burnley,FALSE
+2020/2021,31/10/2020,Sheffield United,Manchester City,0,1,Manchester City,Sheffield,FALSE
+2020/2021,31/10/2020,Liverpool FC,West Ham United,2,1,Liverpool FC,Liverpool,FALSE
+2020/2021,01/11/2020,Manchester United,Arsenal FC,0,1,Arsenal FC,Manchester,FALSE
+2020/2021,01/11/2020,Tottenham Hotspur,Brighton & Hove Albion,2,1,Tottenham Hotspur,London,FALSE
+2020/2021,01/11/2020,Newcastle United,Everton FC,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,01/11/2020,Aston Villa,Southampton FC,3,4,Southampton FC,Birmingham,FALSE
+2020/2021,30/01/2021,Crystal Palace,Wolverhampton Wanderers,1,0,Crystal Palace,London,FALSE
+2020/2021,28/02/2021,Crystal Palace,Fulham FC,0,0,Draw,London,FALSE
+2020/2021,06/11/2020,Brighton & Hove Albion,Burnley FC,0,0,Draw,Brighton and Hove,FALSE
+2020/2021,06/11/2020,Southampton FC,Newcastle United,2,0,Southampton FC,Southampton,FALSE
+2020/2021,13/03/2021,Crystal Palace,West Bromwich Albion,1,0,Crystal Palace,London,FALSE
+2021/2022,06/11/2021,Crystal Palace,Wolverhampton Wanderers,2,0,Crystal Palace,London,FALSE
+2020/2021,07/11/2020,Everton FC,Manchester United,1,3,Manchester United,Liverpool,TRUE
+2020/2021,07/11/2020,Chelsea FC,Sheffield United,4,1,Chelsea FC,London,FALSE
+2020/2021,08/11/2020,Arsenal FC,Aston Villa,0,3,Aston Villa,London,FALSE
+2020/2021,08/11/2020,Manchester City,Liverpool FC,1,1,Draw,Manchester,TRUE
+2021/2022,25/04/2022,Crystal Palace,Leeds United,0,0,Draw,London,FALSE
+2020/2021,08/11/2020,Leicester City,Wolverhampton Wanderers,1,0,Leicester City,Leicester,FALSE
+2020/2021,21/11/2020,Aston Villa,Brighton & Hove Albion,1,2,Brighton & Hove Albion,Birmingham,FALSE
+2020/2021,21/11/2020,Newcastle United,Chelsea FC,0,2,Chelsea FC,Newcastle Upon Tyne,FALSE
+2020/2021,21/11/2020,Tottenham Hotspur,Manchester City,2,0,Tottenham Hotspur,London,FALSE
+2022/2023,10/09/2022,Crystal Palace,Leeds United,2,1,Crystal Palace,London,FALSE
+2022/2023,18/10/2022,Crystal Palace,Wolverhampton Wanderers,2,1,Crystal Palace,London,FALSE
+2020/2021,22/11/2020,Fulham FC,Everton FC,2,3,Everton FC,London,FALSE
+2020/2021,22/11/2020,Liverpool FC,Leicester City,3,0,Liverpool FC,Liverpool,FALSE
+2020/2021,22/11/2020,Sheffield United,West Ham United,0,1,West Ham United,Sheffield,FALSE
+2020/2021,23/11/2020,Burnley FC,Crystal Palace,1,0,Burnley FC,Burnley,FALSE
+2020/2021,23/11/2020,Wolverhampton Wanderers,Southampton FC,1,1,Draw,Wolverhampton,FALSE
+2020/2021,27/11/2020,Crystal Palace,Newcastle United,0,2,Newcastle United,London,FALSE
+2020/2021,28/11/2020,Manchester City,Burnley FC,5,0,Manchester City,Manchester,FALSE
+2022/2023,26/12/2022,Crystal Palace,Fulham FC,0,3,Fulham FC,London,FALSE
+2020/2021,28/11/2020,Brighton & Hove Albion,Liverpool FC,1,1,Draw,Brighton and Hove,FALSE
+2022/2023,28/05/2023,Crystal Palace,Nottingham Forest,1,1,Draw,London,FALSE
+2020/2021,29/11/2020,Southampton FC,Manchester United,2,3,Manchester United,Southampton,FALSE
+2020/2021,29/11/2020,Chelsea FC,Tottenham Hotspur,0,0,Draw,London,TRUE
+2020/2021,29/11/2020,Arsenal FC,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,London,FALSE
+2020/2021,30/11/2020,West Ham United,Aston Villa,2,1,West Ham United,London,FALSE
+2023/2024,03/09/2023,Crystal Palace,Wolverhampton Wanderers,3,2,Crystal Palace,London,FALSE
+2020/2021,05/12/2020,Burnley FC,Everton FC,1,1,Draw,Burnley,FALSE
+2020/2021,05/12/2020,Manchester City,Fulham FC,2,0,Manchester City,Manchester,FALSE
+2023/2024,23/09/2023,Crystal Palace,Fulham FC,0,0,Draw,London,FALSE
+2020/2021,05/12/2020,West Ham United,Manchester United,1,3,Manchester United,London,FALSE
+2020/2021,06/12/2020,Tottenham Hotspur,Arsenal FC,2,0,Tottenham Hotspur,London,TRUE
+2023/2024,07/10/2023,Crystal Palace,Nottingham Forest,0,0,Draw,London,FALSE
+2020/2021,06/12/2020,Sheffield United,Leicester City,1,2,Leicester City,Sheffield,FALSE
+2020/2021,06/12/2020,Liverpool FC,Wolverhampton Wanderers,4,0,Liverpool FC,Liverpool,FALSE
+2020/2021,07/12/2020,Brighton & Hove Albion,Southampton FC,1,2,Southampton FC,Brighton and Hove,FALSE
+2023/2024,09/03/2024,Crystal Palace,Luton Town,1,1,Draw,London,FALSE
+2020/2021,12/12/2020,Wolverhampton Wanderers,Aston Villa,0,1,Aston Villa,Wolverhampton,FALSE
+2020/2021,12/12/2020,Everton FC,Chelsea FC,1,0,Everton FC,Liverpool,FALSE
+2020/2021,12/12/2020,Manchester United,Manchester City,0,0,Draw,Manchester,TRUE
+2020/2021,12/12/2020,Newcastle United,West Bromwich Albion,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,13/12/2020,Leicester City,Brighton & Hove Albion,3,0,Leicester City,Leicester,FALSE
+2020/2021,13/12/2020,Arsenal FC,Burnley FC,0,1,Burnley FC,London,FALSE
+2020/2021,13/12/2020,Fulham FC,Liverpool FC,1,1,Draw,London,FALSE
+2020/2021,13/12/2020,Southampton FC,Sheffield United,3,0,Southampton FC,Southampton,FALSE
+2020/2021,13/12/2020,Crystal Palace,Tottenham Hotspur,1,1,Draw,London,TRUE
+2020/2021,15/12/2020,Wolverhampton Wanderers,Chelsea FC,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,01/09/2018,Everton FC,Huddersfield Town,1,1,Draw,Liverpool,FALSE
+2020/2021,16/12/2020,Fulham FC,Brighton & Hove Albion,0,0,Draw,London,FALSE
+2020/2021,16/12/2020,West Ham United,Crystal Palace,1,1,Draw,London,TRUE
+2020/2021,16/12/2020,Leicester City,Everton FC,0,2,Everton FC,Leicester,FALSE
+2018/2019,29/09/2018,Everton FC,Fulham FC,3,0,Everton FC,Liverpool,FALSE
+2020/2021,16/12/2020,Arsenal FC,Southampton FC,1,1,Draw,London,FALSE
+2020/2021,16/12/2020,Liverpool FC,Tottenham Hotspur,2,1,Liverpool FC,Liverpool,FALSE
+2020/2021,17/12/2020,Aston Villa,Burnley FC,0,0,Draw,Birmingham,FALSE
+2020/2021,17/12/2020,Sheffield United,Manchester United,2,3,Manchester United,Sheffield,FALSE
+2020/2021,19/12/2020,Everton FC,Arsenal FC,2,1,Everton FC,Liverpool,FALSE
+2020/2021,19/12/2020,Newcastle United,Fulham FC,1,1,Draw,Newcastle Upon Tyne,FALSE
+2020/2021,19/12/2020,Crystal Palace,Liverpool FC,0,7,Liverpool FC,London,FALSE
+2020/2021,19/12/2020,Southampton FC,Manchester City,0,1,Manchester City,Southampton,FALSE
+2018/2019,24/11/2018,Everton FC,Cardiff City,1,0,Everton FC,Liverpool,FALSE
+2020/2021,19/09/2020,Everton FC,West Bromwich Albion,5,2,Everton FC,Liverpool,FALSE
+2020/2021,20/12/2020,Tottenham Hotspur,Leicester City,0,2,Leicester City,London,FALSE
+2020/2021,20/12/2020,Brighton & Hove Albion,Sheffield United,1,1,Draw,Brighton and Hove,FALSE
+2020/2021,21/12/2020,Chelsea FC,West Ham United,3,0,Chelsea FC,London,TRUE
+2020/2021,21/12/2020,Burnley FC,Wolverhampton Wanderers,2,1,Burnley FC,Burnley,FALSE
+2020/2021,26/12/2020,Arsenal FC,Chelsea FC,3,1,Arsenal FC,London,TRUE
+2020/2021,26/12/2020,Aston Villa,Crystal Palace,3,0,Aston Villa,Birmingham,FALSE
+2020/2021,26/12/2020,Sheffield United,Everton FC,0,1,Everton FC,Sheffield,FALSE
+2020/2021,26/12/2020,Leicester City,Manchester United,2,2,Draw,Leicester,FALSE
+2020/2021,26/12/2020,Manchester City,Newcastle United,2,0,Manchester City,Manchester,FALSE
+2020/2021,26/12/2020,Fulham FC,Southampton FC,0,0,Draw,London,FALSE
+2020/2021,27/12/2020,West Ham United,Brighton & Hove Albion,2,2,Draw,London,FALSE
+2020/2021,28/11/2020,Everton FC,Leeds United,0,1,Leeds United,Liverpool,FALSE
+2020/2021,27/12/2020,Wolverhampton Wanderers,Tottenham Hotspur,1,1,Draw,Wolverhampton,FALSE
+2020/2021,14/02/2021,Everton FC,Fulham FC,0,2,Fulham FC,Liverpool,FALSE
+2020/2021,28/12/2020,Chelsea FC,Aston Villa,1,1,Draw,London,FALSE
+2020/2021,28/12/2020,Crystal Palace,Leicester City,1,1,Draw,London,FALSE
+2020/2021,29/12/2020,Brighton & Hove Albion,Arsenal FC,0,1,Arsenal FC,Brighton and Hove,FALSE
+2021/2022,12/02/2022,Everton FC,Leeds United,3,0,Everton FC,Liverpool,FALSE
+2020/2021,29/12/2020,Burnley FC,Sheffield United,1,0,Burnley FC,Burnley,FALSE
+2020/2021,29/12/2020,Southampton FC,West Ham United,0,0,Draw,Southampton,FALSE
+2020/2021,29/12/2020,Manchester United,Wolverhampton Wanderers,1,0,Manchester United,Manchester,FALSE
+2020/2021,30/12/2020,Newcastle United,Liverpool FC,0,0,Draw,Newcastle Upon Tyne,FALSE
+2020/2021,01/01/2021,Manchester United,Aston Villa,2,1,Manchester United,Manchester,FALSE
+2020/2021,01/01/2021,Everton FC,West Ham United,0,1,West Ham United,Liverpool,FALSE
+2021/2022,15/05/2022,Everton FC,Brentford FC,2,3,Brentford FC,Liverpool,FALSE
+2022/2023,20/08/2022,Everton FC,Nottingham Forest,1,1,Draw,Liverpool,FALSE
+2020/2021,02/01/2021,Crystal Palace,Sheffield United,2,0,Crystal Palace,London,FALSE
+2020/2021,02/01/2021,Brighton & Hove Albion,Wolverhampton Wanderers,3,3,Draw,Brighton and Hove,FALSE
+2020/2021,03/01/2021,Newcastle United,Leicester City,1,2,Leicester City,Newcastle Upon Tyne,FALSE
+2020/2021,03/01/2021,Chelsea FC,Manchester City,1,3,Manchester City,London,FALSE
+2020/2021,04/01/2021,Southampton FC,Liverpool FC,1,0,Southampton FC,Southampton,FALSE
+2020/2021,12/01/2021,Wolverhampton Wanderers,Everton FC,1,2,Everton FC,Wolverhampton,FALSE
+2020/2021,12/01/2021,Sheffield United,Newcastle United,1,0,Sheffield United,Sheffield,FALSE
+2020/2021,13/01/2021,Manchester City,Brighton & Hove Albion,1,0,Manchester City,Manchester,FALSE
+2022/2023,18/02/2023,Everton FC,Leeds United,1,0,Everton FC,Liverpool,FALSE
+2020/2021,14/01/2021,Arsenal FC,Crystal Palace,0,0,Draw,London,TRUE
+2022/2023,11/03/2023,Everton FC,Brentford FC,1,0,Everton FC,Liverpool,FALSE
+2020/2021,16/01/2021,West Ham United,Burnley FC,1,0,West Ham United,London,FALSE
+2020/2021,16/01/2021,Fulham FC,Chelsea FC,0,1,Chelsea FC,London,TRUE
+2020/2021,16/01/2021,Leicester City,Southampton FC,2,0,Leicester City,Leicester,FALSE
+2022/2023,15/04/2023,Everton FC,Fulham FC,1,3,Fulham FC,Liverpool,FALSE
+2020/2021,17/01/2021,Manchester City,Crystal Palace,4,0,Manchester City,Manchester,FALSE
+2020/2021,17/01/2021,Liverpool FC,Manchester United,0,0,Draw,Liverpool,TRUE
+2020/2021,17/01/2021,Sheffield United,Tottenham Hotspur,1,3,Tottenham Hotspur,Sheffield,FALSE
+2020/2021,18/01/2021,Arsenal FC,Newcastle United,3,0,Arsenal FC,London,FALSE
+2020/2021,19/01/2021,Leicester City,Chelsea FC,2,0,Leicester City,Leicester,FALSE
+2023/2024,12/08/2023,Everton FC,Fulham FC,0,1,Fulham FC,Liverpool,FALSE
+2020/2021,20/01/2021,Manchester City,Aston Villa,2,0,Manchester City,Manchester,FALSE
+2020/2021,20/01/2021,Fulham FC,Manchester United,1,2,Manchester United,London,FALSE
+2020/2021,21/01/2021,Liverpool FC,Burnley FC,0,1,Burnley FC,Liverpool,FALSE
+2020/2021,23/01/2021,Aston Villa,Newcastle United,2,0,Aston Villa,Birmingham,FALSE
+2020/2021,26/01/2021,Southampton FC,Arsenal FC,1,3,Arsenal FC,Southampton,FALSE
+2023/2024,30/09/2023,Everton FC,Luton Town,1,2,Luton Town,Liverpool,FALSE
+2023/2024,21/04/2024,Everton FC,Nottingham Forest,2,0,Everton FC,Liverpool,FALSE
+2020/2021,26/01/2021,Crystal Palace,West Ham United,2,3,West Ham United,London,TRUE
+2020/2021,27/01/2021,Burnley FC,Aston Villa,3,2,Burnley FC,Burnley,FALSE
+2020/2021,27/01/2021,Brighton & Hove Albion,Fulham FC,0,0,Draw,Brighton and Hove,FALSE
+2020/2021,27/01/2021,Everton FC,Leicester City,1,1,Draw,Liverpool,FALSE
+2020/2021,27/01/2021,Manchester United,Sheffield United,1,2,Sheffield United,Manchester,FALSE
+2020/2021,27/01/2021,Chelsea FC,Wolverhampton Wanderers,0,0,Draw,London,FALSE
+2020/2021,28/01/2021,Tottenham Hotspur,Liverpool FC,1,3,Liverpool FC,London,FALSE
+2020/2021,30/01/2021,Southampton FC,Aston Villa,0,1,Aston Villa,Southampton,FALSE
+2023/2024,27/04/2024,Everton FC,Brentford FC,1,0,Everton FC,Liverpool,FALSE
+2020/2021,30/01/2021,Arsenal FC,Manchester United,0,0,Draw,London,FALSE
+2020/2021,30/01/2021,Everton FC,Newcastle United,0,2,Newcastle United,Liverpool,FALSE
+2020/2021,30/01/2021,Manchester City,Sheffield United,1,0,Manchester City,Manchester,FALSE
+2018/2019,26/12/2018,Fulham FC,Wolverhampton Wanderers,1,1,Draw,London,FALSE
+2020/2021,31/01/2021,Chelsea FC,Burnley FC,2,0,Chelsea FC,London,FALSE
+2018/2019,29/12/2018,Fulham FC,Huddersfield Town,1,0,Fulham FC,London,FALSE
+2020/2021,31/01/2021,West Ham United,Liverpool FC,1,3,Liverpool FC,London,FALSE
+2020/2021,31/01/2021,Brighton & Hove Albion,Tottenham Hotspur,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2020/2021,02/02/2021,Wolverhampton Wanderers,Arsenal FC,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2020/2021,02/02/2021,Newcastle United,Crystal Palace,1,2,Crystal Palace,Newcastle Upon Tyne,FALSE
+2020/2021,02/02/2021,Manchester United,Southampton FC,9,0,Manchester United,Manchester,FALSE
+2018/2019,27/04/2019,Fulham FC,Cardiff City,1,0,Fulham FC,London,FALSE
+2020/2021,03/02/2021,Liverpool FC,Brighton & Hove Albion,0,1,Brighton & Hove Albion,Liverpool,FALSE
+2020/2021,02/11/2020,Fulham FC,West Bromwich Albion,2,0,Fulham FC,London,FALSE
+2020/2021,03/02/2021,Fulham FC,Leicester City,0,2,Leicester City,London,FALSE
+2020/2021,03/02/2021,Burnley FC,Manchester City,0,2,Manchester City,Burnley,FALSE
+2020/2021,03/02/2021,Aston Villa,West Ham United,1,3,West Ham United,Birmingham,FALSE
+2020/2021,04/02/2021,Tottenham Hotspur,Chelsea FC,0,1,Chelsea FC,London,TRUE
+2020/2021,06/02/2021,Aston Villa,Arsenal FC,1,0,Aston Villa,Birmingham,FALSE
+2020/2021,06/02/2021,Burnley FC,Brighton & Hove Albion,1,1,Draw,Burnley,FALSE
+2020/2021,06/02/2021,Manchester United,Everton FC,3,3,Draw,Manchester,FALSE
+2020/2021,06/02/2021,Newcastle United,Southampton FC,3,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,06/02/2021,Fulham FC,West Ham United,0,0,Draw,London,TRUE
+2020/2021,07/02/2021,Sheffield United,Chelsea FC,1,2,Chelsea FC,Sheffield,FALSE
+2020/2021,07/02/2021,Wolverhampton Wanderers,Leicester City,0,0,Draw,Wolverhampton,FALSE
+2020/2021,07/02/2021,Liverpool FC,Manchester City,1,4,Manchester City,Liverpool,FALSE
+2020/2021,19/03/2021,Fulham FC,Leeds United,1,2,Leeds United,London,FALSE
+2020/2021,09/04/2021,Fulham FC,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,London,FALSE
+2020/2021,13/02/2021,Brighton & Hove Albion,Aston Villa,0,0,Draw,Brighton and Hove,FALSE
+2020/2021,13/02/2021,Crystal Palace,Burnley FC,0,3,Burnley FC,London,FALSE
+2020/2021,13/02/2021,Leicester City,Liverpool FC,3,1,Leicester City,Leicester,FALSE
+2020/2021,13/02/2021,Manchester City,Tottenham Hotspur,3,0,Manchester City,Manchester,FALSE
+2022/2023,11/02/2023,Fulham FC,Nottingham Forest,2,0,Fulham FC,London,FALSE
+2022/2023,24/02/2023,Fulham FC,Wolverhampton Wanderers,1,1,Draw,London,FALSE
+2022/2023,22/04/2023,Fulham FC,Leeds United,2,1,Fulham FC,London,FALSE
+2020/2021,14/02/2021,Southampton FC,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,Southampton,FALSE
+2020/2021,15/02/2021,Chelsea FC,Newcastle United,2,0,Chelsea FC,London,FALSE
+2020/2021,15/02/2021,West Ham United,Sheffield United,3,0,West Ham United,London,FALSE
+2023/2024,16/09/2023,Fulham FC,Luton Town,1,0,Fulham FC,London,FALSE
+2020/2021,17/02/2021,Everton FC,Manchester City,1,3,Manchester City,Liverpool,FALSE
+2023/2024,27/11/2023,Fulham FC,Wolverhampton Wanderers,3,2,Fulham FC,London,FALSE
+2020/2021,20/02/2021,Southampton FC,Chelsea FC,1,1,Draw,Southampton,FALSE
+2020/2021,20/02/2021,Liverpool FC,Everton FC,0,2,Everton FC,Liverpool,TRUE
+2020/2021,20/02/2021,Fulham FC,Sheffield United,1,0,Fulham FC,London,FALSE
+2020/2021,20/02/2021,Burnley FC,West Bromwich Albion,0,0,Draw,Burnley,FALSE
+2020/2021,21/02/2021,Aston Villa,Leicester City,1,2,Leicester City,Birmingham,FALSE
+2020/2021,21/02/2021,Arsenal FC,Manchester City,0,1,Manchester City,London,FALSE
+2020/2021,21/02/2021,Manchester United,Newcastle United,3,1,Manchester United,Manchester,FALSE
+2020/2021,21/02/2021,West Ham United,Tottenham Hotspur,2,1,West Ham United,London,TRUE
+2020/2021,22/02/2021,Brighton & Hove Albion,Crystal Palace,1,2,Crystal Palace,Brighton and Hove,TRUE
+2023/2024,06/12/2023,Fulham FC,Nottingham Forest,5,0,Fulham FC,London,FALSE
+2018/2019,11/08/2018,Huddersfield Town,Chelsea FC,0,2,Huddersfield Town,Huddersfield,FALSE
+2018/2019,25/08/2018,Huddersfield Town,Cardiff City,0,0,Draw,Huddersfield,FALSE
+2020/2021,27/02/2021,Manchester City,West Ham United,2,1,Manchester City,Manchester,FALSE
+2020/2021,27/02/2021,Newcastle United,Wolverhampton Wanderers,1,1,Draw,Newcastle Upon Tyne,FALSE
+2020/2021,28/02/2021,Leicester City,Arsenal FC,1,3,Arsenal FC,Leicester,FALSE
+2020/2021,28/02/2021,Tottenham Hotspur,Burnley FC,4,0,Tottenham Hotspur,London,FALSE
+2018/2019,15/09/2018,Huddersfield Town,Crystal Palace,0,1,Huddersfield Town,Huddersfield,FALSE
+2020/2021,28/02/2021,Sheffield United,Liverpool FC,0,2,Liverpool FC,Sheffield,FALSE
+2020/2021,28/02/2021,Chelsea FC,Manchester United,0,0,Draw,London,FALSE
+2020/2021,01/03/2021,Everton FC,Southampton FC,1,0,Everton FC,Liverpool,FALSE
+2020/2021,02/03/2021,Manchester City,Wolverhampton Wanderers,4,1,Manchester City,Manchester,FALSE
+2020/2021,03/03/2021,Sheffield United,Aston Villa,1,0,Sheffield United,Sheffield,FALSE
+2020/2021,03/03/2021,Burnley FC,Leicester City,1,1,Draw,Burnley,FALSE
+2020/2021,03/03/2021,Crystal Palace,Manchester United,0,0,Draw,London,FALSE
+2020/2021,04/03/2021,Liverpool FC,Chelsea FC,0,1,Chelsea FC,Liverpool,FALSE
+2018/2019,29/09/2018,Huddersfield Town,Tottenham Hotspur,0,2,Huddersfield Town,Huddersfield,FALSE
+2020/2021,04/03/2021,Fulham FC,Tottenham Hotspur,0,1,Tottenham Hotspur,London,TRUE
+2020/2021,06/03/2021,Burnley FC,Arsenal FC,1,1,Draw,Burnley,FALSE
+2020/2021,06/03/2021,Brighton & Hove Albion,Leicester City,1,2,Leicester City,Brighton and Hove,FALSE
+2020/2021,06/03/2021,Sheffield United,Southampton FC,0,2,Southampton FC,Sheffield,FALSE
+2020/2021,06/03/2021,Aston Villa,Wolverhampton Wanderers,0,0,Draw,Birmingham,FALSE
+2020/2021,07/03/2021,Tottenham Hotspur,Crystal Palace,4,1,Tottenham Hotspur,London,TRUE
+2018/2019,20/10/2018,Huddersfield Town,Liverpool FC,0,1,Huddersfield Town,Huddersfield,FALSE
+2020/2021,07/03/2021,Manchester City,Manchester United,0,2,Manchester United,Manchester,TRUE
+2018/2019,05/11/2018,Huddersfield Town,Fulham FC,1,0,Huddersfield Town,Huddersfield,FALSE
+2020/2021,08/03/2021,Chelsea FC,Everton FC,2,0,Chelsea FC,London,FALSE
+2018/2019,10/11/2018,Huddersfield Town,West Ham United,1,1,Draw,Huddersfield,FALSE
+2020/2021,10/03/2021,Manchester City,Southampton FC,5,2,Manchester City,Manchester,FALSE
+2020/2021,13/03/2021,Everton FC,Burnley FC,1,2,Burnley FC,Liverpool,FALSE
+2018/2019,01/12/2018,Huddersfield Town,Brighton & Hove Albion,1,2,Huddersfield Town,Huddersfield,FALSE
+2020/2021,13/03/2021,Fulham FC,Manchester City,0,3,Manchester City,London,FALSE
+2018/2019,15/12/2018,Huddersfield Town,Newcastle United,0,1,Huddersfield Town,Huddersfield,FALSE
+2020/2021,14/03/2021,Southampton FC,Brighton & Hove Albion,1,2,Brighton & Hove Albion,Southampton,FALSE
+2020/2021,14/03/2021,Leicester City,Sheffield United,5,0,Leicester City,Leicester,FALSE
+2020/2021,14/03/2021,Arsenal FC,Tottenham Hotspur,2,1,Arsenal FC,London,TRUE
+2020/2021,14/03/2021,Manchester United,West Ham United,1,0,Manchester United,Manchester,FALSE
+2020/2021,15/03/2021,Wolverhampton Wanderers,Liverpool FC,0,1,Liverpool FC,Wolverhampton,FALSE
+2018/2019,22/12/2018,Huddersfield Town,Southampton FC,1,3,Huddersfield Town,Huddersfield,TRUE
+2020/2021,20/03/2021,Brighton & Hove Albion,Newcastle United,3,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2020/2021,21/03/2021,West Ham United,Arsenal FC,3,3,Draw,London,TRUE
+2020/2021,21/03/2021,Aston Villa,Tottenham Hotspur,0,2,Tottenham Hotspur,Birmingham,FALSE
+2020/2021,03/04/2021,Arsenal FC,Liverpool FC,0,3,Liverpool FC,London,FALSE
+2020/2021,03/04/2021,Leicester City,Manchester City,0,2,Manchester City,Leicester,FALSE
+2018/2019,20/01/2019,Huddersfield Town,Manchester City,0,3,Huddersfield Town,Huddersfield,FALSE
+2018/2019,29/01/2019,Huddersfield Town,Everton FC,0,1,Huddersfield Town,Huddersfield,FALSE
+2020/2021,04/04/2021,Manchester United,Brighton & Hove Albion,2,1,Manchester United,Manchester,FALSE
+2020/2021,04/04/2021,Southampton FC,Burnley FC,3,2,Southampton FC,Southampton,FALSE
+2018/2019,01/02/2019,Huddersfield Town,Burnley FC,1,2,Huddersfield Town,Huddersfield,FALSE
+2020/2021,04/04/2021,Newcastle United,Tottenham Hotspur,2,2,Draw,Newcastle Upon Tyne,FALSE
+2020/2021,05/04/2021,Everton FC,Crystal Palace,1,1,Draw,Liverpool,FALSE
+2020/2021,05/04/2021,Wolverhampton Wanderers,West Ham United,2,3,West Ham United,Wolverhampton,FALSE
+2018/2019,26/02/2019,Huddersfield Town,Wolverhampton Wanderers,1,0,Huddersfield Town,Huddersfield,FALSE
+2020/2021,10/04/2021,Liverpool FC,Aston Villa,2,1,Liverpool FC,Liverpool,FALSE
+2020/2021,10/04/2021,Crystal Palace,Chelsea FC,1,4,Chelsea FC,London,TRUE
+2018/2019,20/04/2019,Huddersfield Town,Watford FC,1,2,Huddersfield Town,Huddersfield,FALSE
+2020/2021,11/04/2021,Sheffield United,Arsenal FC,0,3,Arsenal FC,Sheffield,FALSE
+2020/2021,11/04/2021,West Ham United,Leicester City,3,2,West Ham United,London,FALSE
+2020/2021,11/04/2021,Tottenham Hotspur,Manchester United,1,3,Manchester United,London,FALSE
+2020/2021,11/04/2021,Burnley FC,Newcastle United,1,2,Newcastle United,Burnley,FALSE
+2020/2021,12/04/2021,Brighton & Hove Albion,Everton FC,0,0,Draw,Brighton and Hove,FALSE
+2018/2019,04/06/2019,Huddersfield Town,Leicester City,1,4,Huddersfield Town,Huddersfield,FALSE
+2020/2021,16/04/2021,Everton FC,Tottenham Hotspur,2,2,Draw,Liverpool,FALSE
+2020/2021,17/04/2021,Wolverhampton Wanderers,Sheffield United,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2020/2021,17/04/2021,Newcastle United,West Ham United,3,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,18/04/2021,Manchester United,Burnley FC,3,1,Manchester United,Manchester,FALSE
+2018/2019,02/09/2019,Huddersfield Town,Arsenal FC,1,2,Huddersfield Town,Huddersfield,FALSE
+2018/2019,03/09/2019,Huddersfield Town,AFC Bournemouth,0,2,Huddersfield Town,Huddersfield,FALSE
+2020/2021,20/04/2021,Chelsea FC,Brighton & Hove Albion,0,0,Draw,London,FALSE
+2020/2021,21/04/2021,Aston Villa,Manchester City,1,2,Manchester City,Birmingham,FALSE
+2020/2021,21/04/2021,Tottenham Hotspur,Southampton FC,2,1,Tottenham Hotspur,London,FALSE
+2020/2021,22/04/2021,Leicester City,West Bromwich Albion,3,0,Leicester City,Leicester,FALSE
+2020/2021,23/04/2021,Arsenal FC,Everton FC,0,1,Everton FC,London,FALSE
+2020/2021,24/04/2021,Sheffield United,Brighton & Hove Albion,1,0,Sheffield United,Sheffield,FALSE
+2020/2021,24/04/2021,West Ham United,Chelsea FC,0,1,Chelsea FC,London,TRUE
+2020/2021,24/04/2021,Liverpool FC,Newcastle United,1,1,Draw,Liverpool,FALSE
+2020/2021,25/04/2021,Wolverhampton Wanderers,Burnley FC,0,4,Burnley FC,Wolverhampton,FALSE
+2020/2021,19/09/2020,Leeds United,Fulham FC,4,3,Leeds United,Leeds,FALSE
+2020/2021,03/10/2020,Leeds United,Manchester City,1,1,Draw,Leeds,FALSE
+2020/2021,26/04/2021,Leicester City,Crystal Palace,2,1,Leicester City,Leicester,FALSE
+2020/2021,30/04/2021,Southampton FC,Leicester City,1,1,Draw,Southampton,FALSE
+2020/2021,01/05/2021,Everton FC,Aston Villa,1,2,Aston Villa,Liverpool,FALSE
+2020/2021,19/10/2020,Leeds United,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Leeds,FALSE
+2020/2021,02/11/2020,Leeds United,Leicester City,1,4,Leicester City,Leeds,FALSE
+2020/2021,01/05/2021,Crystal Palace,Manchester City,0,2,Manchester City,London,FALSE
+2020/2021,22/11/2020,Leeds United,Arsenal FC,0,0,Draw,Leeds,FALSE
+2020/2021,02/05/2021,Tottenham Hotspur,Sheffield United,4,0,Tottenham Hotspur,London,FALSE
+2020/2021,03/05/2021,Burnley FC,West Ham United,1,2,West Ham United,Burnley,FALSE
+2020/2021,11/12/2020,Leeds United,West Ham United,1,2,West Ham United,Leeds,FALSE
+2020/2021,07/05/2021,Leicester City,Newcastle United,2,4,Newcastle United,Leicester,FALSE
+2020/2021,08/05/2021,Manchester City,Chelsea FC,1,2,Chelsea FC,Manchester,FALSE
+2020/2021,08/05/2021,Sheffield United,Crystal Palace,0,2,Crystal Palace,Sheffield,FALSE
+2020/2021,08/05/2021,Liverpool FC,Southampton FC,2,0,Liverpool FC,Liverpool,FALSE
+2020/2021,16/12/2020,Leeds United,Newcastle United,5,2,Leeds United,Leeds,FALSE
+2020/2021,09/05/2021,Wolverhampton Wanderers,Brighton & Hove Albion,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2020/2021,09/05/2021,West Ham United,Everton FC,0,1,Everton FC,London,FALSE
+2020/2021,09/05/2021,Aston Villa,Manchester United,1,3,Manchester United,Birmingham,FALSE
+2020/2021,27/12/2020,Leeds United,Burnley FC,1,0,Leeds United,Leeds,FALSE
+2020/2021,10/05/2021,Fulham FC,Burnley FC,0,2,Burnley FC,London,FALSE
+2020/2021,11/05/2021,Southampton FC,Crystal Palace,3,1,Southampton FC,Southampton,FALSE
+2020/2021,11/05/2021,Manchester United,Leicester City,1,2,Leicester City,Manchester,FALSE
+2020/2021,12/05/2021,Chelsea FC,Arsenal FC,0,1,Arsenal FC,London,TRUE
+2020/2021,13/05/2021,Aston Villa,Everton FC,0,0,Draw,Birmingham,FALSE
+2020/2021,13/05/2021,Manchester United,Liverpool FC,2,4,Liverpool FC,Manchester,TRUE
+2020/2021,14/05/2021,Newcastle United,Manchester City,3,4,Manchester City,Newcastle Upon Tyne,FALSE
+2020/2021,16/01/2021,Leeds United,Brighton & Hove Albion,0,1,Brighton & Hove Albion,Leeds,FALSE
+2020/2021,03/02/2021,Leeds United,Everton FC,1,2,Everton FC,Leeds,FALSE
+2020/2021,15/05/2021,Brighton & Hove Albion,West Ham United,1,1,Draw,Brighton and Hove,FALSE
+2020/2021,16/05/2021,Crystal Palace,Aston Villa,3,2,Crystal Palace,London,FALSE
+2020/2021,08/02/2021,Leeds United,Crystal Palace,2,0,Leeds United,Leeds,FALSE
+2020/2021,16/05/2021,Everton FC,Sheffield United,0,1,Sheffield United,Liverpool,FALSE
+2020/2021,23/02/2021,Leeds United,Southampton FC,3,0,Leeds United,Leeds,TRUE
+2020/2021,18/05/2021,Manchester United,Fulham FC,1,1,Draw,Manchester,FALSE
+2020/2021,27/02/2021,Leeds United,Aston Villa,0,1,Aston Villa,Leeds,FALSE
+2020/2021,18/05/2021,Chelsea FC,Leicester City,2,1,Chelsea FC,London,FALSE
+2020/2021,18/05/2021,Brighton & Hove Albion,Manchester City,3,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2020/2021,19/05/2021,Crystal Palace,Arsenal FC,1,3,Arsenal FC,London,TRUE
+2020/2021,19/05/2021,Tottenham Hotspur,Aston Villa,1,2,Aston Villa,London,FALSE
+2020/2021,19/05/2021,Burnley FC,Liverpool FC,0,3,Liverpool FC,Burnley,FALSE
+2020/2021,19/05/2021,Newcastle United,Sheffield United,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,13/03/2021,Leeds United,Chelsea FC,0,0,Draw,Leeds,FALSE
+2020/2021,19/05/2021,Everton FC,Wolverhampton Wanderers,1,0,Everton FC,Liverpool,FALSE
+2020/2021,23/05/2021,Arsenal FC,Brighton & Hove Albion,2,0,Arsenal FC,London,FALSE
+2020/2021,23/05/2021,Sheffield United,Burnley FC,1,0,Sheffield United,Sheffield,FALSE
+2020/2021,23/05/2021,Aston Villa,Chelsea FC,2,1,Aston Villa,Birmingham,FALSE
+2020/2021,23/05/2021,Liverpool FC,Crystal Palace,2,0,Liverpool FC,Liverpool,FALSE
+2020/2021,23/05/2021,Manchester City,Everton FC,5,0,Manchester City,Manchester,FALSE
+2020/2021,23/05/2021,Wolverhampton Wanderers,Manchester United,1,2,Manchester United,Wolverhampton,FALSE
+2020/2021,23/05/2021,Fulham FC,Newcastle United,0,2,Newcastle United,London,FALSE
+2020/2021,23/05/2021,West Ham United,Southampton FC,3,0,West Ham United,London,FALSE
+2020/2021,23/05/2021,Leicester City,Tottenham Hotspur,2,4,Tottenham Hotspur,Leicester,FALSE
+2020/2021,03/04/2021,Leeds United,Sheffield United,2,1,Leeds United,Leeds,FALSE
+2020/2021,19/04/2021,Leeds United,Liverpool FC,1,1,Draw,Leeds,FALSE
+2021/2022,11/07/2021,West Ham United,Liverpool FC,3,2,West Ham United,London,FALSE
+2021/2022,11/07/2021,Everton FC,Tottenham Hotspur,0,0,Draw,Liverpool,FALSE
+2021/2022,11/07/2021,Arsenal FC,Watford FC,1,0,Arsenal FC,London,FALSE
+2021/2022,13/08/2021,Brentford FC,Arsenal FC,2,0,Brentford FC,London,TRUE
+2021/2022,14/08/2021,Watford FC,Aston Villa,3,2,Watford FC,Watford,FALSE
+2021/2022,14/08/2021,Burnley FC,Brighton & Hove Albion,1,2,Brighton & Hove Albion,Burnley,FALSE
+2021/2022,14/08/2021,Chelsea FC,Crystal Palace,3,0,Chelsea FC,London,TRUE
+2020/2021,25/04/2021,Leeds United,Manchester United,0,0,Draw,Leeds,TRUE
+2021/2022,14/08/2021,Norwich City,Liverpool FC,0,3,Liverpool FC,Norwich,FALSE
+2021/2022,14/08/2021,Everton FC,Southampton FC,3,1,Everton FC,Liverpool,FALSE
+2021/2022,14/08/2021,Leicester City,Wolverhampton Wanderers,1,0,Leicester City,Leicester,FALSE
+2021/2022,15/08/2021,Tottenham Hotspur,Manchester City,1,0,Tottenham Hotspur,London,FALSE
+2021/2022,15/08/2021,Newcastle United,West Ham United,2,4,West Ham United,Newcastle Upon Tyne,FALSE
+2021/2022,21/08/2021,Crystal Palace,Brentford FC,0,0,Draw,London,FALSE
+2021/2022,21/08/2021,Liverpool FC,Burnley FC,2,0,Liverpool FC,Liverpool,FALSE
+2020/2021,08/05/2021,Leeds United,Tottenham Hotspur,3,1,Leeds United,Leeds,FALSE
+2021/2022,21/08/2021,Aston Villa,Newcastle United,2,0,Aston Villa,Birmingham,FALSE
+2021/2022,21/08/2021,Manchester City,Norwich City,5,0,Manchester City,Manchester,FALSE
+2021/2022,21/08/2021,Brighton & Hove Albion,Watford FC,2,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2021/2022,22/08/2021,Arsenal FC,Chelsea FC,0,2,Chelsea FC,London,TRUE
+2021/2022,22/08/2021,Southampton FC,Manchester United,1,1,Draw,Southampton,FALSE
+2021/2022,22/08/2021,Wolverhampton Wanderers,Tottenham Hotspur,0,1,Tottenham Hotspur,Wolverhampton,FALSE
+2021/2022,23/08/2021,West Ham United,Leicester City,4,1,West Ham United,London,FALSE
+2021/2022,28/08/2021,Manchester City,Arsenal FC,5,0,Manchester City,Manchester,FALSE
+2020/2021,23/05/2021,Leeds United,West Bromwich Albion,3,1,Leeds United,Leeds,FALSE
+2021/2022,28/08/2021,Liverpool FC,Chelsea FC,1,1,Draw,Liverpool,FALSE
+2021/2022,28/08/2021,West Ham United,Crystal Palace,2,2,Draw,London,TRUE
+2021/2022,28/08/2021,Brighton & Hove Albion,Everton FC,0,2,Everton FC,Brighton and Hove,FALSE
+2021/2022,28/08/2021,Norwich City,Leicester City,1,2,Leicester City,Norwich,FALSE
+2021/2022,28/08/2021,Newcastle United,Southampton FC,2,2,Draw,Newcastle Upon Tyne,FALSE
+2021/2022,11/07/2021,Leeds United,Leicester City,1,1,Draw,Leeds,FALSE
+2021/2022,29/08/2021,Wolverhampton Wanderers,Manchester United,0,1,Manchester United,Wolverhampton,FALSE
+2021/2022,29/08/2021,Tottenham Hotspur,Watford FC,1,0,Tottenham Hotspur,London,FALSE
+2021/2022,11/09/2021,Chelsea FC,Aston Villa,3,0,Chelsea FC,London,FALSE
+2021/2022,11/09/2021,Brentford FC,Brighton & Hove Albion,0,1,Brighton & Hove Albion,London,FALSE
+2021/2022,11/09/2021,Leicester City,Manchester City,0,1,Manchester City,Leicester,FALSE
+2021/2022,11/09/2021,Manchester United,Newcastle United,4,1,Manchester United,Manchester,FALSE
+2021/2022,11/09/2021,Arsenal FC,Norwich City,1,0,Arsenal FC,London,FALSE
+2021/2022,11/09/2021,Crystal Palace,Tottenham Hotspur,3,0,Crystal Palace,London,TRUE
+2021/2022,11/09/2021,Southampton FC,West Ham United,0,0,Draw,Southampton,FALSE
+2021/2022,11/09/2021,Watford FC,Wolverhampton Wanderers,0,2,Wolverhampton Wanderers,Watford,FALSE
+2021/2022,21/08/2021,Leeds United,Everton FC,2,2,Draw,Leeds,FALSE
+2021/2022,13/09/2021,Everton FC,Burnley FC,3,1,Everton FC,Liverpool,FALSE
+2021/2022,12/09/2021,Leeds United,Liverpool FC,0,3,Liverpool FC,Leeds,FALSE
+2021/2022,18/09/2021,Burnley FC,Arsenal FC,0,1,Arsenal FC,Burnley,FALSE
+2021/2022,25/09/2021,Leeds United,West Ham United,1,2,West Ham United,Leeds,FALSE
+2021/2022,18/09/2021,Liverpool FC,Crystal Palace,3,0,Liverpool FC,Liverpool,FALSE
+2021/2022,18/09/2021,Aston Villa,Everton FC,3,0,Aston Villa,Birmingham,FALSE
+2021/2022,18/09/2021,Manchester City,Southampton FC,0,0,Draw,Manchester,FALSE
+2021/2022,18/09/2021,Norwich City,Watford FC,1,3,Watford FC,Norwich,FALSE
+2021/2022,19/09/2021,Tottenham Hotspur,Chelsea FC,0,3,Chelsea FC,London,TRUE
+2021/2022,19/09/2021,Brighton & Hove Albion,Leicester City,2,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2021/2022,19/09/2021,West Ham United,Manchester United,1,2,Manchester United,London,FALSE
+2021/2022,25/09/2021,Manchester United,Aston Villa,0,1,Aston Villa,Manchester,FALSE
+2021/2022,25/09/2021,Leicester City,Burnley FC,2,2,Draw,Leicester,FALSE
+2021/2022,25/09/2021,Brentford FC,Liverpool FC,3,3,Draw,London,FALSE
+2021/2022,25/09/2021,Chelsea FC,Manchester City,0,1,Manchester City,London,FALSE
+2021/2022,25/09/2021,Watford FC,Newcastle United,1,1,Draw,Watford,FALSE
+2021/2022,25/09/2021,Everton FC,Norwich City,2,0,Everton FC,Liverpool,FALSE
+2021/2022,02/10/2021,Leeds United,Watford FC,1,0,Leeds United,Leeds,FALSE
+2021/2022,26/09/2021,Arsenal FC,Tottenham Hotspur,3,1,Arsenal FC,London,TRUE
+2021/2022,26/09/2021,Southampton FC,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Southampton,FALSE
+2021/2022,27/09/2021,Crystal Palace,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2021/2022,02/10/2021,Brighton & Hove Albion,Arsenal FC,0,0,Draw,Brighton and Hove,FALSE
+2021/2022,02/10/2021,Manchester United,Everton FC,1,1,Draw,Manchester,FALSE
+2021/2022,02/10/2021,Wolverhampton Wanderers,Newcastle United,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,02/10/2021,Burnley FC,Norwich City,0,0,Draw,Burnley,FALSE
+2021/2022,02/10/2021,Chelsea FC,Southampton FC,3,1,Chelsea FC,London,FALSE
+2021/2022,23/10/2021,Leeds United,Wolverhampton Wanderers,1,1,Draw,Leeds,FALSE
+2021/2022,03/10/2021,Tottenham Hotspur,Aston Villa,2,1,Tottenham Hotspur,London,FALSE
+2021/2022,03/10/2021,West Ham United,Brentford FC,1,2,Brentford FC,London,FALSE
+2021/2022,03/10/2021,Crystal Palace,Leicester City,2,2,Draw,London,FALSE
+2021/2022,03/10/2021,Liverpool FC,Manchester City,2,2,Draw,Liverpool,FALSE
+2021/2022,16/10/2021,Norwich City,Brighton & Hove Albion,0,0,Draw,Norwich,FALSE
+2021/2022,16/10/2021,Manchester City,Burnley FC,2,0,Manchester City,Manchester,FALSE
+2021/2022,16/10/2021,Brentford FC,Chelsea FC,0,1,Chelsea FC,London,TRUE
+2021/2022,30/11/2021,Leeds United,Crystal Palace,1,0,Leeds United,Leeds,FALSE
+2021/2022,16/10/2021,Watford FC,Liverpool FC,0,5,Liverpool FC,Watford,FALSE
+2021/2022,16/10/2021,Leicester City,Manchester United,4,2,Leicester City,Leicester,FALSE
+2021/2022,16/10/2021,Aston Villa,Wolverhampton Wanderers,2,3,Wolverhampton Wanderers,Birmingham,FALSE
+2021/2022,17/10/2021,Newcastle United,Tottenham Hotspur,2,3,Tottenham Hotspur,Newcastle Upon Tyne,FALSE
+2021/2022,17/10/2021,Everton FC,West Ham United,0,1,West Ham United,Liverpool,FALSE
+2021/2022,18/10/2021,Arsenal FC,Crystal Palace,2,2,Draw,London,TRUE
+2021/2022,22/10/2021,Arsenal FC,Aston Villa,3,1,Arsenal FC,London,FALSE
+2021/2022,23/10/2021,Southampton FC,Burnley FC,2,2,Draw,Southampton,FALSE
+2021/2022,23/10/2021,Brighton & Hove Albion,Manchester City,1,4,Manchester City,Brighton and Hove,FALSE
+2021/2022,23/10/2021,Crystal Palace,Newcastle United,1,1,Draw,London,FALSE
+2021/2022,23/10/2021,Chelsea FC,Norwich City,7,0,Chelsea FC,London,FALSE
+2021/2022,23/10/2021,Everton FC,Watford FC,2,5,Watford FC,Liverpool,FALSE
+2021/2022,05/12/2021,Leeds United,Brentford FC,2,2,Draw,Leeds,FALSE
+2021/2022,24/10/2021,Brentford FC,Leicester City,1,2,Leicester City,London,FALSE
+2021/2022,24/10/2021,Manchester United,Liverpool FC,0,5,Liverpool FC,Manchester,TRUE
+2021/2022,24/10/2021,West Ham United,Tottenham Hotspur,1,0,West Ham United,London,TRUE
+2021/2022,30/10/2021,Leicester City,Arsenal FC,0,2,Arsenal FC,Leicester,FALSE
+2021/2022,18/12/2021,Leeds United,Arsenal FC,1,4,Arsenal FC,Leeds,FALSE
+2021/2022,30/10/2021,Liverpool FC,Brighton & Hove Albion,2,2,Draw,Liverpool,FALSE
+2021/2022,30/10/2021,Newcastle United,Chelsea FC,0,3,Chelsea FC,Newcastle Upon Tyne,FALSE
+2021/2022,30/10/2021,Manchester City,Crystal Palace,0,2,Crystal Palace,Manchester,FALSE
+2021/2022,30/10/2021,Tottenham Hotspur,Manchester United,0,3,Manchester United,London,FALSE
+2021/2022,30/10/2021,Watford FC,Southampton FC,0,1,Southampton FC,Watford,FALSE
+2021/2022,02/01/2022,Leeds United,Burnley FC,3,1,Leeds United,Leeds,FALSE
+2021/2022,31/10/2021,Aston Villa,West Ham United,1,4,West Ham United,Birmingham,FALSE
+2021/2022,01/11/2021,Wolverhampton Wanderers,Everton FC,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,05/11/2021,Southampton FC,Aston Villa,1,0,Southampton FC,Southampton,FALSE
+2021/2022,06/11/2021,Chelsea FC,Burnley FC,1,1,Draw,London,FALSE
+2021/2022,06/11/2021,Manchester United,Manchester City,0,2,Manchester City,Manchester,TRUE
+2021/2022,06/11/2021,Brighton & Hove Albion,Newcastle United,1,1,Draw,Brighton and Hove,FALSE
+2021/2022,06/11/2021,Brentford FC,Norwich City,1,2,Norwich City,London,FALSE
+2021/2022,22/01/2022,Leeds United,Newcastle United,0,1,Newcastle United,Leeds,FALSE
+2021/2022,20/11/2021,Liverpool FC,Arsenal FC,4,0,Liverpool FC,Liverpool,FALSE
+2021/2022,20/02/2022,Leeds United,Manchester United,2,4,Manchester United,Leeds,TRUE
+2021/2022,20/11/2021,Aston Villa,Brighton & Hove Albion,2,0,Aston Villa,Birmingham,FALSE
+2021/2022,20/11/2021,Leicester City,Chelsea FC,0,3,Chelsea FC,Leicester,FALSE
+2021/2022,20/11/2021,Burnley FC,Crystal Palace,3,3,Draw,Burnley,FALSE
+2021/2022,20/11/2021,Watford FC,Manchester United,4,1,Watford FC,Watford,FALSE
+2021/2022,20/11/2021,Norwich City,Southampton FC,2,1,Norwich City,Norwich,FALSE
+2021/2022,20/11/2021,Wolverhampton Wanderers,West Ham United,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,21/11/2021,Manchester City,Everton FC,3,0,Manchester City,Manchester,FALSE
+2021/2022,26/02/2022,Leeds United,Tottenham Hotspur,0,4,Tottenham Hotspur,Leeds,FALSE
+2021/2022,27/11/2021,Crystal Palace,Aston Villa,1,2,Aston Villa,London,FALSE
+2021/2022,10/03/2022,Leeds United,Aston Villa,0,3,Aston Villa,Leeds,FALSE
+2021/2022,27/11/2021,Arsenal FC,Newcastle United,2,0,Arsenal FC,London,FALSE
+2021/2022,27/11/2021,Liverpool FC,Southampton FC,4,0,Liverpool FC,Liverpool,FALSE
+2021/2022,27/11/2021,Norwich City,Wolverhampton Wanderers,0,0,Draw,Norwich,FALSE
+2021/2022,28/11/2021,Brentford FC,Everton FC,1,0,Brentford FC,London,FALSE
+2021/2022,28/11/2021,Chelsea FC,Manchester United,1,1,Draw,London,FALSE
+2021/2022,28/11/2021,Leicester City,Watford FC,4,2,Leicester City,Leicester,FALSE
+2021/2022,28/11/2021,Manchester City,West Ham United,2,1,Manchester City,Manchester,FALSE
+2021/2022,13/03/2022,Leeds United,Norwich City,2,1,Leeds United,Leeds,FALSE
+2021/2022,30/11/2021,Newcastle United,Norwich City,1,1,Draw,Newcastle Upon Tyne,FALSE
+2020/2021,01/12/2021,Burnley FC,Manchester United,0,1,Manchester United,Burnley,FALSE
+2021/2022,01/12/2021,West Ham United,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2021/2022,01/12/2021,Wolverhampton Wanderers,Burnley FC,0,0,Draw,Wolverhampton,FALSE
+2021/2022,01/12/2021,Watford FC,Chelsea FC,1,2,Chelsea FC,Watford,FALSE
+2021/2022,01/12/2021,Southampton FC,Leicester City,2,2,Draw,Southampton,FALSE
+2021/2022,01/12/2021,Everton FC,Liverpool FC,1,4,Liverpool FC,Liverpool,TRUE
+2021/2022,01/12/2021,Aston Villa,Manchester City,1,2,Manchester City,Birmingham,FALSE
+2021/2022,02/12/2021,Manchester United,Arsenal FC,3,2,Manchester United,Manchester,FALSE
+2021/2022,02/12/2021,Tottenham Hotspur,Brentford FC,2,0,Tottenham Hotspur,London,FALSE
+2020/2021,03/12/2021,Newcastle United,Aston Villa,1,1,Draw,Newcastle Upon Tyne,FALSE
+2021/2022,04/12/2021,Southampton FC,Brighton & Hove Albion,1,1,Draw,Southampton,FALSE
+2021/2022,04/12/2021,Newcastle United,Burnley FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,04/12/2021,West Ham United,Chelsea FC,3,2,West Ham United,London,TRUE
+2021/2022,04/12/2021,Wolverhampton Wanderers,Liverpool FC,0,1,Liverpool FC,Wolverhampton,FALSE
+2021/2022,04/12/2021,Watford FC,Manchester City,1,3,Manchester City,Watford,FALSE
+2021/2022,02/04/2022,Leeds United,Southampton FC,1,1,Draw,Leeds,TRUE
+2021/2022,05/12/2021,Manchester United,Crystal Palace,1,0,Manchester United,Manchester,FALSE
+2021/2022,05/12/2021,Aston Villa,Leicester City,2,1,Aston Villa,Birmingham,FALSE
+2021/2022,05/12/2021,Tottenham Hotspur,Norwich City,3,0,Tottenham Hotspur,London,FALSE
+2021/2022,06/12/2021,Everton FC,Arsenal FC,2,1,Everton FC,Liverpool,FALSE
+2021/2022,10/12/2021,Brentford FC,Watford FC,2,1,Brentford FC,London,FALSE
+2021/2022,11/12/2021,Liverpool FC,Aston Villa,1,0,Liverpool FC,Liverpool,FALSE
+2021/2022,30/04/2022,Leeds United,Manchester City,0,4,Manchester City,Leeds,FALSE
+2021/2022,11/12/2021,Norwich City,Manchester United,0,1,Manchester United,Norwich,FALSE
+2021/2022,11/12/2021,Arsenal FC,Southampton FC,3,0,Arsenal FC,London,FALSE
+2021/2022,11/12/2021,Manchester City,Wolverhampton Wanderers,1,0,Manchester City,Manchester,FALSE
+2021/2022,12/12/2021,Crystal Palace,Everton FC,3,1,Crystal Palace,London,FALSE
+2021/2022,12/12/2021,Leicester City,Newcastle United,4,0,Leicester City,Leicester,FALSE
+2021/2022,12/12/2021,Burnley FC,West Ham United,0,0,Draw,Burnley,FALSE
+2021/2022,14/12/2021,Norwich City,Aston Villa,0,2,Aston Villa,Norwich,FALSE
+2021/2022,11/05/2022,Leeds United,Chelsea FC,0,3,Chelsea FC,Leeds,FALSE
+2021/2022,15/12/2021,Crystal Palace,Southampton FC,2,2,Draw,London,FALSE
+2021/2022,15/12/2021,Arsenal FC,West Ham United,2,0,Arsenal FC,London,TRUE
+2021/2022,15/12/2021,Brighton & Hove Albion,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Brighton and Hove,FALSE
+2021/2022,16/12/2021,Chelsea FC,Everton FC,1,1,Draw,London,FALSE
+2021/2022,16/12/2021,Liverpool FC,Newcastle United,3,1,Liverpool FC,Liverpool,FALSE
+2021/2022,15/05/2022,Leeds United,Brighton & Hove Albion,1,1,Draw,Leeds,FALSE
+2021/2022,19/12/2021,Wolverhampton Wanderers,Chelsea FC,0,0,Draw,Wolverhampton,FALSE
+2021/2022,19/12/2021,Tottenham Hotspur,Liverpool FC,2,2,Draw,London,FALSE
+2021/2022,19/12/2021,Newcastle United,Manchester City,0,4,Manchester City,Newcastle Upon Tyne,FALSE
+2021/2022,26/12/2021,Norwich City,Arsenal FC,0,5,Arsenal FC,Norwich,FALSE
+2022/2023,06/08/2022,Leeds United,Wolverhampton Wanderers,2,1,Leeds United,Leeds,FALSE
+2021/2022,26/12/2021,Aston Villa,Chelsea FC,1,3,Chelsea FC,Birmingham,FALSE
+2021/2022,26/12/2021,Tottenham Hotspur,Crystal Palace,3,0,Tottenham Hotspur,London,TRUE
+2021/2022,26/12/2021,Manchester City,Leicester City,6,3,Manchester City,Manchester,FALSE
+2021/2022,26/12/2021,West Ham United,Southampton FC,2,3,Southampton FC,London,FALSE
+2021/2022,27/12/2021,Newcastle United,Manchester United,1,1,Draw,Newcastle Upon Tyne,FALSE
+2021/2022,28/12/2021,Leicester City,Liverpool FC,1,0,Leicester City,Leicester,FALSE
+2021/2022,28/12/2021,Crystal Palace,Norwich City,3,0,Crystal Palace,London,FALSE
+2021/2022,28/12/2021,Southampton FC,Tottenham Hotspur,1,1,Draw,Southampton,FALSE
+2021/2022,28/12/2021,Watford FC,West Ham United,1,4,West Ham United,Watford,FALSE
+2021/2022,29/12/2021,Chelsea FC,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2021/2022,29/12/2021,Brentford FC,Manchester City,0,1,Manchester City,London,FALSE
+2021/2022,30/12/2021,Manchester United,Burnley FC,3,1,Manchester United,Manchester,FALSE
+2021/2022,01/01/2022,Arsenal FC,Manchester City,1,2,Manchester City,London,FALSE
+2021/2022,01/01/2022,Watford FC,Tottenham Hotspur,0,1,Tottenham Hotspur,Watford,FALSE
+2021/2022,01/01/2022,Crystal Palace,West Ham United,2,3,West Ham United,London,TRUE
+2021/2022,02/01/2022,Brentford FC,Aston Villa,2,1,Brentford FC,London,FALSE
+2021/2022,02/01/2022,Everton FC,Brighton & Hove Albion,2,3,Brighton & Hove Albion,Liverpool,FALSE
+2022/2023,21/08/2022,Leeds United,Chelsea FC,3,0,Leeds United,Leeds,FALSE
+2021/2022,02/01/2022,Chelsea FC,Liverpool FC,2,2,Draw,London,FALSE
+2021/2022,03/01/2022,Burnley FC,Leicester City,0,2,Leicester City,Burnley,FALSE
+2021/2022,03/01/2022,Manchester United,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Manchester,FALSE
+2022/2023,30/08/2022,Leeds United,Everton FC,1,1,Draw,Leeds,FALSE
+2021/2022,12/01/2022,West Ham United,Norwich City,2,0,West Ham United,London,FALSE
+2021/2022,14/01/2022,Brighton & Hove Albion,Crystal Palace,1,1,Draw,Brighton and Hove,TRUE
+2021/2022,15/01/2022,Manchester City,Chelsea FC,1,0,Manchester City,Manchester,FALSE
+2021/2022,15/01/2022,Norwich City,Everton FC,2,1,Norwich City,Norwich,FALSE
+2021/2022,15/01/2022,Aston Villa,Manchester United,2,2,Draw,Birmingham,FALSE
+2021/2022,15/01/2022,Wolverhampton Wanderers,Southampton FC,3,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,15/01/2022,Newcastle United,Watford FC,1,1,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,02/10/2022,Leeds United,Aston Villa,0,0,Draw,Leeds,FALSE
+2022/2023,16/10/2022,Leeds United,Arsenal FC,0,1,Arsenal FC,Leeds,FALSE
+2021/2022,18/01/2022,Brighton & Hove Albion,Chelsea FC,1,1,Draw,Brighton and Hove,FALSE
+2021/2022,19/01/2022,Brentford FC,Manchester United,1,3,Manchester United,London,FALSE
+2021/2022,19/01/2022,Leicester City,Tottenham Hotspur,2,3,Tottenham Hotspur,Leicester,FALSE
+2021/2022,21/01/2022,Watford FC,Norwich City,0,3,Norwich City,Watford,FALSE
+2021/2022,22/01/2022,Everton FC,Aston Villa,0,1,Aston Villa,Liverpool,FALSE
+2021/2022,22/01/2022,Southampton FC,Manchester City,1,1,Draw,Southampton,FALSE
+2022/2023,23/10/2022,Leeds United,Fulham FC,2,3,Fulham FC,Leeds,FALSE
+2021/2022,22/01/2022,Manchester United,West Ham United,1,0,Manchester United,Manchester,FALSE
+2021/2022,22/01/2022,Brentford FC,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,London,FALSE
+2021/2022,23/01/2022,Leicester City,Brighton & Hove Albion,1,1,Draw,Leicester,FALSE
+2021/2022,23/01/2022,Arsenal FC,Burnley FC,0,0,Draw,London,FALSE
+2021/2022,23/01/2022,Crystal Palace,Liverpool FC,1,3,Liverpool FC,London,FALSE
+2021/2022,23/01/2022,Chelsea FC,Tottenham Hotspur,2,0,Chelsea FC,London,TRUE
+2021/2022,05/02/2022,Burnley FC,Watford FC,0,0,Draw,Burnley,FALSE
+2021/2022,08/02/2022,Newcastle United,Everton FC,3,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,08/02/2022,Burnley FC,Manchester United,1,1,Draw,Burnley,FALSE
+2021/2022,08/02/2022,West Ham United,Watford FC,1,0,West Ham United,London,FALSE
+2022/2023,05/11/2022,Leeds United,AFC Bournemouth,4,3,Leeds United,Leeds,FALSE
+2021/2022,09/02/2022,Norwich City,Crystal Palace,1,1,Draw,Norwich,FALSE
+2022/2023,28/12/2022,Leeds United,Manchester City,1,3,Manchester City,Leeds,FALSE
+2021/2022,09/02/2022,Tottenham Hotspur,Southampton FC,2,3,Southampton FC,London,FALSE
+2021/2022,10/02/2022,Wolverhampton Wanderers,Arsenal FC,0,1,Arsenal FC,Wolverhampton,FALSE
+2021/2022,10/02/2022,Liverpool FC,Leicester City,2,0,Liverpool FC,Liverpool,FALSE
+2021/2022,12/02/2022,Watford FC,Brighton & Hove Albion,0,2,Brighton & Hove Albion,Watford,FALSE
+2021/2022,12/02/2022,Brentford FC,Crystal Palace,0,0,Draw,London,TRUE
+2022/2023,04/01/2023,Leeds United,West Ham United,2,2,Draw,Leeds,FALSE
+2021/2022,12/02/2022,Norwich City,Manchester City,0,4,Manchester City,Norwich,FALSE
+2021/2022,12/02/2022,Manchester United,Southampton FC,1,1,Draw,Manchester,FALSE
+2021/2022,13/02/2022,Newcastle United,Aston Villa,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,13/02/2022,Burnley FC,Liverpool FC,0,1,Liverpool FC,Burnley,FALSE
+2021/2022,13/02/2022,Leicester City,West Ham United,2,2,Draw,Leicester,FALSE
+2022/2023,22/01/2023,Leeds United,Brentford FC,0,0,Draw,Leeds,FALSE
+2021/2022,15/02/2022,Manchester United,Brighton & Hove Albion,2,0,Manchester United,Manchester,FALSE
+2021/2022,19/02/2022,Arsenal FC,Brentford FC,2,1,Arsenal FC,London,FALSE
+2021/2022,19/02/2022,Brighton & Hove Albion,Burnley FC,0,3,Burnley FC,Brighton and Hove,FALSE
+2021/2022,19/02/2022,Crystal Palace,Chelsea FC,0,1,Chelsea FC,London,TRUE
+2021/2022,19/02/2022,Southampton FC,Everton FC,2,0,Southampton FC,Southampton,FALSE
+2021/2022,19/02/2022,West Ham United,Newcastle United,1,1,Draw,London,FALSE
+2021/2022,19/02/2022,Liverpool FC,Norwich City,3,1,Liverpool FC,Liverpool,FALSE
+2021/2022,19/02/2022,Manchester City,Tottenham Hotspur,2,3,Tottenham Hotspur,Manchester,FALSE
+2021/2022,19/02/2022,Aston Villa,Watford FC,0,1,Watford FC,Birmingham,FALSE
+2021/2022,20/02/2022,Wolverhampton Wanderers,Leicester City,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,12/02/2023,Leeds United,Manchester United,0,2,Manchester United,Leeds,TRUE
+2021/2022,23/02/2022,Watford FC,Crystal Palace,1,4,Crystal Palace,Watford,FALSE
+2022/2023,25/02/2023,Leeds United,Southampton FC,1,0,Leeds United,Leeds,TRUE
+2021/2022,23/02/2022,Burnley FC,Tottenham Hotspur,1,0,Burnley FC,Burnley,FALSE
+2021/2022,24/02/2022,Arsenal FC,Wolverhampton Wanderers,2,1,Arsenal FC,London,FALSE
+2021/2022,25/02/2022,Southampton FC,Norwich City,2,0,Southampton FC,Southampton,FALSE
+2021/2022,26/02/2022,Brighton & Hove Albion,Aston Villa,0,2,Aston Villa,Brighton and Hove,FALSE
+2021/2022,26/02/2022,Crystal Palace,Burnley FC,1,1,Draw,London,FALSE
+2021/2022,26/02/2022,Everton FC,Manchester City,0,1,Manchester City,Liverpool,FALSE
+2021/2022,26/02/2022,Brentford FC,Newcastle United,0,2,Newcastle United,London,FALSE
+2022/2023,11/03/2023,Leeds United,Brighton & Hove Albion,2,2,Draw,Leeds,FALSE
+2021/2022,26/02/2022,Manchester United,Watford FC,0,0,Draw,Manchester,FALSE
+2021/2022,27/02/2022,West Ham United,Wolverhampton Wanderers,1,0,West Ham United,London,FALSE
+2022/2023,04/04/2023,Leeds United,Nottingham Forest,2,1,Leeds United,Leeds,FALSE
+2021/2022,05/03/2022,Newcastle United,Brighton & Hove Albion,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,05/03/2022,Burnley FC,Chelsea FC,0,4,Chelsea FC,Burnley,FALSE
+2021/2022,05/03/2022,Wolverhampton Wanderers,Crystal Palace,0,2,Crystal Palace,Wolverhampton,FALSE
+2022/2023,09/04/2023,Leeds United,Crystal Palace,1,5,Crystal Palace,Leeds,FALSE
+2021/2022,05/03/2022,Aston Villa,Southampton FC,4,0,Aston Villa,Birmingham,FALSE
+2021/2022,05/03/2022,Liverpool FC,West Ham United,1,0,Liverpool FC,Liverpool,FALSE
+2021/2022,06/03/2022,Watford FC,Arsenal FC,2,3,Arsenal FC,Watford,FALSE
+2021/2022,06/03/2022,Manchester City,Manchester United,4,1,Manchester City,Manchester,TRUE
+2021/2022,07/03/2022,Tottenham Hotspur,Everton FC,5,0,Tottenham Hotspur,London,FALSE
+2022/2023,17/04/2023,Leeds United,Liverpool FC,1,6,Liverpool FC,Leeds,FALSE
+2021/2022,10/03/2022,Norwich City,Chelsea FC,1,3,Chelsea FC,Norwich,FALSE
+2021/2022,10/03/2022,Southampton FC,Newcastle United,1,2,Newcastle United,Southampton,FALSE
+2021/2022,10/03/2022,Wolverhampton Wanderers,Watford FC,4,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,12/03/2022,Brentford FC,Burnley FC,2,0,Brentford FC,London,FALSE
+2021/2022,12/03/2022,Brighton & Hove Albion,Liverpool FC,0,2,Liverpool FC,Brighton and Hove,FALSE
+2021/2022,12/03/2022,Manchester United,Tottenham Hotspur,3,2,Manchester United,Manchester,FALSE
+2021/2022,13/03/2022,West Ham United,Aston Villa,2,1,West Ham United,London,FALSE
+2021/2022,13/03/2022,Arsenal FC,Leicester City,2,0,Arsenal FC,London,FALSE
+2021/2022,13/03/2022,Chelsea FC,Newcastle United,1,0,Chelsea FC,London,FALSE
+2022/2023,25/04/2023,Leeds United,Leicester City,1,1,Draw,Leeds,FALSE
+2021/2022,13/03/2022,Southampton FC,Watford FC,1,2,Watford FC,Southampton,FALSE
+2021/2022,13/03/2022,Everton FC,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Liverpool,FALSE
+2021/2022,14/03/2022,Crystal Palace,Manchester City,0,0,Draw,London,FALSE
+2021/2022,16/03/2022,Arsenal FC,Liverpool FC,0,2,Liverpool FC,London,FALSE
+2021/2022,16/03/2022,Brighton & Hove Albion,Tottenham Hotspur,0,2,Tottenham Hotspur,Brighton and Hove,FALSE
+2021/2022,17/03/2022,Everton FC,Newcastle United,1,0,Everton FC,Liverpool,FALSE
+2022/2023,13/05/2023,Leeds United,Newcastle United,2,2,Draw,Leeds,FALSE
+2021/2022,19/03/2022,Aston Villa,Arsenal FC,0,1,Arsenal FC,Birmingham,FALSE
+2022/2023,28/05/2023,Leeds United,Tottenham Hotspur,1,4,Tottenham Hotspur,Leeds,FALSE
+2021/2022,20/03/2022,Tottenham Hotspur,West Ham United,3,1,Tottenham Hotspur,London,TRUE
+2021/2022,02/04/2022,Wolverhampton Wanderers,Aston Villa,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,02/04/2022,Chelsea FC,Brentford FC,1,4,Brentford FC,London,FALSE
+2021/2022,02/04/2022,Manchester United,Leicester City,1,1,Draw,Manchester,FALSE
+2021/2022,02/04/2022,Burnley FC,Manchester City,0,2,Manchester City,Burnley,FALSE
+2021/2022,02/04/2022,Brighton & Hove Albion,Norwich City,0,0,Draw,Brighton and Hove,FALSE
+2018/2019,22/09/2018,Leicester City,Huddersfield Town,3,1,Leicester City,Leicester,FALSE
+2021/2022,02/04/2022,Liverpool FC,Watford FC,2,0,Liverpool FC,Liverpool,FALSE
+2021/2022,03/04/2022,West Ham United,Everton FC,2,1,West Ham United,London,FALSE
+2021/2022,03/04/2022,Tottenham Hotspur,Newcastle United,5,1,Tottenham Hotspur,London,FALSE
+2021/2022,04/04/2022,Crystal Palace,Arsenal FC,3,0,Crystal Palace,London,TRUE
+2021/2022,06/04/2022,Burnley FC,Everton FC,3,2,Burnley FC,Burnley,FALSE
+2021/2022,08/04/2022,Newcastle United,Wolverhampton Wanderers,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,09/04/2022,Arsenal FC,Brighton & Hove Albion,1,2,Brighton & Hove Albion,London,FALSE
+2021/2022,09/04/2022,Southampton FC,Chelsea FC,0,6,Chelsea FC,Southampton,FALSE
+2018/2019,10/11/2018,Leicester City,Burnley FC,0,0,Draw,Leicester,FALSE
+2021/2022,09/04/2022,Everton FC,Manchester United,1,0,Everton FC,Liverpool,TRUE
+2021/2022,09/04/2022,Aston Villa,Tottenham Hotspur,0,4,Tottenham Hotspur,Birmingham,FALSE
+2021/2022,10/04/2022,Norwich City,Burnley FC,2,0,Norwich City,Norwich,FALSE
+2021/2022,10/04/2022,Leicester City,Crystal Palace,2,1,Leicester City,Leicester,FALSE
+2021/2022,10/04/2022,Manchester City,Liverpool FC,2,2,Draw,Manchester,TRUE
+2021/2022,10/04/2022,Brentford FC,West Ham United,2,0,Brentford FC,London,TRUE
+2021/2022,16/04/2022,Southampton FC,Arsenal FC,1,0,Southampton FC,Southampton,FALSE
+2018/2019,29/12/2018,Leicester City,Cardiff City,0,1,Leicester City,Leicester,FALSE
+2021/2022,16/04/2022,Tottenham Hotspur,Brighton & Hove Albion,0,1,Brighton & Hove Albion,London,FALSE
+2021/2022,16/04/2022,Manchester United,Norwich City,3,2,Manchester United,Manchester,FALSE
+2021/2022,17/04/2022,West Ham United,Burnley FC,1,1,Draw,London,FALSE
+2021/2022,17/04/2022,Newcastle United,Leicester City,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,19/04/2022,Liverpool FC,Manchester United,4,0,Liverpool FC,Liverpool,TRUE
+2021/2022,20/04/2022,Chelsea FC,Arsenal FC,2,4,Arsenal FC,London,TRUE
+2021/2022,20/04/2022,Manchester City,Brighton & Hove Albion,3,0,Manchester City,Manchester,FALSE
+2021/2022,20/04/2022,Newcastle United,Crystal Palace,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,20/04/2022,Everton FC,Leicester City,1,1,Draw,Liverpool,FALSE
+2021/2022,21/04/2022,Burnley FC,Southampton FC,2,0,Burnley FC,Burnley,FALSE
+2021/2022,23/04/2022,Leicester City,Aston Villa,0,0,Draw,Leicester,FALSE
+2021/2022,23/04/2022,Arsenal FC,Manchester United,3,1,Arsenal FC,London,FALSE
+2018/2019,03/09/2019,Leicester City,Fulham FC,3,1,Leicester City,Leicester,FALSE
+2021/2022,23/04/2022,Brentford FC,Tottenham Hotspur,0,0,Draw,London,TRUE
+2021/2022,23/04/2022,Manchester City,Watford FC,5,1,Manchester City,Manchester,FALSE
+2021/2022,24/04/2022,Liverpool FC,Everton FC,2,0,Liverpool FC,Liverpool,TRUE
+2021/2022,24/04/2022,Brighton & Hove Albion,Southampton FC,2,2,Draw,Brighton and Hove,FALSE
+2021/2022,24/04/2022,Chelsea FC,West Ham United,1,0,Chelsea FC,London,TRUE
+2021/2022,24/04/2022,Burnley FC,Wolverhampton Wanderers,1,0,Burnley FC,Burnley,FALSE
+2020/2021,30/11/2020,Leicester City,Fulham FC,1,2,Fulham FC,Leicester,FALSE
+2021/2022,28/04/2022,Manchester United,Chelsea FC,1,1,Draw,Manchester,FALSE
+2021/2022,30/04/2022,Wolverhampton Wanderers,Brighton & Hove Albion,0,3,Brighton & Hove Albion,Wolverhampton,FALSE
+2021/2022,30/04/2022,Watford FC,Burnley FC,1,2,Burnley FC,Watford,FALSE
+2021/2022,30/04/2022,Southampton FC,Crystal Palace,1,2,Crystal Palace,Southampton,FALSE
+2021/2022,30/04/2022,Newcastle United,Liverpool FC,0,1,Liverpool FC,Newcastle Upon Tyne,FALSE
+2020/2021,31/01/2021,Leicester City,Leeds United,1,3,Leeds United,Leicester,FALSE
+2021/2022,30/04/2022,Aston Villa,Norwich City,2,0,Aston Villa,Birmingham,FALSE
+2021/2022,01/05/2022,West Ham United,Arsenal FC,1,2,Arsenal FC,London,TRUE
+2021/2022,01/05/2022,Everton FC,Chelsea FC,1,0,Everton FC,Liverpool,FALSE
+2021/2022,01/05/2022,Tottenham Hotspur,Leicester City,3,1,Tottenham Hotspur,London,FALSE
+2021/2022,05/03/2022,Leicester City,Leeds United,1,0,Leicester City,Leicester,FALSE
+2021/2022,07/05/2022,Burnley FC,Aston Villa,1,3,Aston Villa,Burnley,FALSE
+2021/2022,07/05/2022,Brighton & Hove Albion,Manchester United,4,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2021/2022,07/05/2022,Brentford FC,Southampton FC,3,0,Brentford FC,London,FALSE
+2021/2022,07/05/2022,Liverpool FC,Tottenham Hotspur,1,1,Draw,Liverpool,FALSE
+2021/2022,07/05/2022,Crystal Palace,Watford FC,1,0,Crystal Palace,London,FALSE
+2021/2022,07/05/2022,Chelsea FC,Wolverhampton Wanderers,2,2,Draw,London,FALSE
+2021/2022,08/05/2022,Leicester City,Everton FC,1,2,Everton FC,Leicester,FALSE
+2021/2022,20/03/2022,Leicester City,Brentford FC,2,1,Leicester City,Leicester,FALSE
+2021/2022,08/05/2022,Manchester City,Newcastle United,5,0,Manchester City,Manchester,FALSE
+2021/2022,08/05/2022,Norwich City,West Ham United,0,4,West Ham United,Norwich,FALSE
+2021/2022,10/05/2022,Aston Villa,Liverpool FC,1,2,Liverpool FC,Birmingham,FALSE
+2022/2023,07/08/2022,Leicester City,Brentford FC,2,2,Draw,Leicester,FALSE
+2021/2022,11/05/2022,Watford FC,Everton FC,0,0,Draw,Watford,FALSE
+2021/2022,11/05/2022,Wolverhampton Wanderers,Manchester City,1,5,Manchester City,Wolverhampton,FALSE
+2021/2022,11/05/2022,Leicester City,Norwich City,3,0,Leicester City,Leicester,FALSE
+2022/2023,03/10/2022,Leicester City,Nottingham Forest,4,0,Leicester City,Leicester,FALSE
+2022/2023,20/10/2022,Leicester City,Leeds United,2,0,Leicester City,Leicester,FALSE
+2021/2022,15/05/2022,Tottenham Hotspur,Burnley FC,1,0,Tottenham Hotspur,London,FALSE
+2021/2022,15/05/2022,Aston Villa,Crystal Palace,1,1,Draw,Birmingham,FALSE
+2021/2022,15/05/2022,Watford FC,Leicester City,1,5,Leicester City,Watford,FALSE
+2021/2022,15/05/2022,West Ham United,Manchester City,2,2,Draw,London,FALSE
+2021/2022,15/05/2022,Wolverhampton Wanderers,Norwich City,1,1,Draw,Wolverhampton,FALSE
+2022/2023,03/01/2023,Leicester City,Fulham FC,0,1,Fulham FC,Leicester,FALSE
+2021/2022,17/05/2022,Southampton FC,Liverpool FC,1,2,Liverpool FC,Southampton,FALSE
+2021/2022,19/05/2022,Aston Villa,Burnley FC,1,1,Draw,Birmingham,FALSE
+2021/2022,19/05/2022,Everton FC,Crystal Palace,3,2,Everton FC,Liverpool,FALSE
+2021/2022,19/05/2022,Chelsea FC,Leicester City,1,1,Draw,London,FALSE
+2021/2022,22/05/2022,Manchester City,Aston Villa,3,2,Manchester City,Manchester,FALSE
+2021/2022,22/05/2022,Arsenal FC,Everton FC,5,1,Arsenal FC,London,FALSE
+2018/2019,27/10/2018,Liverpool FC,Cardiff City,4,1,Liverpool FC,Liverpool,FALSE
+2021/2022,22/05/2022,Crystal Palace,Manchester United,1,0,Crystal Palace,London,FALSE
+2021/2022,22/05/2022,Burnley FC,Newcastle United,1,2,Newcastle United,Burnley,FALSE
+2021/2022,22/05/2022,Leicester City,Southampton FC,4,1,Leicester City,Leicester,FALSE
+2021/2022,22/05/2022,Norwich City,Tottenham Hotspur,0,5,Tottenham Hotspur,Norwich,FALSE
+2021/2022,22/05/2022,Chelsea FC,Watford FC,2,1,Chelsea FC,London,FALSE
+2021/2022,22/05/2022,Brighton & Hove Albion,West Ham United,3,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2021/2022,22/05/2022,Liverpool FC,Wolverhampton Wanderers,3,1,Liverpool FC,Liverpool,FALSE
+2022/2023,05/08/2022,Crystal Palace,Arsenal FC,0,2,Arsenal FC,London,TRUE
+2022/2023,06/08/2022,AFC Bournemouth,Aston Villa,2,0,AFC Bournemouth,Bournemouth,FALSE
+2022/2023,06/08/2022,Everton FC,Chelsea FC,0,1,Chelsea FC,Liverpool,FALSE
+2022/2023,06/08/2022,Fulham FC,Liverpool FC,2,2,Draw,London,FALSE
+2022/2023,06/08/2022,Newcastle United,Nottingham Forest,2,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,06/08/2022,Tottenham Hotspur,Southampton FC,4,1,Tottenham Hotspur,London,FALSE
+2018/2019,11/11/2018,Liverpool FC,Fulham FC,2,0,Liverpool FC,Liverpool,FALSE
+2018/2019,26/04/2019,Liverpool FC,Huddersfield Town,5,0,Liverpool FC,Liverpool,FALSE
+2022/2023,07/08/2022,Manchester United,Brighton & Hove Albion,1,2,Brighton & Hove Albion,Manchester,FALSE
+2022/2023,07/08/2022,West Ham United,Manchester City,0,2,Manchester City,London,FALSE
+2020/2021,12/09/2020,Liverpool FC,Leeds United,4,3,Liverpool FC,Liverpool,FALSE
+2022/2023,10/08/2022,AFC Bournemouth,Leicester City,2,1,AFC Bournemouth,Bournemouth,FALSE
+2022/2023,10/08/2022,Manchester City,Southampton FC,4,0,Manchester City,Manchester,FALSE
+2022/2023,10/08/2022,Brighton & Hove Albion,Tottenham Hotspur,0,1,Tottenham Hotspur,Brighton and Hove,FALSE
+2022/2023,10/08/2022,Chelsea FC,Wolverhampton Wanderers,3,0,Chelsea FC,London,FALSE
+2022/2023,13/08/2022,Manchester City,AFC Bournemouth,4,0,Manchester City,Manchester,FALSE
+2022/2023,13/08/2022,Aston Villa,Everton FC,2,1,Aston Villa,Birmingham,FALSE
+2020/2021,27/12/2020,Liverpool FC,West Bromwich Albion,1,1,Draw,Liverpool,FALSE
+2020/2021,07/03/2021,Liverpool FC,Fulham FC,0,1,Fulham FC,Liverpool,FALSE
+2022/2023,13/08/2022,Arsenal FC,Leicester City,4,2,Arsenal FC,London,FALSE
+2022/2023,13/08/2022,Brentford FC,Manchester United,4,0,Brentford FC,London,FALSE
+2022/2023,13/08/2022,Brighton & Hove Albion,Newcastle United,0,0,Draw,Brighton and Hove,FALSE
+2022/2023,14/08/2022,Chelsea FC,Tottenham Hotspur,2,2,Draw,London,TRUE
+2021/2022,16/01/2022,Liverpool FC,Brentford FC,3,0,Liverpool FC,Liverpool,FALSE
+2022/2023,15/08/2022,Liverpool FC,Crystal Palace,1,1,Draw,Liverpool,FALSE
+2022/2023,20/08/2022,AFC Bournemouth,Arsenal FC,0,3,Arsenal FC,Bournemouth,FALSE
+2022/2023,20/08/2022,Crystal Palace,Aston Villa,3,1,Crystal Palace,London,FALSE
+2022/2023,20/08/2022,Fulham FC,Brentford FC,3,2,Fulham FC,London,FALSE
+2021/2022,23/02/2022,Liverpool FC,Leeds United,6,0,Liverpool FC,Liverpool,FALSE
+2022/2023,20/08/2022,Leicester City,Southampton FC,1,2,Southampton FC,Leicester,FALSE
+2022/2023,29/10/2022,Liverpool FC,Leeds United,1,2,Leeds United,Liverpool,FALSE
+2022/2023,21/08/2022,West Ham United,Brighton & Hove Albion,0,2,Brighton & Hove Albion,London,FALSE
+2022/2023,22/04/2023,Liverpool FC,Nottingham Forest,3,2,Liverpool FC,Liverpool,FALSE
+2022/2023,21/08/2022,Newcastle United,Manchester City,3,3,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,22/08/2022,Manchester United,Liverpool FC,2,1,Manchester United,Manchester,TRUE
+2022/2023,27/08/2022,Liverpool FC,AFC Bournemouth,9,0,Liverpool FC,Liverpool,FALSE
+2022/2023,27/08/2022,Manchester City,Crystal Palace,4,2,Manchester City,Manchester,FALSE
+2022/2023,27/08/2022,Brentford FC,Everton FC,1,1,Draw,London,FALSE
+2022/2023,03/05/2023,Liverpool FC,Fulham FC,1,0,Liverpool FC,Liverpool,FALSE
+2022/2023,06/05/2023,Liverpool FC,Brentford FC,1,0,Liverpool FC,Liverpool,FALSE
+2022/2023,27/08/2022,Chelsea FC,Leicester City,2,1,Chelsea FC,London,FALSE
+2022/2023,27/08/2022,Southampton FC,Manchester United,0,1,Manchester United,Southampton,FALSE
+2022/2023,28/08/2022,Wolverhampton Wanderers,Newcastle United,1,1,Draw,Wolverhampton,FALSE
+2023/2024,29/10/2023,Liverpool FC,Nottingham Forest,3,0,Liverpool FC,Liverpool,FALSE
+2022/2023,28/08/2022,Aston Villa,West Ham United,0,1,West Ham United,Birmingham,FALSE
+2022/2023,30/08/2022,Crystal Palace,Brentford FC,1,1,Draw,London,FALSE
+2022/2023,30/08/2022,Fulham FC,Brighton & Hove Albion,2,1,Fulham FC,London,FALSE
+2022/2023,30/08/2022,Southampton FC,Chelsea FC,2,1,Southampton FC,Southampton,FALSE
+2023/2024,12/11/2023,Liverpool FC,Brentford FC,3,0,Liverpool FC,Liverpool,FALSE
+2022/2023,31/08/2022,Arsenal FC,Aston Villa,2,1,Arsenal FC,London,FALSE
+2022/2023,31/08/2022,Liverpool FC,Newcastle United,2,1,Liverpool FC,Liverpool,FALSE
+2023/2024,01/12/2023,Liverpool FC,Fulham FC,4,3,Liverpool FC,Liverpool,FALSE
+2022/2023,31/08/2022,West Ham United,Tottenham Hotspur,1,1,Draw,London,TRUE
+2022/2023,31/08/2022,AFC Bournemouth,Wolverhampton Wanderers,0,0,Draw,Bournemouth,FALSE
+2022/2023,01/09/2022,Leicester City,Manchester United,0,1,Manchester United,Leicester,FALSE
+2023/2024,21/02/2024,Liverpool FC,Luton Town,4,1,Liverpool FC,Liverpool,FALSE
+2022/2023,03/09/2022,Newcastle United,Crystal Palace,0,0,Draw,Newcastle Upon Tyne,FALSE
+2023/2024,01/09/2023,Luton Town,West Ham United,1,2,West Ham United,Luton,FALSE
+2023/2024,23/09/2023,Luton Town,Wolverhampton Wanderers,1,1,Draw,Luton,FALSE
+2022/2023,03/09/2022,Everton FC,Liverpool FC,0,0,Draw,Liverpool,TRUE
+2022/2023,03/09/2022,Aston Villa,Manchester City,1,1,Draw,Birmingham,FALSE
+2022/2023,03/09/2022,Wolverhampton Wanderers,Southampton FC,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,03/09/2022,Chelsea FC,West Ham United,2,1,Chelsea FC,London,TRUE
+2022/2023,04/09/2022,Manchester United,Arsenal FC,3,1,Manchester United,Manchester,FALSE
+2022/2023,04/09/2022,Brighton & Hove Albion,Leicester City,5,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2023/2024,03/10/2023,Luton Town,Burnley FC,1,2,Burnley FC,Luton,FALSE
+2023/2024,07/10/2023,Luton Town,Tottenham Hotspur,0,1,Tottenham Hotspur,Luton,FALSE
+2022/2023,10/09/2022,Arsenal FC,Liverpool FC,3,2,Arsenal FC,London,FALSE
+2022/2023,10/09/2022,Everton FC,Manchester United,1,2,Manchester United,Liverpool,TRUE
+2023/2024,12/10/2023,Luton Town,Manchester City,1,2,Manchester City,Luton,FALSE
+2022/2023,16/09/2022,Aston Villa,Southampton FC,1,0,Aston Villa,Birmingham,FALSE
+2022/2023,17/09/2022,Newcastle United,AFC Bournemouth,1,1,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,17/09/2022,Tottenham Hotspur,Leicester City,6,2,Tottenham Hotspur,London,FALSE
+2022/2023,17/09/2022,Wolverhampton Wanderers,Manchester City,0,3,Manchester City,Wolverhampton,FALSE
+2022/2023,18/09/2022,Brentford FC,Arsenal FC,0,3,Arsenal FC,London,TRUE
+2022/2023,18/09/2022,Everton FC,West Ham United,1,0,Everton FC,Liverpool,FALSE
+2023/2024,05/11/2023,Luton Town,Liverpool FC,1,1,Draw,Luton,FALSE
+2022/2023,01/10/2022,Liverpool FC,Brighton & Hove Albion,3,3,Draw,Liverpool,FALSE
+2022/2023,01/10/2022,Crystal Palace,Chelsea FC,1,2,Chelsea FC,London,TRUE
+2022/2023,01/10/2022,Southampton FC,Everton FC,1,2,Everton FC,Southampton,FALSE
+2022/2023,01/10/2022,Fulham FC,Newcastle United,1,4,Newcastle United,London,FALSE
+2022/2023,01/10/2022,Arsenal FC,Tottenham Hotspur,3,1,Arsenal FC,London,TRUE
+2022/2023,01/10/2022,West Ham United,Wolverhampton Wanderers,2,0,West Ham United,London,FALSE
+2023/2024,25/11/2023,Luton Town,Crystal Palace,2,1,Luton Town,Luton,FALSE
+2022/2023,02/10/2022,Manchester City,Manchester United,6,3,Manchester City,Manchester,TRUE
+2023/2024,05/12/2023,Luton Town,Arsenal FC,3,4,Arsenal FC,Luton,FALSE
+2023/2024,23/12/2023,Luton Town,Newcastle United,1,0,Luton Town,Luton,FALSE
+2022/2023,14/10/2022,Brentford FC,Brighton & Hove Albion,2,0,Brentford FC,London,FALSE
+2022/2023,15/10/2022,Fulham FC,AFC Bournemouth,2,2,Draw,London,FALSE
+2022/2023,15/10/2022,Leicester City,Crystal Palace,0,0,Draw,Leicester,FALSE
+2022/2023,15/10/2022,Tottenham Hotspur,Everton FC,2,0,Tottenham Hotspur,London,FALSE
+2023/2024,30/12/2023,Luton Town,Chelsea FC,2,3,Chelsea FC,Luton,FALSE
+2023/2024,30/01/2024,Luton Town,Brighton & Hove Albion,4,0,Luton Town,Luton,FALSE
+2022/2023,16/10/2022,Aston Villa,Chelsea FC,0,2,Chelsea FC,Birmingham,FALSE
+2022/2023,16/10/2022,Liverpool FC,Manchester City,1,0,Liverpool FC,Liverpool,FALSE
+2022/2023,16/10/2022,Manchester United,Newcastle United,0,0,Draw,Manchester,FALSE
+2022/2023,16/10/2022,Southampton FC,West Ham United,1,1,Draw,Southampton,FALSE
+2023/2024,10/02/2024,Luton Town,Sheffield United,1,3,Sheffield United,Luton,FALSE
+2023/2024,18/02/2024,Luton Town,Manchester United,1,2,Manchester United,Luton,FALSE
+2022/2023,19/10/2022,Brentford FC,Chelsea FC,0,0,Draw,London,TRUE
+2022/2023,19/10/2022,Newcastle United,Everton FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,19/10/2022,AFC Bournemouth,Southampton FC,0,1,Southampton FC,Bournemouth,TRUE
+2022/2023,19/10/2022,Manchester United,Tottenham Hotspur,2,0,Manchester United,Manchester,FALSE
+2022/2023,19/10/2022,Liverpool FC,West Ham United,1,0,Liverpool FC,Liverpool,FALSE
+2022/2023,20/10/2022,Fulham FC,Aston Villa,3,0,Fulham FC,London,FALSE
+2023/2024,02/03/2024,Luton Town,Aston Villa,2,3,Aston Villa,Luton,FALSE
+2022/2023,22/10/2022,Manchester City,Brighton & Hove Albion,3,1,Manchester City,Manchester,FALSE
+2022/2023,22/10/2022,Everton FC,Crystal Palace,3,0,Everton FC,Liverpool,FALSE
+2023/2024,16/03/2024,Luton Town,Nottingham Forest,1,1,Draw,Luton,FALSE
+2022/2023,22/10/2022,Chelsea FC,Manchester United,1,1,Draw,London,FALSE
+2022/2023,23/10/2022,Southampton FC,Arsenal FC,1,1,Draw,Southampton,FALSE
+2023/2024,06/04/2024,Luton Town,AFC Bournemouth,2,1,Luton Town,Luton,FALSE
+2023/2024,20/04/2024,Luton Town,Brentford FC,1,5,Brentford FC,Luton,FALSE
+2022/2023,23/10/2022,Wolverhampton Wanderers,Leicester City,0,4,Leicester City,Wolverhampton,FALSE
+2022/2023,23/10/2022,Tottenham Hotspur,Newcastle United,1,2,Newcastle United,London,FALSE
+2022/2023,24/10/2022,West Ham United,AFC Bournemouth,2,0,West Ham United,London,FALSE
+2022/2023,29/10/2022,Newcastle United,Aston Villa,4,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,29/10/2022,Brighton & Hove Albion,Chelsea FC,4,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2022/2023,29/10/2022,Fulham FC,Everton FC,0,0,Draw,London,FALSE
+2023/2024,03/05/2024,Luton Town,Everton FC,1,1,Draw,Luton,FALSE
+2022/2023,29/10/2022,Leicester City,Manchester City,0,1,Manchester City,Leicester,FALSE
+2022/2023,29/10/2022,Crystal Palace,Southampton FC,1,0,Crystal Palace,London,FALSE
+2022/2023,29/10/2022,AFC Bournemouth,Tottenham Hotspur,2,3,Tottenham Hotspur,Bournemouth,FALSE
+2022/2023,29/10/2022,Brentford FC,Wolverhampton Wanderers,1,1,Draw,London,FALSE
+2023/2024,19/05/2024,Luton Town,Fulham FC,2,4,Fulham FC,Luton,FALSE
+2022/2023,30/10/2022,Manchester United,West Ham United,1,0,Manchester United,Manchester,FALSE
+2018/2019,19/08/2018,Manchester City,Huddersfield Town,6,1,Manchester City,Manchester,FALSE
+2020/2021,15/12/2020,Manchester City,West Bromwich Albion,1,1,Draw,Manchester,FALSE
+2022/2023,05/11/2022,Wolverhampton Wanderers,Brighton & Hove Albion,2,3,Brighton & Hove Albion,Wolverhampton,FALSE
+2022/2023,05/11/2022,Manchester City,Fulham FC,2,1,Manchester City,Manchester,FALSE
+2022/2023,05/11/2022,Everton FC,Leicester City,0,2,Leicester City,Liverpool,FALSE
+2022/2023,06/11/2022,Chelsea FC,Arsenal FC,0,1,Arsenal FC,London,TRUE
+2022/2023,06/11/2022,West Ham United,Crystal Palace,1,2,Crystal Palace,London,TRUE
+2022/2023,06/11/2022,Tottenham Hotspur,Liverpool FC,1,2,Liverpool FC,London,FALSE
+2022/2023,06/11/2022,Aston Villa,Manchester United,3,1,Aston Villa,Birmingham,FALSE
+2022/2023,06/11/2022,Southampton FC,Newcastle United,1,4,Newcastle United,Southampton,FALSE
+2022/2023,13/11/2022,Brighton & Hove Albion,Aston Villa,1,2,Aston Villa,Brighton and Hove,FALSE
+2022/2023,13/11/2022,Fulham FC,Manchester United,1,2,Manchester United,London,FALSE
+2021/2022,05/12/2022,Tottenham Hotspur,Arsenal FC,3,0,Tottenham Hotspur,London,TRUE
+2022/2023,11/12/2022,Wolverhampton Wanderers,Arsenal FC,0,2,Arsenal FC,Wolverhampton,FALSE
+2020/2021,10/04/2021,Manchester City,Leeds United,1,2,Leeds United,Manchester,FALSE
+2022/2023,11/12/2022,Newcastle United,Chelsea FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2021/2022,14/12/2021,Manchester City,Leeds United,7,0,Manchester City,Manchester,FALSE
+2022/2023,11/12/2022,AFC Bournemouth,Everton FC,3,0,AFC Bournemouth,Bournemouth,FALSE
+2021/2022,09/02/2022,Manchester City,Brentford FC,2,0,Manchester City,Manchester,FALSE
+2022/2023,11/12/2022,West Ham United,Leicester City,0,2,Leicester City,London,FALSE
+2022/2023,11/12/2022,Liverpool FC,Southampton FC,3,1,Liverpool FC,Liverpool,FALSE
+2022/2023,26/12/2022,Southampton FC,Brighton & Hove Albion,1,3,Brighton & Hove Albion,Southampton,FALSE
+2022/2023,31/08/2022,Manchester City,Nottingham Forest,6,0,Manchester City,Manchester,FALSE
+2022/2023,26/12/2022,Aston Villa,Liverpool FC,1,3,Liverpool FC,Birmingham,FALSE
+2022/2023,26/12/2022,Leicester City,Newcastle United,0,3,Newcastle United,Leicester,FALSE
+2022/2023,26/12/2022,Brentford FC,Tottenham Hotspur,2,2,Draw,London,TRUE
+2022/2023,26/12/2022,Arsenal FC,West Ham United,3,1,Arsenal FC,London,TRUE
+2022/2023,26/12/2022,Everton FC,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,Liverpool,FALSE
+2022/2023,27/12/2022,Chelsea FC,AFC Bournemouth,2,0,Chelsea FC,London,FALSE
+2022/2023,11/12/2022,Manchester City,Brentford FC,1,2,Brentford FC,Manchester,FALSE
+2022/2023,06/05/2023,Manchester City,Leeds United,2,1,Manchester City,Manchester,FALSE
+2022/2023,30/12/2022,West Ham United,Brentford FC,0,2,Brentford FC,London,FALSE
+2022/2023,30/12/2022,Liverpool FC,Leicester City,2,1,Liverpool FC,Liverpool,FALSE
+2022/2023,31/12/2022,Brighton & Hove Albion,Arsenal FC,2,4,Arsenal FC,Brighton and Hove,FALSE
+2022/2023,31/12/2022,AFC Bournemouth,Crystal Palace,0,2,Crystal Palace,Bournemouth,FALSE
+2022/2023,31/12/2022,Manchester City,Everton FC,1,1,Draw,Manchester,FALSE
+2023/2024,23/09/2023,Manchester City,Nottingham Forest,2,0,Manchester City,Manchester,FALSE
+2022/2023,31/12/2022,Wolverhampton Wanderers,Manchester United,0,1,Manchester United,Wolverhampton,FALSE
+2022/2023,31/12/2022,Fulham FC,Southampton FC,2,1,Fulham FC,London,FALSE
+2022/2023,01/01/2023,Tottenham Hotspur,Aston Villa,0,2,Aston Villa,London,FALSE
+2023/2024,20/02/2024,Manchester City,Brentford FC,1,0,Manchester City,Manchester,FALSE
+2022/2023,02/01/2023,Brentford FC,Liverpool FC,3,1,Brentford FC,London,FALSE
+2022/2023,03/01/2023,Manchester United,AFC Bournemouth,3,0,Manchester United,Manchester,FALSE
+2022/2023,03/01/2023,Everton FC,Brighton & Hove Albion,1,4,Brighton & Hove Albion,Liverpool,FALSE
+2023/2024,13/04/2024,Manchester City,Luton Town,5,1,Manchester City,Manchester,FALSE
+2022/2023,03/01/2023,Arsenal FC,Newcastle United,0,0,Draw,London,FALSE
+2018/2019,26/12/2018,Manchester United,Huddersfield Town,3,1,Manchester United,Manchester,FALSE
+2022/2023,04/01/2023,Crystal Palace,Tottenham Hotspur,0,4,Tottenham Hotspur,London,TRUE
+2020/2021,21/11/2020,Manchester United,West Bromwich Albion,1,0,Manchester United,Manchester,FALSE
+2022/2023,04/01/2023,Aston Villa,Wolverhampton Wanderers,1,1,Draw,Birmingham,FALSE
+2022/2023,05/01/2023,Chelsea FC,Manchester City,0,1,Manchester City,London,FALSE
+2020/2021,20/12/2020,Manchester United,Leeds United,6,2,Manchester United,Manchester,FALSE
+2022/2023,12/01/2023,Fulham FC,Chelsea FC,2,1,Fulham FC,London,TRUE
+2021/2022,14/08/2021,Manchester United,Leeds United,5,1,Manchester United,Manchester,FALSE
+2022/2023,14/01/2023,Brentford FC,AFC Bournemouth,2,0,Brentford FC,London,FALSE
+2021/2022,02/05/2022,Manchester United,Brentford FC,3,0,Manchester United,Manchester,FALSE
+2022/2023,14/01/2023,Brighton & Hove Albion,Liverpool FC,3,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2022/2023,14/01/2023,Manchester United,Manchester City,2,1,Manchester United,Manchester,TRUE
+2022/2023,14/01/2023,Everton FC,Southampton FC,1,2,Southampton FC,Liverpool,FALSE
+2022/2023,14/01/2023,Wolverhampton Wanderers,West Ham United,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,15/01/2023,Tottenham Hotspur,Arsenal FC,0,2,Arsenal FC,London,TRUE
+2022/2023,15/01/2023,Chelsea FC,Crystal Palace,1,0,Chelsea FC,London,TRUE
+2022/2023,15/01/2023,Newcastle United,Fulham FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,18/01/2023,Crystal Palace,Manchester United,1,1,Draw,London,FALSE
+2022/2023,19/01/2023,Manchester City,Tottenham Hotspur,4,2,Manchester City,Manchester,FALSE
+2022/2023,21/01/2023,Southampton FC,Aston Villa,0,1,Aston Villa,Southampton,FALSE
+2022/2023,21/01/2023,Leicester City,Brighton & Hove Albion,2,2,Draw,Leicester,FALSE
+2022/2023,21/01/2023,Liverpool FC,Chelsea FC,0,0,Draw,Liverpool,FALSE
+2022/2023,21/01/2023,West Ham United,Everton FC,2,0,West Ham United,London,FALSE
+2022/2023,21/01/2023,Crystal Palace,Newcastle United,0,0,Draw,London,FALSE
+2022/2023,21/01/2023,AFC Bournemouth,Nottingham Forest,1,1,Draw,Bournemouth,FALSE
+2022/2023,27/12/2022,Manchester United,Nottingham Forest,3,0,Manchester United,Manchester,FALSE
+2022/2023,22/01/2023,Arsenal FC,Manchester United,3,2,Arsenal FC,London,FALSE
+2022/2023,22/01/2023,Manchester City,Wolverhampton Wanderers,3,0,Manchester City,Manchester,FALSE
+2022/2023,23/01/2023,Fulham FC,Tottenham Hotspur,0,1,Tottenham Hotspur,London,TRUE
+2022/2023,08/02/2023,Manchester United,Leeds United,2,2,Draw,Manchester,FALSE
+2022/2023,04/02/2023,Brighton & Hove Albion,AFC Bournemouth,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2022/2023,04/02/2023,Everton FC,Arsenal FC,1,0,Everton FC,Liverpool,FALSE
+2022/2023,04/02/2023,Manchester United,Crystal Palace,2,1,Manchester United,Manchester,FALSE
+2022/2023,04/02/2023,Aston Villa,Leicester City,2,3,Leicester City,Birmingham,FALSE
+2022/2023,04/02/2023,Wolverhampton Wanderers,Liverpool FC,3,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,04/02/2023,Brentford FC,Southampton FC,3,0,Brentford FC,London,FALSE
+2022/2023,04/02/2023,Newcastle United,West Ham United,1,1,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,04/05/2023,Manchester United,Brentford FC,1,0,Manchester United,Manchester,FALSE
+2022/2023,05/02/2023,Tottenham Hotspur,Manchester City,1,0,Tottenham Hotspur,London,FALSE
+2023/2024,26/08/2023,Manchester United,Nottingham Forest,3,2,Manchester United,Manchester,FALSE
+2022/2023,11/02/2023,Arsenal FC,Brentford FC,1,1,Draw,London,FALSE
+2022/2023,11/02/2023,Crystal Palace,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2022/2023,11/02/2023,West Ham United,Chelsea FC,1,1,Draw,London,TRUE
+2022/2023,11/02/2023,AFC Bournemouth,Newcastle United,1,1,Draw,Bournemouth,FALSE
+2023/2024,07/10/2023,Manchester United,Brentford FC,2,1,Manchester United,Manchester,FALSE
+2022/2023,11/02/2023,Leicester City,Tottenham Hotspur,4,1,Leicester City,Leicester,FALSE
+2022/2023,11/02/2023,Southampton FC,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,Southampton,FALSE
+2022/2023,12/02/2023,Manchester City,Aston Villa,2,1,Manchester City,Manchester,FALSE
+2023/2024,11/11/2023,Manchester United,Luton Town,1,0,Manchester United,Manchester,FALSE
+2022/2023,13/02/2023,Liverpool FC,Everton FC,2,0,Liverpool FC,Liverpool,TRUE
+2022/2023,15/02/2023,Arsenal FC,Manchester City,1,3,Manchester City,London,FALSE
+2022/2023,18/02/2023,Wolverhampton Wanderers,AFC Bournemouth,0,1,AFC Bournemouth,Wolverhampton,FALSE
+2022/2023,18/02/2023,Aston Villa,Arsenal FC,2,4,Arsenal FC,Birmingham,FALSE
+2022/2023,18/02/2023,Brentford FC,Crystal Palace,1,1,Draw,London,TRUE
+2022/2023,18/02/2023,Brighton & Hove Albion,Fulham FC,0,1,Fulham FC,Brighton and Hove,FALSE
+2018/2019,15/09/2018,Newcastle United,Arsenal FC,1,2,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,18/02/2023,Newcastle United,Liverpool FC,0,2,Liverpool FC,Newcastle Upon Tyne,FALSE
+2018/2019,19/01/2019,Newcastle United,Cardiff City,3,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,18/02/2023,Chelsea FC,Southampton FC,0,1,Southampton FC,London,FALSE
+2022/2023,19/02/2023,Manchester United,Leicester City,3,0,Manchester United,Manchester,FALSE
+2022/2023,19/02/2023,Tottenham Hotspur,West Ham United,2,0,Tottenham Hotspur,London,TRUE
+2018/2019,23/02/2019,Newcastle United,Huddersfield Town,2,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,25/02/2023,Leicester City,Arsenal FC,0,1,Arsenal FC,Leicester,FALSE
+2022/2023,25/02/2023,Everton FC,Aston Villa,0,2,Aston Villa,Liverpool,FALSE
+2022/2023,25/02/2023,Crystal Palace,Liverpool FC,0,0,Draw,London,FALSE
+2022/2023,25/02/2023,AFC Bournemouth,Manchester City,1,4,Manchester City,Bournemouth,FALSE
+2020/2021,26/01/2021,Newcastle United,Leeds United,1,2,Leeds United,Newcastle Upon Tyne,FALSE
+2020/2021,02/05/2021,Newcastle United,Arsenal FC,0,2,Arsenal FC,Newcastle Upon Tyne,FALSE
+2022/2023,26/02/2023,Tottenham Hotspur,Chelsea FC,2,0,Tottenham Hotspur,London,TRUE
+2022/2023,01/03/2023,Arsenal FC,Everton FC,4,0,Arsenal FC,London,FALSE
+2022/2023,01/03/2023,Liverpool FC,Wolverhampton Wanderers,2,0,Liverpool FC,Liverpool,FALSE
+2022/2023,04/03/2023,Arsenal FC,AFC Bournemouth,3,2,Arsenal FC,London,FALSE
+2022/2023,04/03/2023,Aston Villa,Crystal Palace,1,0,Aston Villa,Birmingham,FALSE
+2021/2022,17/09/2021,Newcastle United,Leeds United,1,1,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,04/03/2023,Southampton FC,Leicester City,1,0,Southampton FC,Southampton,FALSE
+2022/2023,04/03/2023,Manchester City,Newcastle United,2,0,Manchester City,Manchester,FALSE
+2022/2023,04/03/2023,Wolverhampton Wanderers,Tottenham Hotspur,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,04/03/2023,Brighton & Hove Albion,West Ham United,4,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2021/2022,20/11/2021,Newcastle United,Brentford FC,3,3,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,05/03/2023,Liverpool FC,Manchester United,7,0,Liverpool FC,Liverpool,TRUE
+2021/2022,16/05/2022,Newcastle United,Arsenal FC,2,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,10/08/2022,Newcastle United,Brentford FC,5,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,31/12/2022,Newcastle United,Leeds United,0,0,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,11/03/2023,Leicester City,Chelsea FC,1,3,Chelsea FC,Leicester,FALSE
+2022/2023,11/03/2023,AFC Bournemouth,Liverpool FC,1,0,AFC Bournemouth,Bournemouth,FALSE
+2022/2023,11/03/2023,Crystal Palace,Manchester City,0,1,Manchester City,London,FALSE
+2022/2023,07/05/2023,Newcastle United,Arsenal FC,0,2,Arsenal FC,Newcastle Upon Tyne,FALSE
+2022/2023,12/03/2023,Fulham FC,Arsenal FC,0,3,Arsenal FC,London,TRUE
+2022/2023,12/03/2023,West Ham United,Aston Villa,1,1,Draw,London,FALSE
+2022/2023,12/03/2023,Manchester United,Southampton FC,0,0,Draw,Manchester,FALSE
+2022/2023,12/03/2023,Newcastle United,Wolverhampton Wanderers,2,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,16/09/2023,Newcastle United,Brentford FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,15/03/2023,Brighton & Hove Albion,Crystal Palace,1,0,Brighton & Hove Albion,Brighton and Hove,TRUE
+2023/2024,04/11/2023,Newcastle United,Arsenal FC,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,03/02/2024,Newcastle United,Luton Town,4,4,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,18/03/2023,Chelsea FC,Everton FC,2,2,Draw,London,FALSE
+2021/2022,31/10/2021,Norwich City,Leeds United,1,2,Leeds United,Norwich,FALSE
+2022/2023,18/03/2023,Brentford FC,Leicester City,1,1,Draw,London,FALSE
+2022/2023,18/03/2023,Southampton FC,Tottenham Hotspur,3,3,Draw,Southampton,FALSE
+2022/2023,19/03/2023,Arsenal FC,Crystal Palace,4,1,Arsenal FC,London,TRUE
+2022/2023,01/04/2023,Chelsea FC,Aston Villa,0,2,Aston Villa,London,FALSE
+2021/2022,05/03/2022,Norwich City,Brentford FC,1,3,Brentford FC,Norwich,FALSE
+2022/2023,01/04/2023,AFC Bournemouth,Fulham FC,2,1,AFC Bournemouth,Bournemouth,FALSE
+2021/2022,23/04/2022,Norwich City,Newcastle United,0,3,Newcastle United,Norwich,FALSE
+2022/2023,01/04/2023,Crystal Palace,Leicester City,2,1,Crystal Palace,London,FALSE
+2022/2023,01/04/2023,Manchester City,Liverpool FC,4,1,Manchester City,Manchester,TRUE
+2022/2023,14/08/2022,Nottingham Forest,West Ham United,1,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,02/04/2023,Newcastle United,Manchester United,2,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,02/04/2023,West Ham United,Southampton FC,1,0,West Ham United,London,FALSE
+2022/2023,03/04/2023,Everton FC,Tottenham Hotspur,1,1,Draw,Liverpool,FALSE
+2022/2023,04/04/2023,Leicester City,Aston Villa,1,2,Aston Villa,Leicester,FALSE
+2022/2023,04/04/2023,AFC Bournemouth,Brighton & Hove Albion,0,2,Brighton & Hove Albion,Bournemouth,FALSE
+2022/2023,04/04/2023,Chelsea FC,Liverpool FC,0,0,Draw,London,FALSE
+2022/2023,28/08/2022,Nottingham Forest,Tottenham Hotspur,0,2,Tottenham Hotspur,Nottingham,FALSE
+2022/2023,05/04/2023,West Ham United,Newcastle United,1,5,Newcastle United,London,FALSE
+2022/2023,08/04/2023,Leicester City,AFC Bournemouth,0,1,AFC Bournemouth,Leicester,FALSE
+2022/2023,08/04/2023,Tottenham Hotspur,Brighton & Hove Albion,2,1,Tottenham Hotspur,London,FALSE
+2022/2023,08/04/2023,Wolverhampton Wanderers,Chelsea FC,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,08/04/2023,Manchester United,Everton FC,2,0,Manchester United,Manchester,FALSE
+2022/2023,08/04/2023,Southampton FC,Manchester City,1,4,Manchester City,Southampton,FALSE
+2022/2023,08/04/2023,Brentford FC,Newcastle United,1,2,Newcastle United,London,FALSE
+2022/2023,03/09/2022,Nottingham Forest,AFC Bournemouth,2,3,AFC Bournemouth,Nottingham,FALSE
+2022/2023,08/04/2023,Fulham FC,West Ham United,0,1,West Ham United,London,TRUE
+2022/2023,09/04/2023,Liverpool FC,Arsenal FC,2,2,Draw,Liverpool,FALSE
+2022/2023,16/09/2022,Nottingham Forest,Fulham FC,2,3,Fulham FC,Nottingham,FALSE
+2022/2023,15/04/2023,Tottenham Hotspur,AFC Bournemouth,2,3,AFC Bournemouth,London,FALSE
+2022/2023,10/10/2022,Nottingham Forest,Aston Villa,1,1,Draw,Nottingham,FALSE
+2022/2023,15/04/2023,Chelsea FC,Brighton & Hove Albion,1,2,Brighton & Hove Albion,London,FALSE
+2022/2023,15/04/2023,Southampton FC,Crystal Palace,0,2,Crystal Palace,Southampton,FALSE
+2022/2023,22/10/2022,Nottingham Forest,Liverpool FC,1,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,15/04/2023,Manchester City,Leicester City,3,1,Manchester City,Manchester,FALSE
+2022/2023,15/04/2023,Aston Villa,Newcastle United,3,0,Aston Villa,Birmingham,FALSE
+2022/2023,16/04/2023,West Ham United,Arsenal FC,2,2,Draw,London,TRUE
+2022/2023,05/11/2022,Nottingham Forest,Brentford FC,2,2,Draw,Nottingham,FALSE
+2022/2023,11/12/2022,Nottingham Forest,Crystal Palace,1,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,21/04/2023,Arsenal FC,Southampton FC,3,3,Draw,London,FALSE
+2022/2023,22/04/2023,Brentford FC,Aston Villa,1,1,Draw,London,FALSE
+2022/2023,22/04/2023,Crystal Palace,Everton FC,0,0,Draw,London,FALSE
+2022/2023,01/01/2023,Nottingham Forest,Chelsea FC,1,1,Draw,Nottingham,FALSE
+2023/2024,10/01/2023,Nottingham Forest,Brentford FC,1,1,Draw,Nottingham,FALSE
+2022/2023,22/04/2023,Leicester City,Wolverhampton Wanderers,2,1,Leicester City,Leicester,FALSE
+2022/2023,23/04/2023,Newcastle United,Tottenham Hotspur,6,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,23/04/2023,AFC Bournemouth,West Ham United,0,4,West Ham United,Bournemouth,FALSE
+2022/2023,25/04/2023,Wolverhampton Wanderers,Crystal Palace,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,14/01/2023,Nottingham Forest,Leicester City,2,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,05/02/2023,Nottingham Forest,Leeds United,1,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,26/04/2023,Manchester City,Arsenal FC,4,1,Manchester City,Manchester,FALSE
+2022/2023,26/04/2023,Chelsea FC,Brentford FC,0,2,Brentford FC,London,FALSE
+2022/2023,18/02/2023,Nottingham Forest,Manchester City,1,1,Draw,Nottingham,FALSE
+2022/2023,26/04/2023,West Ham United,Liverpool FC,1,2,Liverpool FC,London,FALSE
+2022/2023,27/04/2023,Southampton FC,AFC Bournemouth,0,1,AFC Bournemouth,Southampton,TRUE
+2022/2023,27/04/2023,Tottenham Hotspur,Manchester United,2,2,Draw,London,FALSE
+2022/2023,27/04/2023,Everton FC,Newcastle United,1,4,Newcastle United,Liverpool,FALSE
+2022/2023,05/03/2023,Nottingham Forest,Everton FC,2,2,Draw,Nottingham,FALSE
+2022/2023,29/04/2023,Crystal Palace,West Ham United,4,3,Crystal Palace,London,TRUE
+2022/2023,29/04/2023,Brighton & Hove Albion,Wolverhampton Wanderers,6,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2022/2023,30/04/2023,Manchester United,Aston Villa,1,0,Manchester United,Manchester,FALSE
+2022/2023,17/03/2023,Nottingham Forest,Newcastle United,1,2,Newcastle United,Nottingham,FALSE
+2022/2023,30/04/2023,Fulham FC,Manchester City,1,2,Manchester City,London,FALSE
+2022/2023,30/04/2023,Newcastle United,Southampton FC,3,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2022/2023,30/04/2023,Liverpool FC,Tottenham Hotspur,4,3,Liverpool FC,Liverpool,FALSE
+2022/2023,01/05/2023,Leicester City,Everton FC,2,2,Draw,Leicester,FALSE
+2022/2023,02/05/2023,Arsenal FC,Chelsea FC,3,1,Arsenal FC,London,TRUE
+2022/2023,01/04/2023,Nottingham Forest,Wolverhampton Wanderers,1,1,Draw,Nottingham,FALSE
+2022/2023,03/05/2023,Manchester City,West Ham United,3,0,Manchester City,Manchester,FALSE
+2022/2023,16/04/2023,Nottingham Forest,Manchester United,0,2,Manchester United,Nottingham,FALSE
+2022/2023,04/05/2023,Brighton & Hove Albion,Manchester United,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2022/2023,06/05/2023,Wolverhampton Wanderers,Aston Villa,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2022/2023,26/04/2023,Nottingham Forest,Brighton & Hove Albion,3,1,Nottingham Forest,Nottingham,FALSE
+2022/2023,06/05/2023,AFC Bournemouth,Chelsea FC,1,3,Chelsea FC,Bournemouth,FALSE
+2022/2023,06/05/2023,Tottenham Hotspur,Crystal Palace,1,0,Tottenham Hotspur,London,TRUE
+2022/2023,08/05/2023,Nottingham Forest,Southampton FC,4,3,Nottingham Forest,Nottingham,TRUE
+2022/2023,20/05/2023,Nottingham Forest,Arsenal FC,1,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,07/05/2023,West Ham United,Manchester United,1,0,West Ham United,London,FALSE
+2022/2023,08/05/2023,Brighton & Hove Albion,Everton FC,1,5,Everton FC,Brighton and Hove,FALSE
+2022/2023,08/05/2023,Fulham FC,Leicester City,5,3,Fulham FC,London,FALSE
+2023/2024,18/08/2023,Nottingham Forest,Sheffield United,2,1,Nottingham Forest,Nottingham,FALSE
+2022/2023,13/05/2023,Crystal Palace,AFC Bournemouth,2,0,Crystal Palace,London,FALSE
+2023/2024,18/09/2023,Nottingham Forest,Burnley FC,1,1,Draw,Nottingham,FALSE
+2023/2024,21/10/2023,Nottingham Forest,Luton Town,2,2,Draw,Nottingham,FALSE
+2023/2024,05/11/2023,Nottingham Forest,Aston Villa,2,0,Nottingham Forest,Nottingham,FALSE
+2022/2023,13/05/2023,Aston Villa,Tottenham Hotspur,2,1,Aston Villa,Birmingham,FALSE
+2022/2023,13/05/2023,Manchester United,Wolverhampton Wanderers,2,0,Manchester United,Manchester,FALSE
+2022/2023,14/05/2023,Arsenal FC,Brighton & Hove Albion,0,3,Brighton & Hove Albion,London,FALSE
+2022/2023,14/05/2023,Everton FC,Manchester City,0,3,Manchester City,Liverpool,FALSE
+2022/2023,14/05/2023,Brentford FC,West Ham United,2,0,Brentford FC,London,TRUE
+2022/2023,15/05/2023,Leicester City,Liverpool FC,0,3,Liverpool FC,Leicester,FALSE
+2022/2023,18/05/2023,Newcastle United,Brighton & Hove Albion,4,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,25/11/2023,Nottingham Forest,Brighton & Hove Albion,2,3,Brighton & Hove Albion,Nottingham,FALSE
+2022/2023,20/05/2023,Liverpool FC,Aston Villa,1,1,Draw,Liverpool,FALSE
+2022/2023,20/05/2023,Tottenham Hotspur,Brentford FC,1,3,Brentford FC,London,FALSE
+2022/2023,20/05/2023,Fulham FC,Crystal Palace,2,2,Draw,London,TRUE
+2022/2023,20/05/2023,Wolverhampton Wanderers,Everton FC,1,1,Draw,Wolverhampton,FALSE
+2022/2023,20/05/2023,AFC Bournemouth,Manchester United,0,1,Manchester United,Bournemouth,FALSE
+2022/2023,21/05/2023,Manchester City,Chelsea FC,1,0,Manchester City,Manchester,FALSE
+2023/2024,02/12/2023,Nottingham Forest,Everton FC,0,1,Everton FC,Nottingham,FALSE
+2022/2023,21/05/2023,Brighton & Hove Albion,Southampton FC,3,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2022/2023,22/05/2023,Newcastle United,Leicester City,0,0,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,24/05/2023,Brighton & Hove Albion,Manchester City,1,1,Draw,Brighton and Hove,FALSE
+2022/2023,25/05/2023,Manchester United,Chelsea FC,4,1,Manchester United,Manchester,FALSE
+2022/2023,28/05/2023,Everton FC,AFC Bournemouth,1,0,Everton FC,Liverpool,FALSE
+2022/2023,28/05/2023,Aston Villa,Brighton & Hove Albion,2,1,Aston Villa,Birmingham,FALSE
+2022/2023,28/05/2023,Manchester United,Fulham FC,2,1,Manchester United,Manchester,FALSE
+2022/2023,28/05/2023,Southampton FC,Liverpool FC,4,4,Draw,Southampton,FALSE
+2022/2023,28/05/2023,Brentford FC,Manchester City,1,0,Brentford FC,London,FALSE
+2022/2023,28/05/2023,Chelsea FC,Newcastle United,1,1,Draw,London,FALSE
+2023/2024,15/12/2023,Nottingham Forest,Tottenham Hotspur,0,2,Tottenham Hotspur,Nottingham,FALSE
+2023/2024,23/12/2023,Nottingham Forest,AFC Bournemouth,2,3,AFC Bournemouth,Nottingham,FALSE
+2022/2023,28/05/2023,Leicester City,West Ham United,2,1,Leicester City,Leicester,FALSE
+2022/2023,28/05/2023,Arsenal FC,Wolverhampton Wanderers,5,0,Arsenal FC,London,FALSE
+2023/2024,11/08/2023,Burnley FC,Manchester City,0,3,Manchester City,Burnley,FALSE
+2023/2024,12/08/2023,Newcastle United,Aston Villa,5,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,12/08/2023,Sheffield United,Crystal Palace,0,1,Crystal Palace,Sheffield,FALSE
+2023/2024,30/12/2023,Nottingham Forest,Manchester United,2,1,Nottingham Forest,Nottingham,FALSE
+2023/2024,30/01/2024,Nottingham Forest,Arsenal FC,1,2,Arsenal FC,Nottingham,FALSE
+2023/2024,10/02/2024,Nottingham Forest,Newcastle United,2,3,Newcastle United,Nottingham,FALSE
+2023/2024,12/08/2023,AFC Bournemouth,West Ham United,1,1,Draw,Bournemouth,FALSE
+2023/2024,13/08/2023,Chelsea FC,Liverpool FC,1,1,Draw,London,FALSE
+2023/2024,13/08/2023,Brentford FC,Tottenham Hotspur,2,2,Draw,London,TRUE
+2023/2024,14/08/2023,Manchester United,Wolverhampton Wanderers,1,0,Manchester United,Manchester,FALSE
+2023/2024,17/02/2024,Nottingham Forest,West Ham United,2,0,Nottingham Forest,Nottingham,FALSE
+2023/2024,19/08/2023,Liverpool FC,AFC Bournemouth,3,1,Liverpool FC,Liverpool,FALSE
+2023/2024,19/08/2023,Fulham FC,Brentford FC,0,3,Brentford FC,London,FALSE
+2023/2024,19/08/2023,Wolverhampton Wanderers,Brighton & Hove Albion,1,4,Brighton & Hove Albion,Wolverhampton,FALSE
+2023/2024,19/08/2023,Tottenham Hotspur,Manchester United,2,0,Tottenham Hotspur,London,FALSE
+2023/2024,19/08/2023,Manchester City,Newcastle United,1,0,Manchester City,Manchester,FALSE
+2023/2024,20/08/2023,West Ham United,Chelsea FC,3,1,West Ham United,London,TRUE
+2023/2024,20/08/2023,Aston Villa,Everton FC,4,0,Aston Villa,Birmingham,FALSE
+2023/2024,21/08/2023,Crystal Palace,Arsenal FC,0,1,Arsenal FC,London,TRUE
+2023/2024,02/03/2024,Nottingham Forest,Liverpool FC,0,1,Liverpool FC,Nottingham,FALSE
+2023/2024,26/08/2023,Brentford FC,Crystal Palace,1,1,Draw,London,TRUE
+2023/2024,30/03/2024,Nottingham Forest,Crystal Palace,1,1,Draw,Nottingham,FALSE
+2023/2024,02/04/2024,Nottingham Forest,Fulham FC,3,1,Nottingham Forest,Nottingham,FALSE
+2023/2024,26/08/2023,AFC Bournemouth,Tottenham Hotspur,0,2,Tottenham Hotspur,Bournemouth,FALSE
+2023/2024,26/08/2023,Brighton & Hove Albion,West Ham United,1,3,West Ham United,Brighton and Hove,FALSE
+2023/2024,26/08/2023,Everton FC,Wolverhampton Wanderers,0,1,Wolverhampton Wanderers,Liverpool,FALSE
+2023/2024,27/08/2023,Burnley FC,Aston Villa,1,3,Aston Villa,Burnley,FALSE
+2023/2024,27/08/2023,Newcastle United,Liverpool FC,1,2,Liverpool FC,Newcastle Upon Tyne,FALSE
+2023/2024,27/08/2023,Sheffield United,Manchester City,1,2,Manchester City,Sheffield,FALSE
+2023/2024,13/04/2024,Nottingham Forest,Wolverhampton Wanderers,2,2,Draw,Nottingham,FALSE
+2023/2024,02/09/2023,Brentford FC,AFC Bournemouth,2,2,Draw,London,FALSE
+2023/2024,02/09/2023,Sheffield United,Everton FC,2,2,Draw,Sheffield,FALSE
+2023/2024,02/09/2023,Manchester City,Fulham FC,5,1,Manchester City,Manchester,FALSE
+2023/2024,02/09/2023,Brighton & Hove Albion,Newcastle United,3,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2023/2024,28/04/2024,Nottingham Forest,Manchester City,0,2,Manchester City,Nottingham,FALSE
+2023/2024,02/09/2023,Burnley FC,Tottenham Hotspur,2,5,Tottenham Hotspur,Burnley,FALSE
+2023/2024,03/09/2023,Liverpool FC,Aston Villa,3,0,Liverpool FC,Liverpool,FALSE
+2023/2024,03/09/2023,Arsenal FC,Manchester United,3,1,Arsenal FC,London,FALSE
+2023/2024,11/05/2024,Nottingham Forest,Chelsea FC,2,3,Chelsea FC,Nottingham,FALSE
+2020/2021,27/09/2020,Sheffield United,Leeds United,0,1,Leeds United,Sheffield,FALSE
+2023/2024,16/09/2023,Manchester United,Brighton & Hove Albion,1,3,Brighton & Hove Albion,Manchester,FALSE
+2023/2024,16/09/2023,Aston Villa,Crystal Palace,3,1,Aston Villa,Birmingham,FALSE
+2023/2024,16/09/2023,Wolverhampton Wanderers,Liverpool FC,1,3,Liverpool FC,Wolverhampton,FALSE
+2020/2021,18/10/2020,Sheffield United,Fulham FC,1,1,Draw,Sheffield,FALSE
+2023/2024,16/09/2023,West Ham United,Manchester City,1,3,Manchester City,London,FALSE
+2023/2024,16/09/2023,Tottenham Hotspur,Sheffield United,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,17/09/2023,Everton FC,Arsenal FC,0,1,Arsenal FC,Liverpool,FALSE
+2023/2024,17/09/2023,AFC Bournemouth,Chelsea FC,0,0,Draw,Bournemouth,FALSE
+2020/2021,02/02/2021,Sheffield United,West Bromwich Albion,2,1,Sheffield United,Sheffield,FALSE
+2023/2024,23/09/2023,Brentford FC,Everton FC,1,3,Everton FC,London,FALSE
+2023/2024,01/12/2023,Sheffield United,Brentford FC,1,0,Sheffield United,Sheffield,FALSE
+2023/2024,23/09/2023,Burnley FC,Manchester United,0,1,Manchester United,Burnley,FALSE
+2023/2024,26/12/2023,Sheffield United,Luton Town,2,3,Luton Town,Sheffield,FALSE
+2023/2024,30/03/2024,Sheffield United,Fulham FC,3,3,Draw,Sheffield,FALSE
+2023/2024,24/09/2023,Brighton & Hove Albion,AFC Bournemouth,3,1,Brighton & Hove Albion,Brighton and Hove,FALSE
+2023/2024,24/09/2023,Chelsea FC,Aston Villa,0,1,Aston Villa,London,FALSE
+2023/2024,24/09/2023,Sheffield United,Newcastle United,0,8,Newcastle United,Sheffield,FALSE
+2023/2024,24/09/2023,Arsenal FC,Tottenham Hotspur,2,2,Draw,London,TRUE
+2023/2024,24/09/2023,Liverpool FC,West Ham United,3,1,Liverpool FC,Liverpool,FALSE
+2023/2024,30/09/2023,AFC Bournemouth,Arsenal FC,0,4,Arsenal FC,Bournemouth,FALSE
+2023/2024,30/09/2023,Aston Villa,Brighton & Hove Albion,6,1,Aston Villa,Birmingham,FALSE
+2023/2024,30/09/2023,Newcastle United,Burnley FC,2,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,30/09/2023,Manchester United,Crystal Palace,0,1,Crystal Palace,Manchester,FALSE
+2023/2024,30/09/2023,Tottenham Hotspur,Liverpool FC,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,04/05/2024,Sheffield United,Nottingham Forest,1,3,Nottingham Forest,Sheffield,FALSE
+2023/2024,30/09/2023,Wolverhampton Wanderers,Manchester City,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,30/09/2023,West Ham United,Sheffield United,2,0,West Ham United,London,FALSE
+2023/2024,02/10/2023,Fulham FC,Chelsea FC,0,2,Chelsea FC,London,TRUE
+2018/2019,27/02/2019,Southampton FC,Fulham FC,2,0,Southampton FC,Southampton,FALSE
+2023/2024,07/10/2023,Everton FC,AFC Bournemouth,3,0,Everton FC,Liverpool,FALSE
+2018/2019,05/12/2019,Southampton FC,Huddersfield Town,1,1,Draw,Southampton,FALSE
+2023/2024,07/10/2023,Burnley FC,Chelsea FC,1,4,Chelsea FC,Burnley,FALSE
+2020/2021,04/10/2020,Southampton FC,West Bromwich Albion,2,0,Southampton FC,Southampton,FALSE
+2023/2024,07/10/2023,Fulham FC,Sheffield United,3,1,Fulham FC,London,FALSE
+2020/2021,15/05/2021,Southampton FC,Fulham FC,3,1,Southampton FC,Southampton,FALSE
+2023/2024,08/10/2023,Wolverhampton Wanderers,Aston Villa,1,1,Draw,Wolverhampton,FALSE
+2023/2024,08/10/2023,Brighton & Hove Albion,Liverpool FC,2,2,Draw,Brighton and Hove,FALSE
+2023/2024,08/10/2023,Arsenal FC,Manchester City,1,0,Arsenal FC,London,FALSE
+2023/2024,08/10/2023,West Ham United,Newcastle United,2,2,Draw,London,FALSE
+2023/2024,12/10/2023,Everton FC,Chelsea FC,2,0,Everton FC,Liverpool,FALSE
+2020/2021,18/05/2021,Southampton FC,Leeds United,0,2,Leeds United,Southampton,FALSE
+2023/2024,12/10/2023,Tottenham Hotspur,Newcastle United,4,1,Tottenham Hotspur,London,FALSE
+2023/2024,12/10/2023,Fulham FC,West Ham United,5,0,Fulham FC,London,TRUE
+2023/2024,21/10/2023,Chelsea FC,Arsenal FC,2,2,Draw,London,TRUE
+2023/2024,21/10/2023,Manchester City,Brighton & Hove Albion,2,1,Manchester City,Manchester,FALSE
+2023/2024,21/10/2023,Brentford FC,Burnley FC,3,0,Brentford FC,London,FALSE
+2023/2024,21/10/2023,Newcastle United,Crystal Palace,4,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,21/10/2023,Liverpool FC,Everton FC,2,0,Liverpool FC,Liverpool,TRUE
+2021/2022,16/10/2021,Southampton FC,Leeds United,1,0,Southampton FC,Southampton,FALSE
+2023/2024,21/10/2023,Sheffield United,Manchester United,1,2,Manchester United,Sheffield,FALSE
+2023/2024,21/10/2023,AFC Bournemouth,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,Bournemouth,FALSE
+2023/2024,22/10/2023,Aston Villa,West Ham United,4,1,Aston Villa,Birmingham,FALSE
+2021/2022,11/01/2022,Southampton FC,Brentford FC,4,1,Southampton FC,Southampton,FALSE
+2023/2024,27/10/2023,Crystal Palace,Tottenham Hotspur,1,2,Tottenham Hotspur,London,TRUE
+2023/2024,28/10/2023,Chelsea FC,Brentford FC,0,2,Brentford FC,London,FALSE
+2023/2024,28/10/2023,AFC Bournemouth,Burnley FC,2,1,AFC Bournemouth,Bournemouth,FALSE
+2023/2024,28/10/2023,Wolverhampton Wanderers,Newcastle United,2,2,Draw,Wolverhampton,FALSE
+2023/2024,28/10/2023,Arsenal FC,Sheffield United,5,0,Arsenal FC,London,FALSE
+2023/2024,29/10/2023,West Ham United,Everton FC,0,1,Everton FC,London,FALSE
+2023/2024,29/10/2023,Brighton & Hove Albion,Fulham FC,1,1,Draw,Brighton and Hove,FALSE
+2022/2023,13/08/2022,Southampton FC,Leeds United,2,2,Draw,Southampton,FALSE
+2023/2024,29/10/2023,Manchester United,Manchester City,0,3,Manchester City,Manchester,TRUE
+2022/2023,04/01/2023,Southampton FC,Nottingham Forest,0,1,Nottingham Forest,Southampton,FALSE
+2023/2024,04/11/2023,Manchester City,AFC Bournemouth,6,1,Manchester City,Manchester,FALSE
+2022/2023,15/03/2023,Southampton FC,Brentford FC,0,2,Brentford FC,Southampton,FALSE
+2023/2024,04/11/2023,Everton FC,Brighton & Hove Albion,1,1,Draw,Liverpool,FALSE
+2023/2024,04/11/2023,Burnley FC,Crystal Palace,0,2,Crystal Palace,Burnley,FALSE
+2023/2024,04/11/2023,Fulham FC,Manchester United,0,1,Manchester United,London,FALSE
+2023/2024,04/11/2023,Brentford FC,West Ham United,3,2,Brentford FC,London,TRUE
+2023/2024,04/11/2023,Sheffield United,Wolverhampton Wanderers,2,1,Sheffield United,Sheffield,FALSE
+2022/2023,13/05/2023,Southampton FC,Fulham FC,0,2,Fulham FC,Southampton,FALSE
+2018/2019,18/08/2018,Tottenham Hotspur,Fulham FC,3,1,Tottenham Hotspur,London,FALSE
+2023/2024,06/11/2023,Tottenham Hotspur,Chelsea FC,1,4,Chelsea FC,London,TRUE
+2023/2024,11/11/2023,Arsenal FC,Burnley FC,3,1,Arsenal FC,London,FALSE
+2023/2024,11/11/2023,Crystal Palace,Everton FC,2,3,Everton FC,London,FALSE
+2018/2019,06/10/2018,Tottenham Hotspur,Cardiff City,1,0,Tottenham Hotspur,London,FALSE
+2023/2024,11/11/2023,AFC Bournemouth,Newcastle United,2,0,AFC Bournemouth,Bournemouth,FALSE
+2023/2024,11/11/2023,Wolverhampton Wanderers,Tottenham Hotspur,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2018/2019,29/12/2018,Tottenham Hotspur,Wolverhampton Wanderers,1,3,Tottenham Hotspur,London,FALSE
+2018/2019,13/04/2019,Tottenham Hotspur,Huddersfield Town,4,0,Tottenham Hotspur,London,FALSE
+2023/2024,12/11/2023,Chelsea FC,Manchester City,4,4,Draw,London,FALSE
+2020/2021,02/01/2021,Tottenham Hotspur,Leeds United,3,0,Tottenham Hotspur,London,FALSE
+2023/2024,12/11/2023,Brighton & Hove Albion,Sheffield United,1,1,Draw,Brighton and Hove,FALSE
+2023/2024,25/11/2023,Sheffield United,AFC Bournemouth,1,3,AFC Bournemouth,Sheffield,FALSE
+2023/2024,25/11/2023,Brentford FC,Arsenal FC,0,1,Arsenal FC,London,TRUE
+2020/2021,13/01/2021,Tottenham Hotspur,Fulham FC,1,1,Draw,London,FALSE
+2023/2024,25/11/2023,Newcastle United,Chelsea FC,4,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2020/2021,07/02/2021,Tottenham Hotspur,West Bromwich Albion,2,0,Tottenham Hotspur,London,FALSE
+2023/2024,25/11/2023,Manchester City,Liverpool FC,1,1,Draw,Manchester,TRUE
+2023/2024,25/11/2023,Burnley FC,West Ham United,1,2,West Ham United,Burnley,FALSE
+2023/2024,26/11/2023,Tottenham Hotspur,Aston Villa,1,2,Aston Villa,London,FALSE
+2023/2024,26/11/2023,Everton FC,Manchester United,0,3,Manchester United,Liverpool,TRUE
+2020/2021,16/05/2021,Tottenham Hotspur,Wolverhampton Wanderers,2,0,Tottenham Hotspur,London,FALSE
+2023/2024,01/12/2023,Manchester United,AFC Bournemouth,0,3,AFC Bournemouth,Manchester,FALSE
+2023/2024,01/12/2023,Aston Villa,Arsenal FC,1,0,Aston Villa,Birmingham,FALSE
+2023/2024,01/12/2023,AFC Bournemouth,Aston Villa,2,2,Draw,Bournemouth,FALSE
+2021/2022,21/11/2021,Tottenham Hotspur,Leeds United,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,01/12/2023,Chelsea FC,Brighton & Hove Albion,3,2,Chelsea FC,London,FALSE
+2023/2024,01/12/2023,Brighton & Hove Albion,Burnley FC,1,1,Draw,Brighton and Hove,FALSE
+2023/2024,01/12/2023,West Ham United,Crystal Palace,1,1,Draw,London,TRUE
+2021/2022,13/02/2022,Tottenham Hotspur,Wolverhampton Wanderers,0,2,Wolverhampton Wanderers,London,FALSE
+2023/2024,01/12/2023,Crystal Palace,Liverpool FC,1,2,Liverpool FC,London,FALSE
+2022/2023,20/08/2022,Tottenham Hotspur,Wolverhampton Wanderers,1,0,Tottenham Hotspur,London,FALSE
+2023/2024,01/12/2023,Manchester City,Tottenham Hotspur,3,3,Draw,Manchester,FALSE
+2022/2023,03/09/2022,Tottenham Hotspur,Fulham FC,2,1,Tottenham Hotspur,London,FALSE
+2022/2023,11/12/2022,Tottenham Hotspur,Leeds United,4,3,Tottenham Hotspur,London,FALSE
+2023/2024,02/12/2023,Newcastle United,Manchester United,1,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,02/12/2023,Burnley FC,Sheffield United,5,0,Burnley FC,Burnley,FALSE
+2023/2024,02/12/2023,Arsenal FC,Wolverhampton Wanderers,2,1,Arsenal FC,London,FALSE
+2022/2023,11/03/2023,Tottenham Hotspur,Nottingham Forest,3,1,Tottenham Hotspur,London,FALSE
+2023/2024,05/12/2023,Wolverhampton Wanderers,Burnley FC,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,06/12/2023,Crystal Palace,AFC Bournemouth,0,2,AFC Bournemouth,London,FALSE
+2023/2024,23/10/2023,Tottenham Hotspur,Fulham FC,2,0,Tottenham Hotspur,London,FALSE
+2023/2024,06/12/2023,Manchester United,Chelsea FC,2,1,Manchester United,Manchester,FALSE
+2023/2024,06/12/2023,Sheffield United,Liverpool FC,0,2,Liverpool FC,Sheffield,FALSE
+2023/2024,06/12/2023,Aston Villa,Manchester City,1,0,Aston Villa,Birmingham,FALSE
+2023/2024,17/02/2024,Tottenham Hotspur,Wolverhampton Wanderers,1,2,Wolverhampton Wanderers,London,FALSE
+2023/2024,07/12/2023,Everton FC,Newcastle United,3,0,Everton FC,Liverpool,FALSE
+2023/2024,07/12/2023,Tottenham Hotspur,West Ham United,1,2,West Ham United,London,TRUE
+2023/2024,30/03/2024,Tottenham Hotspur,Luton Town,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,16/12/2023,Manchester City,Crystal Palace,2,2,Draw,Manchester,FALSE
+2023/2024,16/12/2023,Burnley FC,Everton FC,0,2,Everton FC,Burnley,FALSE
+2023/2024,16/12/2023,Newcastle United,Fulham FC,3,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,16/12/2023,Chelsea FC,Sheffield United,2,0,Chelsea FC,London,FALSE
+2023/2024,17/12/2023,Brentford FC,Aston Villa,1,2,Aston Villa,London,FALSE
+2023/2024,17/12/2023,Arsenal FC,Brighton & Hove Albion,2,0,Arsenal FC,London,FALSE
+2023/2024,17/12/2023,Liverpool FC,Manchester United,0,0,Draw,Liverpool,TRUE
+2023/2024,17/12/2023,West Ham United,Wolverhampton Wanderers,3,0,West Ham United,London,FALSE
+2023/2024,21/12/2023,Crystal Palace,Brighton & Hove Albion,1,1,Draw,London,FALSE
+2023/2024,22/12/2023,Aston Villa,Sheffield United,1,1,Draw,Birmingham,FALSE
+2023/2024,07/04/2024,Tottenham Hotspur,Nottingham Forest,3,1,Tottenham Hotspur,London,FALSE
+2023/2024,23/12/2023,Liverpool FC,Arsenal FC,1,1,Draw,Liverpool,FALSE
+2023/2024,23/12/2023,Fulham FC,Burnley FC,0,2,Burnley FC,London,FALSE
+2023/2024,23/12/2023,Tottenham Hotspur,Everton FC,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,23/12/2023,West Ham United,Manchester United,2,0,West Ham United,London,FALSE
+2018/2019,27/10/2018,Watford FC,Huddersfield Town,3,0,Watford FC,Watford,FALSE
+2023/2024,24/12/2023,Wolverhampton Wanderers,Chelsea FC,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,26/12/2023,Manchester United,Aston Villa,3,2,Manchester United,Manchester,FALSE
+2023/2024,26/12/2023,AFC Bournemouth,Fulham FC,3,0,AFC Bournemouth,Bournemouth,FALSE
+2023/2024,26/12/2023,Burnley FC,Liverpool FC,0,2,Liverpool FC,Burnley,FALSE
+2018/2019,15/12/2018,Watford FC,Cardiff City,3,2,Watford FC,Watford,FALSE
+2023/2024,26/12/2023,Newcastle United,Nottingham Forest,1,3,Nottingham Forest,Newcastle Upon Tyne,FALSE
+2023/2024,27/12/2023,Chelsea FC,Crystal Palace,2,1,Chelsea FC,London,TRUE
+2023/2024,27/12/2023,Everton FC,Manchester City,1,3,Manchester City,Liverpool,FALSE
+2023/2024,27/12/2023,Brentford FC,Wolverhampton Wanderers,1,4,Wolverhampton Wanderers,London,FALSE
+2023/2024,28/12/2023,Brighton & Hove Albion,Tottenham Hotspur,4,2,Brighton & Hove Albion,Brighton and Hove,FALSE
+2023/2024,28/12/2023,Arsenal FC,West Ham United,0,2,West Ham United,London,TRUE
+2023/2024,30/12/2023,Crystal Palace,Brentford FC,3,1,Crystal Palace,London,FALSE
+2023/2024,30/12/2023,Aston Villa,Burnley FC,3,2,Aston Villa,Birmingham,FALSE
+2018/2019,04/02/2019,Watford FC,Fulham FC,4,1,Watford FC,Watford,FALSE
+2023/2024,30/12/2023,Wolverhampton Wanderers,Everton FC,3,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2021/2022,09/04/2022,Watford FC,Leeds United,0,3,Leeds United,Watford,FALSE
+2023/2024,30/12/2023,Manchester City,Sheffield United,2,0,Manchester City,Manchester,FALSE
+2023/2024,31/12/2023,Tottenham Hotspur,AFC Bournemouth,3,1,Tottenham Hotspur,London,FALSE
+2023/2024,31/12/2023,Fulham FC,Arsenal FC,2,1,Fulham FC,London,TRUE
+2023/2024,01/01/2024,Liverpool FC,Newcastle United,4,2,Liverpool FC,Liverpool,FALSE
+2023/2024,02/01/2024,West Ham United,Brighton & Hove Albion,0,0,Draw,London,FALSE
+2021/2022,16/04/2022,Watford FC,Brentford FC,1,2,Brentford FC,Watford,FALSE
+2020/2021,13/09/2020,West Bromwich Albion,Leicester City,0,3,Leicester City,West Bromwich,FALSE
+2023/2024,13/01/2024,Newcastle United,Manchester City,2,3,Manchester City,Newcastle Upon Tyne,FALSE
+2023/2024,14/01/2024,Everton FC,Aston Villa,0,0,Draw,Liverpool,FALSE
+2023/2024,14/01/2024,Manchester United,Tottenham Hotspur,2,2,Draw,Manchester,FALSE
+2023/2024,20/01/2024,Arsenal FC,Crystal Palace,5,0,Arsenal FC,London,TRUE
+2020/2021,26/09/2020,West Bromwich Albion,Chelsea FC,3,3,Draw,West Bromwich,FALSE
+2023/2024,21/01/2024,AFC Bournemouth,Liverpool FC,0,4,Liverpool FC,Bournemouth,FALSE
+2023/2024,21/01/2024,Sheffield United,West Ham United,2,2,Draw,Sheffield,FALSE
+2023/2024,22/01/2024,Brighton & Hove Albion,Wolverhampton Wanderers,0,0,Draw,Brighton and Hove,FALSE
+2020/2021,19/10/2020,West Bromwich Albion,Burnley FC,0,0,Draw,West Bromwich,FALSE
+2020/2021,08/11/2020,West Bromwich Albion,Tottenham Hotspur,0,1,Tottenham Hotspur,West Bromwich,FALSE
+2023/2024,30/01/2024,Fulham FC,Everton FC,0,0,Draw,London,FALSE
+2023/2024,30/01/2024,Aston Villa,Newcastle United,1,3,Newcastle United,Birmingham,FALSE
+2023/2024,30/01/2024,Crystal Palace,Sheffield United,3,2,Crystal Palace,London,FALSE
+2023/2024,31/01/2024,Tottenham Hotspur,Brentford FC,3,2,Tottenham Hotspur,London,FALSE
+2023/2024,31/01/2024,Manchester City,Burnley FC,3,1,Manchester City,Manchester,FALSE
+2023/2024,31/01/2024,Liverpool FC,Chelsea FC,4,1,Liverpool FC,Liverpool,FALSE
+2023/2024,01/02/2024,West Ham United,AFC Bournemouth,1,1,Draw,London,FALSE
+2023/2024,01/02/2024,Wolverhampton Wanderers,Manchester United,3,4,Manchester United,Wolverhampton,FALSE
+2023/2024,03/02/2024,Sheffield United,Aston Villa,0,5,Aston Villa,Sheffield,FALSE
+2023/2024,03/02/2024,Brighton & Hove Albion,Crystal Palace,4,1,Brighton & Hove Albion,Brighton and Hove,TRUE
+2020/2021,28/11/2020,West Bromwich Albion,Sheffield United,1,0,West Bromwich Albion,West Bromwich,FALSE
+2020/2021,06/12/2020,West Bromwich Albion,Crystal Palace,1,5,Crystal Palace,West Bromwich,FALSE
+2023/2024,03/02/2024,Everton FC,Tottenham Hotspur,2,2,Draw,Liverpool,FALSE
+2023/2024,04/02/2024,Arsenal FC,Liverpool FC,3,1,Arsenal FC,London,FALSE
+2023/2024,04/02/2024,AFC Bournemouth,Nottingham Forest,1,1,Draw,Bournemouth,FALSE
+2023/2024,04/02/2024,Manchester United,West Ham United,3,0,Manchester United,Manchester,FALSE
+2023/2024,04/02/2024,Chelsea FC,Wolverhampton Wanderers,2,4,Wolverhampton Wanderers,London,FALSE
+2023/2024,05/02/2024,Brentford FC,Manchester City,1,3,Manchester City,London,FALSE
+2023/2024,10/02/2024,Fulham FC,AFC Bournemouth,3,1,Fulham FC,London,FALSE
+2020/2021,20/12/2020,West Bromwich Albion,Aston Villa,0,3,Aston Villa,West Bromwich,FALSE
+2023/2024,10/02/2024,Tottenham Hotspur,Brighton & Hove Albion,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,10/02/2024,Liverpool FC,Burnley FC,3,1,Liverpool FC,Liverpool,FALSE
+2023/2024,10/02/2024,Manchester City,Everton FC,2,0,Manchester City,Manchester,FALSE
+2020/2021,29/12/2020,West Bromwich Albion,Leeds United,0,5,Leeds United,West Bromwich,FALSE
+2020/2021,02/01/2021,West Bromwich Albion,Arsenal FC,0,4,Arsenal FC,West Bromwich,FALSE
+2023/2024,11/02/2024,West Ham United,Arsenal FC,0,6,Arsenal FC,London,TRUE
+2023/2024,11/02/2024,Aston Villa,Manchester United,1,2,Manchester United,Birmingham,FALSE
+2023/2024,12/02/2024,Crystal Palace,Chelsea FC,1,3,Chelsea FC,London,TRUE
+2023/2024,17/02/2024,Newcastle United,AFC Bournemouth,2,2,Draw,Newcastle Upon Tyne,FALSE
+2023/2024,17/02/2024,Burnley FC,Arsenal FC,0,5,Arsenal FC,Burnley,FALSE
+2023/2024,17/02/2024,Fulham FC,Aston Villa,1,2,Aston Villa,London,FALSE
+2023/2024,17/02/2024,Manchester City,Chelsea FC,1,1,Draw,Manchester,FALSE
+2023/2024,17/02/2024,Brentford FC,Liverpool FC,1,4,Liverpool FC,London,FALSE
+2020/2021,26/01/2021,West Bromwich Albion,Manchester City,0,5,Manchester City,West Bromwich,FALSE
+2020/2021,30/01/2021,West Bromwich Albion,Fulham FC,2,2,Draw,West Bromwich,FALSE
+2023/2024,18/02/2024,Sheffield United,Brighton & Hove Albion,0,5,Brighton & Hove Albion,Sheffield,FALSE
+2020/2021,14/02/2021,West Bromwich Albion,Manchester United,1,1,Draw,West Bromwich,FALSE
+2023/2024,19/02/2024,Everton FC,Crystal Palace,1,1,Draw,Liverpool,FALSE
+2020/2021,27/02/2021,West Bromwich Albion,Brighton & Hove Albion,1,0,West Bromwich Albion,West Bromwich,FALSE
+2020/2021,04/03/2021,West Bromwich Albion,Everton FC,0,1,Everton FC,West Bromwich,FALSE
+2023/2024,24/02/2024,Crystal Palace,Burnley FC,3,0,Crystal Palace,London,FALSE
+2023/2024,24/02/2024,Brighton & Hove Albion,Everton FC,1,1,Draw,Brighton and Hove,FALSE
+2023/2024,24/02/2024,Manchester United,Fulham FC,1,2,Fulham FC,Manchester,FALSE
+2023/2024,24/02/2024,AFC Bournemouth,Manchester City,0,1,Manchester City,Bournemouth,FALSE
+2023/2024,24/02/2024,Arsenal FC,Newcastle United,4,1,Arsenal FC,London,FALSE
+2020/2021,07/03/2021,West Bromwich Albion,Newcastle United,0,0,Draw,West Bromwich,FALSE
+2023/2024,25/02/2024,Wolverhampton Wanderers,Sheffield United,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,26/02/2024,West Ham United,Brentford FC,4,2,West Ham United,London,FALSE
+2020/2021,12/04/2021,West Bromwich Albion,Southampton FC,3,0,West Bromwich Albion,West Bromwich,TRUE
+2023/2024,02/03/2024,Fulham FC,Brighton & Hove Albion,3,0,Fulham FC,London,FALSE
+2023/2024,02/03/2024,Brentford FC,Chelsea FC,2,2,Draw,London,TRUE
+2023/2024,02/03/2024,Tottenham Hotspur,Crystal Palace,3,1,Tottenham Hotspur,London,TRUE
+2020/2021,03/05/2021,West Bromwich Albion,Wolverhampton Wanderers,1,1,Draw,West Bromwich,TRUE
+2023/2024,02/03/2024,Everton FC,West Ham United,1,3,West Ham United,Liverpool,FALSE
+2023/2024,02/03/2024,Newcastle United,Wolverhampton Wanderers,3,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,03/03/2024,Burnley FC,AFC Bournemouth,0,2,AFC Bournemouth,Burnley,FALSE
+2023/2024,03/03/2024,Manchester City,Manchester United,3,1,Manchester City,Manchester,TRUE
+2023/2024,09/03/2024,Arsenal FC,Brentford FC,2,1,Arsenal FC,London,FALSE
+2023/2024,09/03/2024,Manchester United,Everton FC,2,0,Manchester United,Manchester,FALSE
+2020/2021,16/05/2021,West Bromwich Albion,Liverpool FC,1,2,Liverpool FC,West Bromwich,FALSE
+2020/2021,19/05/2021,West Bromwich Albion,West Ham United,1,3,West Ham United,West Bromwich,FALSE
+2023/2024,09/03/2024,AFC Bournemouth,Sheffield United,2,2,Draw,Bournemouth,FALSE
+2023/2024,10/03/2024,West Ham United,Burnley FC,2,2,Draw,London,FALSE
+2023/2024,10/03/2024,Liverpool FC,Manchester City,1,1,Draw,Liverpool,FALSE
+2018/2019,04/12/2018,West Ham United,Cardiff City,3,1,West Ham United,London,FALSE
+2023/2024,10/03/2024,Aston Villa,Tottenham Hotspur,0,4,Tottenham Hotspur,Birmingham,FALSE
+2023/2024,11/03/2024,Chelsea FC,Newcastle United,3,2,Chelsea FC,London,FALSE
+2018/2019,22/02/2019,West Ham United,Fulham FC,3,1,West Ham United,London,FALSE
+2018/2019,16/03/2019,West Ham United,Huddersfield Town,4,3,West Ham United,London,FALSE
+2020/2021,07/11/2020,West Ham United,Fulham FC,1,0,West Ham United,London,FALSE
+2023/2024,16/03/2024,Fulham FC,Tottenham Hotspur,3,0,Fulham FC,London,TRUE
+2023/2024,17/03/2024,West Ham United,Aston Villa,1,1,Draw,London,FALSE
+2023/2024,30/03/2024,Chelsea FC,Burnley FC,2,2,Draw,London,FALSE
+2020/2021,19/01/2021,West Ham United,West Bromwich Albion,2,1,West Ham United,London,FALSE
+2023/2024,30/03/2024,AFC Bournemouth,Everton FC,2,1,AFC Bournemouth,Bournemouth,FALSE
+2020/2021,08/03/2021,West Ham United,Leeds United,2,0,West Ham United,London,FALSE
+2021/2022,16/01/2022,West Ham United,Leeds United,2,3,Leeds United,London,FALSE
+2023/2024,30/03/2024,Brentford FC,Manchester United,1,1,Draw,London,FALSE
+2023/2024,30/03/2024,Newcastle United,West Ham United,4,3,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,30/03/2024,Aston Villa,Wolverhampton Wanderers,2,0,Aston Villa,Birmingham,FALSE
+2023/2024,31/03/2024,Manchester City,Arsenal FC,0,0,Draw,Manchester,FALSE
+2023/2024,31/03/2024,Liverpool FC,Brighton & Hove Albion,2,1,Liverpool FC,Liverpool,FALSE
+2023/2024,02/04/2024,AFC Bournemouth,Crystal Palace,1,0,AFC Bournemouth,Bournemouth,FALSE
+2023/2024,02/04/2024,Newcastle United,Everton FC,1,1,Draw,Newcastle Upon Tyne,FALSE
+2022/2023,10/09/2022,West Ham United,Fulham FC,3,1,West Ham United,London,FALSE
+2023/2024,02/04/2024,West Ham United,Tottenham Hotspur,1,1,Draw,London,TRUE
+2023/2024,02/04/2024,Burnley FC,Wolverhampton Wanderers,1,1,Draw,Burnley,FALSE
+2023/2024,03/04/2024,Sheffield United,Arsenal FC,0,6,Arsenal FC,Sheffield,FALSE
+2023/2024,03/04/2024,Manchester City,Aston Villa,4,1,Manchester City,Manchester,FALSE
+2023/2024,03/04/2024,Brentford FC,Brighton & Hove Albion,0,0,Draw,London,FALSE
+2022/2023,25/02/2023,West Ham United,Nottingham Forest,4,0,West Ham United,London,FALSE
+2023/2024,04/04/2024,Chelsea FC,Manchester United,4,3,Chelsea FC,London,FALSE
+2023/2024,04/04/2024,Liverpool FC,Sheffield United,3,1,Liverpool FC,Liverpool,FALSE
+2022/2023,21/05/2023,West Ham United,Leeds United,3,1,West Ham United,London,FALSE
+2023/2024,06/04/2024,Brighton & Hove Albion,Arsenal FC,0,3,Arsenal FC,Brighton and Hove,FALSE
+2023/2024,12/11/2023,West Ham United,Nottingham Forest,3,2,West Ham United,London,FALSE
+2023/2024,06/04/2024,Everton FC,Burnley FC,1,0,Everton FC,Liverpool,FALSE
+2023/2024,06/04/2024,Crystal Palace,Manchester City,2,4,Manchester City,London,FALSE
+2023/2024,06/04/2024,Fulham FC,Newcastle United,0,1,Newcastle United,London,FALSE
+2023/2024,06/04/2024,Wolverhampton Wanderers,West Ham United,1,2,West Ham United,Wolverhampton,FALSE
+2023/2024,07/04/2024,Sheffield United,Chelsea FC,2,2,Draw,Sheffield,FALSE
+2023/2024,07/04/2024,Manchester United,Liverpool FC,2,2,Draw,Manchester,TRUE
+2023/2024,14/04/2024,West Ham United,Fulham FC,0,2,Fulham FC,London,FALSE
+2023/2024,13/04/2024,Burnley FC,Brighton & Hove Albion,1,1,Draw,Burnley,FALSE
+2023/2024,11/05/2024,West Ham United,Luton Town,3,1,West Ham United,London,FALSE
+2023/2024,13/04/2024,AFC Bournemouth,Manchester United,2,2,Draw,Bournemouth,FALSE
+2023/2024,13/04/2024,Brentford FC,Sheffield United,2,0,Brentford FC,London,FALSE
+2023/2024,13/04/2024,Newcastle United,Tottenham Hotspur,4,0,Newcastle United,Newcastle Upon Tyne,FALSE
+2018/2019,25/11/2018,Wolverhampton Wanderers,Huddersfield Town,0,2,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,14/04/2024,Arsenal FC,Aston Villa,0,2,Aston Villa,London,FALSE
+2023/2024,14/04/2024,Liverpool FC,Crystal Palace,0,1,Crystal Palace,Liverpool,FALSE
+2018/2019,03/02/2019,Wolverhampton Wanderers,Cardiff City,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,15/04/2024,Chelsea FC,Everton FC,6,0,Chelsea FC,London,FALSE
+2023/2024,20/04/2024,Wolverhampton Wanderers,Arsenal FC,0,2,Arsenal FC,Wolverhampton,FALSE
+2020/2021,04/10/2020,Wolverhampton Wanderers,Fulham FC,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,20/04/2024,Sheffield United,Burnley FC,1,4,Burnley FC,Sheffield,FALSE
+2020/2021,16/01/2021,Wolverhampton Wanderers,West Bromwich Albion,2,3,West Bromwich Albion,Wolverhampton,TRUE
+2023/2024,21/04/2024,Fulham FC,Liverpool FC,1,3,Liverpool FC,London,FALSE
+2020/2021,19/02/2021,Wolverhampton Wanderers,Leeds United,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,21/04/2024,Crystal Palace,West Ham United,5,2,Crystal Palace,London,TRUE
+2023/2024,23/04/2024,Arsenal FC,Chelsea FC,5,0,Arsenal FC,London,TRUE
+2023/2024,24/04/2024,Wolverhampton Wanderers,AFC Bournemouth,0,1,AFC Bournemouth,Wolverhampton,FALSE
+2023/2024,24/04/2024,Everton FC,Liverpool FC,2,0,Everton FC,Liverpool,TRUE
+2023/2024,24/04/2024,Crystal Palace,Newcastle United,2,0,Crystal Palace,London,FALSE
+2023/2024,24/04/2024,Manchester United,Sheffield United,4,2,Manchester United,Manchester,FALSE
+2023/2024,25/04/2024,Brighton & Hove Albion,Manchester City,0,4,Manchester City,Brighton and Hove,FALSE
+2021/2022,18/09/2021,Wolverhampton Wanderers,Brentford FC,0,2,Brentford FC,Wolverhampton,FALSE
+2023/2024,27/04/2024,Manchester United,Burnley FC,1,1,Draw,Manchester,FALSE
+2023/2024,27/04/2024,Aston Villa,Chelsea FC,2,2,Draw,Birmingham,FALSE
+2023/2024,27/04/2024,Fulham FC,Crystal Palace,1,1,Draw,London,TRUE
+2023/2024,27/04/2024,West Ham United,Liverpool FC,2,2,Draw,London,FALSE
+2021/2022,18/03/2022,Wolverhampton Wanderers,Leeds United,2,3,Leeds United,Wolverhampton,FALSE
+2023/2024,27/04/2024,Newcastle United,Sheffield United,5,1,Newcastle United,Newcastle Upon Tyne,FALSE
+2023/2024,28/04/2024,Tottenham Hotspur,Arsenal FC,2,3,Arsenal FC,London,TRUE
+2023/2024,28/04/2024,AFC Bournemouth,Brighton & Hove Albion,3,0,AFC Bournemouth,Bournemouth,FALSE
+2022/2023,13/08/2022,Wolverhampton Wanderers,Fulham FC,0,0,Draw,Wolverhampton,FALSE
+2023/2024,02/05/2024,Chelsea FC,Tottenham Hotspur,2,0,Chelsea FC,London,TRUE
+2022/2023,15/10/2022,Wolverhampton Wanderers,Nottingham Forest,1,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,04/05/2024,Arsenal FC,AFC Bournemouth,3,0,Arsenal FC,London,FALSE
+2022/2023,18/03/2023,Wolverhampton Wanderers,Leeds United,2,4,Leeds United,Wolverhampton,FALSE
+2023/2024,04/05/2024,Burnley FC,Newcastle United,1,4,Newcastle United,Burnley,FALSE
+2022/2023,15/04/2023,Wolverhampton Wanderers,Brentford FC,2,0,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,04/05/2024,Manchester City,Wolverhampton Wanderers,5,1,Manchester City,Manchester,FALSE
+2023/2024,05/05/2024,Brighton & Hove Albion,Aston Villa,1,0,Brighton & Hove Albion,Brighton and Hove,FALSE
+2023/2024,05/05/2024,Liverpool FC,Tottenham Hotspur,4,2,Liverpool FC,Liverpool,FALSE
+2023/2024,05/05/2024,Chelsea FC,West Ham United,5,0,Chelsea FC,London,TRUE
+2023/2024,01/12/2023,Wolverhampton Wanderers,Nottingham Forest,1,1,Draw,Wolverhampton,FALSE
+2023/2024,11/05/2024,Newcastle United,Brighton & Hove Albion,1,1,Draw,Newcastle Upon Tyne,FALSE
+2023/2024,11/05/2024,Tottenham Hotspur,Burnley FC,2,1,Tottenham Hotspur,London,FALSE
+2023/2024,10/02/2024,Wolverhampton Wanderers,Brentford FC,0,2,Brentford FC,Wolverhampton,FALSE
+2023/2024,11/05/2024,Wolverhampton Wanderers,Crystal Palace,1,3,Crystal Palace,Wolverhampton,FALSE
+2023/2024,09/03/2024,Wolverhampton Wanderers,Fulham FC,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,11/05/2024,Fulham FC,Manchester City,0,4,Manchester City,London,FALSE
+2023/2024,11/05/2024,Everton FC,Sheffield United,1,0,Everton FC,Liverpool,FALSE
+2023/2024,12/05/2024,Manchester United,Arsenal FC,0,1,Arsenal FC,Manchester,FALSE
+2023/2024,13/05/2024,Aston Villa,Liverpool FC,3,3,Draw,Birmingham,FALSE
+2023/2024,14/05/2024,Tottenham Hotspur,Manchester City,0,2,Manchester City,London,FALSE
+2023/2024,15/05/2024,Brighton & Hove Albion,Chelsea FC,1,2,Chelsea FC,Brighton and Hove,FALSE
+2023/2024,15/05/2024,Manchester United,Newcastle United,3,2,Manchester United,Manchester,FALSE
+2023/2024,19/05/2024,Chelsea FC,AFC Bournemouth,2,1,Chelsea FC,London,FALSE
+2023/2024,19/05/2024,Crystal Palace,Aston Villa,5,0,Crystal Palace,London,FALSE
+2023/2024,19/05/2024,Arsenal FC,Everton FC,2,1,Arsenal FC,London,FALSE
+2023/2024,27/04/2024,Wolverhampton Wanderers,Luton Town,2,1,Wolverhampton Wanderers,Wolverhampton,FALSE
+2023/2024,19/05/2024,Brighton & Hove Albion,Manchester United,0,2,Manchester United,Brighton and Hove,FALSE
+2023/2024,19/05/2024,Brentford FC,Newcastle United,2,4,Newcastle United,London,FALSE
+2023/2024,19/05/2024,Burnley FC,Nottingham Forest,1,2,Nottingham Forest,Burnley,FALSE
+2023/2024,19/05/2024,Sheffield United,Tottenham Hotspur,0,3,Tottenham Hotspur,Sheffield,FALSE
+2023/2024,19/05/2024,Manchester City,West Ham United,3,1,Manchester City,Manchester,FALSE
+2023/2024,19/05/2024,Liverpool FC,Wolverhampton Wanderers,2,0,Liverpool FC,Liverpool,FALSE
+2023/2024,05/06/2024,Crystal Palace,Manchester United,4,0,Crystal Palace,London,FALSE
